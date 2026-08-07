@@ -1,0 +1,202 @@
+{
+ "league": "championship",
+ "league_name": "Championship",
+ "season": "2026-27",
+ "generated_at": "2026-08-07T14:18:39Z",
+ "model_version": "v0",
+ "anchor_weight": 0.8,
+ "matches": [
+  {
+   "kickoff": "2026-08-14T19:00:00Z",
+   "home": "Wolverhampton Wanderers",
+   "away": "Blackburn Rovers",
+   "probs": {
+    "home": 0.5973,
+    "draw": 0.2351,
+    "away": 0.1676
+   },
+   "market_anchored": true,
+   "model_backed": true,
+   "ou25": {
+    "over": 0.502,
+    "under": 0.498
+   }
+  },
+  {
+   "kickoff": "2026-08-15T11:30:00Z",
+   "home": "Bolton Wanderers",
+   "away": "Preston North End",
+   "probs": {
+    "home": 0.396,
+    "draw": 0.2859,
+    "away": 0.3181
+   },
+   "market_anchored": true,
+   "model_backed": true,
+   "ou25": {
+    "over": 0.4578,
+    "under": 0.5422
+   }
+  },
+  {
+   "kickoff": "2026-08-15T14:00:00Z",
+   "home": "Bristol City",
+   "away": "Millwall",
+   "probs": {
+    "home": 0.369,
+    "draw": 0.2836,
+    "away": 0.3475
+   },
+   "market_anchored": true,
+   "model_backed": true,
+   "ou25": {
+    "over": 0.4657,
+    "under": 0.5343
+   }
+  },
+  {
+   "kickoff": "2026-08-15T14:00:00Z",
+   "home": "Charlton Athletic",
+   "away": "Derby County",
+   "probs": {
+    "home": 0.3482,
+    "draw": 0.2898,
+    "away": 0.362
+   },
+   "market_anchored": true,
+   "model_backed": true,
+   "ou25": {
+    "over": 0.4491,
+    "under": 0.5509
+   }
+  },
+  {
+   "kickoff": "2026-08-15T14:00:00Z",
+   "home": "Middlesbrough",
+   "away": "Lincoln City",
+   "probs": {
+    "home": 0.7005,
+    "draw": 0.1886,
+    "away": 0.1109
+   },
+   "market_anchored": true,
+   "model_backed": false,
+   "ou25": {
+    "over": 0.5725,
+    "under": 0.4275
+   }
+  },
+  {
+   "kickoff": "2026-08-15T14:00:00Z",
+   "home": "Norwich City",
+   "away": "West Bromwich Albion",
+   "probs": {
+    "home": 0.4645,
+    "draw": 0.2714,
+    "away": 0.2641
+   },
+   "market_anchored": true,
+   "model_backed": true,
+   "ou25": {
+    "over": 0.4838,
+    "under": 0.5162
+   }
+  },
+  {
+   "kickoff": "2026-08-15T14:00:00Z",
+   "home": "Portsmouth",
+   "away": "Queens Park Rangers",
+   "probs": {
+    "home": 0.4279,
+    "draw": 0.2727,
+    "away": 0.2994
+   },
+   "market_anchored": true,
+   "model_backed": true,
+   "ou25": {
+    "over": 0.5132,
+    "under": 0.4868
+   }
+  },
+  {
+   "kickoff": "2026-08-15T14:00:00Z",
+   "home": "Stoke City",
+   "away": "Swansea City",
+   "probs": {
+    "home": 0.381,
+    "draw": 0.2879,
+    "away": 0.3312
+   },
+   "market_anchored": true,
+   "model_backed": true,
+   "ou25": {
+    "over": 0.4425,
+    "under": 0.5575
+   }
+  },
+  {
+   "kickoff": "2026-08-15T16:30:00Z",
+   "home": "Sheffield United",
+   "away": "Birmingham City",
+   "probs": {
+    "home": 0.3985,
+    "draw": 0.2861,
+    "away": 0.3155
+   },
+   "market_anchored": true,
+   "model_backed": true,
+   "ou25": {
+    "over": 0.4733,
+    "under": 0.5267
+   }
+  },
+  {
+   "kickoff": "2026-08-16T12:30:00Z",
+   "home": "Watford",
+   "away": "Southampton",
+   "probs": {
+    "home": 0.2732,
+    "draw": 0.267,
+    "away": 0.4598
+   },
+   "market_anchored": true,
+   "model_backed": true,
+   "ou25": {
+    "over": 0.5396,
+    "under": 0.4604
+   }
+  },
+  {
+   "kickoff": "2026-08-16T15:00:00Z",
+   "home": "Burnley",
+   "away": "West Ham United",
+   "probs": {
+    "home": 0.3329,
+    "draw": 0.2715,
+    "away": 0.3956
+   },
+   "market_anchored": true,
+   "model_backed": true,
+   "ou25": {
+    "over": 0.537,
+    "under": 0.463
+   }
+  },
+  {
+   "kickoff": "2026-08-17T19:00:00Z",
+   "home": "Cardiff City",
+   "away": "Wrexham AFC",
+   "probs": {
+    "home": 0.3787,
+    "draw": 0.2702,
+    "away": 0.3511
+   },
+   "market_anchored": true,
+   "model_backed": true,
+   "ou25": {
+    "over": 0.5479,
+    "under": 0.4521
+   }
+  }
+ ]
+}

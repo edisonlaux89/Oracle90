@@ -1,0 +1,40 @@
+#!/bin/sh
+# Oracle90 pre-commit secret scan (see CLAUDE.md iron rule).
+# Blocks staged content that looks like a secret. Never bypass with --no-verify.
+
+fail=0
+
+# The hook carries its own scan patterns — exclude it from content scans.
+staged() { git diff --cached -U0 -- . ':(exclude).githooks/pre-commit'; }
+
+# 1. Block secret-shaped filenames outright
+if git diff --cached --name-only | grep -Ei '(^|/)(\.env|config\.json|secrets\.|credentials|.*\.(key|pem|p12|pfx))'; then
+  echo "BLOCKED: secret-shaped filename staged (see list above)." >&2
+  fail=1
+fi
+
+# 2. Scan staged diff for key/token patterns
+patterns='(api[_-]?key|apikey|secret|token|passw(or)?d|private[_-]?key)[[:space:]]*[:=][[:space:]]*["'\''][A-Za-z0-9_/+-]{12,}'
+if staged | grep -E '^\+' | grep -Eiq "$patterns"; then
+  echo "BLOCKED: staged diff contains a key/token-shaped assignment:" >&2
+  staged | grep -E '^\+' | grep -Ei "$patterns" | head -5 >&2
+  fail=1
+fi
+
+# 3. Long high-entropy-ish literals (rough heuristic: 32+ char base64/hex runs)
+if staged | grep -E '^\+' | grep -Eq '["'\''][A-Za-z0-9+/=]{40,}["'\'']'; then
+  echo "WARNING: staged diff contains a long opaque string literal — confirm it is not a credential:" >&2
+  staged | grep -E '^\+' | grep -E '["'\''][A-Za-z0-9+/=]{40,}["'\'']' | head -3 >&2
+fi
+
+# 4. Internal infra details (tailnet 100.x IPs, data-box paths)
+if staged | grep -E '^\+' | grep -Eq '(100\.[0-9]+\.[0-9]+\.[0-9]+|C:\\\\footy|Davy@)'; then
+  echo "BLOCKED: staged diff contains internal infra details (IP / box path / remote user)." >&2
+  fail=1
+fi
+
+if [ "$fail" -ne 0 ]; then
+  echo "Commit rejected by Oracle90 secret scan. Remove the offending content and retry." >&2
+  exit 1
+fi
+exit 0
