@@ -3,6 +3,7 @@ import { findMatch, kickoffDay, kickoffTime, pct } from "../data";
 import { ProbBar } from "../components/ProbBar";
 import { REPO_URL } from "../components/Layout";
 import { useI18n } from "../i18n";
+import { teamZh, zhClubNames } from "../teams-zh";
 
 export function MatchPage() {
   const { league = "", slug = "" } = useParams();
@@ -27,8 +28,11 @@ export function MatchPage() {
   const { ou25 } = match;
   const leagueName =
     s.home.leagues[l.league as keyof typeof s.home.leagues] ?? l.league_name;
-  const previewText =
+  const name = (n: string) => (lang === "zh" ? teamZh(n) : n);
+  const rawPreview =
     lang === "zh" ? (match.preview_zh ?? match.preview) : match.preview;
+  const previewText =
+    lang === "zh" && rawPreview ? zhClubNames(rawPreview) : rawPreview;
 
   return (
     <div className="pt-10 sm:pt-14">
@@ -45,9 +49,9 @@ export function MatchPage() {
           {kickoffTime(match.kickoff)}
         </p>
         <h1 className="mt-2 font-display text-3xl font-bold leading-tight tracking-tight sm:text-4xl">
-          {match.home}
+          {name(match.home)}
           <span className="mx-3 text-muted">v</span>
-          {match.away}
+          {name(match.away)}
         </h1>
         <p className="mt-3 font-mono text-xs text-muted">
           {s.match.publishedProof} ·{" "}

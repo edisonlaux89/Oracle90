@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import { useI18n } from "../i18n";
+import { teamZh } from "../teams-zh";
 import {
   LEAGUES,
   kickoffDay,
@@ -23,8 +24,9 @@ function groupByDay(matches: Match[], locale: string): [string, Match[]][] {
 }
 
 function MatchRow({ league, match }: { league: LeagueData; match: Match }) {
-  const { s } = useI18n();
+  const { lang, s } = useI18n();
   const { probs } = match;
+  const name = (n: string) => (lang === "zh" ? teamZh(n) : n);
   return (
     <Link
       to={`/match/${league.league}/${matchSlug(match)}`}
@@ -34,8 +36,8 @@ function MatchRow({ league, match }: { league: LeagueData; match: Match }) {
         {kickoffTime(match.kickoff)}
       </div>
       <div className="min-w-0">
-        <div className="truncate font-medium">{match.home}</div>
-        <div className="truncate text-muted">{match.away}</div>
+        <div className="truncate font-medium">{name(match.home)}</div>
+        <div className="truncate text-muted">{name(match.away)}</div>
       </div>
       <div className="col-span-2 sm:col-span-1">
         <div className="flex h-2 w-full overflow-hidden rounded-full">
