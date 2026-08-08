@@ -77,6 +77,24 @@ export function MatchPage() {
         </div>
       </div>
 
+      {match.preview && (
+        <div className="mt-4 max-w-2xl rounded-2xl bg-surface p-6 sm:p-8">
+          <div className="flex items-baseline justify-between gap-4">
+            <h2 className="font-display text-sm font-medium text-muted">
+              Match preview
+            </h2>
+            <span className="rounded-full bg-raised px-2.5 py-0.5 text-xs text-muted">
+              AI-generated
+            </span>
+          </div>
+          <p className="mt-4 leading-relaxed text-text/90">{match.preview}</p>
+          <p className="mt-4 text-xs text-muted">
+            Written by a language model from the numbers on this page and
+            historical results only.
+          </p>
+        </div>
+      )}
+
       <p className="mt-6 max-w-2xl text-sm leading-relaxed text-muted">
         Probabilities come from a market-anchored statistical ensemble. See the{" "}
         <Link

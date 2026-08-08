@@ -15,6 +15,8 @@ export interface Match {
   market_anchored: boolean;
   model_backed: boolean;
   ou25: { over: number; under: number };
+  preview?: string;
+  preview_generated_at?: string;
 }
 
 export interface LeagueData {
