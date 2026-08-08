@@ -1,7 +1,8 @@
 import { Link, NavLink, Outlet, useLocation } from "react-router-dom";
 import { useEffect } from "react";
+import { useI18n } from "../i18n";
 
-const REPO_URL = "https://github.com/edisonlaux89/Oracle90";
+export const REPO_URL = "https://github.com/edisonlaux89/Oracle90";
 
 function navClass({ isActive }: { isActive: boolean }): string {
   return isActive
@@ -11,6 +12,7 @@ function navClass({ isActive }: { isActive: boolean }): string {
 
 export function Layout() {
   const { pathname } = useLocation();
+  const { lang, s, setLang } = useI18n();
 
   useEffect(() => {
     window.scrollTo(0, 0);
@@ -30,19 +32,25 @@ export function Layout() {
               ORACLE<span className="text-lime">90</span>
             </span>
           </Link>
-          <nav className="flex items-center gap-4 text-sm font-medium sm:gap-7">
+          <nav className="flex items-center gap-4 text-sm font-medium sm:gap-6">
             <NavLink to="/" end className={navClass}>
-              Predictions
+              {s.nav.predictions}
             </NavLink>
             <NavLink
               to="/track-record"
-              className={(s) => `whitespace-nowrap ${navClass(s)}`}
+              className={(st) => `whitespace-nowrap ${navClass(st)}`}
             >
-              Track record
+              {s.nav.trackRecord}
             </NavLink>
             <NavLink to="/methodology" className={navClass}>
-              Methodology
+              {s.nav.methodology}
             </NavLink>
+            <button
+              onClick={() => setLang(lang === "en" ? "zh" : "en")}
+              className="rounded-full bg-surface px-3 py-1 text-xs font-medium text-muted transition-colors hover:text-text active:scale-[0.98]"
+            >
+              {s.nav.toggle}
+            </button>
           </nav>
         </div>
       </header>
@@ -61,24 +69,21 @@ export function Layout() {
               </span>
             </div>
             <p className="mt-3 text-sm leading-relaxed text-muted">
-              Predictions are logged publicly on{" "}
+              {s.footer.logged1}
               <a
                 href={REPO_URL}
                 target="_blank"
                 rel="noreferrer"
                 className="text-text underline decoration-line underline-offset-4 hover:decoration-lime"
               >
-                GitHub
-              </a>{" "}
-              before kickoff. The commit history is the proof.
+                {s.footer.logged2}
+              </a>
+              {s.footer.logged3}
             </p>
           </div>
           <div className="max-w-sm text-sm leading-relaxed text-muted">
-            <p>
-              Oracle90 publishes statistical forecasts for informational and
-              educational purposes. It does not offer betting advice.
-            </p>
-            <p className="mt-3">Built by Davy.</p>
+            <p>{s.footer.disclaimer}</p>
+            <p className="mt-3">{s.footer.builtBy}</p>
           </div>
         </div>
       </footer>

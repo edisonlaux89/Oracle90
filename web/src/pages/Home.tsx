@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
+import { useI18n } from "../i18n";
 import {
   LEAGUES,
   kickoffDay,
@@ -10,19 +11,10 @@ import {
   type Match,
 } from "../data";
 
-function updatedDate(iso: string): string {
-  return new Date(iso).toLocaleDateString("en-GB", {
-    day: "numeric",
-    month: "short",
-    year: "numeric",
-    timeZone: "Europe/London",
-  });
-}
-
-function groupByDay(matches: Match[]): [string, Match[]][] {
+function groupByDay(matches: Match[], locale: string): [string, Match[]][] {
   const groups = new Map<string, Match[]>();
   for (const m of matches) {
-    const day = kickoffDay(m.kickoff);
+    const day = kickoffDay(m.kickoff, locale);
     const list = groups.get(day) ?? [];
     list.push(m);
     groups.set(day, list);
@@ -31,6 +23,7 @@ function groupByDay(matches: Match[]): [string, Match[]][] {
 }
 
 function MatchRow({ league, match }: { league: LeagueData; match: Match }) {
+  const { s } = useI18n();
   const { probs } = match;
   return (
     <Link
@@ -51,9 +44,15 @@ function MatchRow({ league, match }: { league: LeagueData; match: Match }) {
           <div className="prob-seg bg-away" style={{ width: pct(probs.away) }} />
         </div>
         <div className="mt-1.5 flex justify-between font-mono text-xs text-muted">
-          <span>H {pct(probs.home)}</span>
-          <span>D {pct(probs.draw)}</span>
-          <span>A {pct(probs.away)}</span>
+          <span>
+            {s.home.h} {pct(probs.home)}
+          </span>
+          <span>
+            {s.home.d} {pct(probs.draw)}
+          </span>
+          <span>
+            {s.home.a} {pct(probs.away)}
+          </span>
         </div>
       </div>
     </Link>
@@ -62,22 +61,38 @@ function MatchRow({ league, match }: { league: LeagueData; match: Match }) {
 
 export function Home() {
   const [active, setActive] = useState(0);
+  const { s, locale } = useI18n();
   const league = LEAGUES[active];
+
+  const updated = new Date(league.generated_at).toLocaleDateString(locale, {
+    day: "numeric",
+    month: "short",
+    year: "numeric",
+    timeZone: "Europe/London",
+  });
 
   return (
     <div>
       <section className="pt-14 sm:pt-20">
         <h1 className="max-w-2xl font-display text-4xl font-bold leading-tight tracking-tight sm:text-5xl">
-          Match probabilities, published before kickoff.
+          {s.home.h1}
         </h1>
         <p className="mt-4 max-w-xl text-base leading-relaxed text-muted">
-          Statistical forecasts for the Premier League and Championship, logged
-          to a public GitHub record before every match starts.
+          {s.home.sub}
         </p>
         <p className="mt-5 font-mono text-xs text-muted">
-          Model {league.model_version} · updated{" "}
-          {updatedDate(league.generated_at)}
+          {s.home.model} {league.model_version} · {s.home.updated} {updated}
         </p>
+        <ul className="mt-6 flex max-w-3xl flex-col gap-2 border-l-2 border-lime pl-4 text-sm text-muted sm:flex-row sm:gap-6 sm:border-l-0 sm:pl-0">
+          {s.home.stats.map((line) => (
+            <li
+              key={line}
+              className="sm:border-l-2 sm:border-lime sm:pl-3"
+            >
+              {line}
+            </li>
+          ))}
+        </ul>
       </section>
 
       <section className="mt-10">
@@ -92,13 +107,14 @@ export function Home() {
                   : "bg-surface text-muted hover:text-text"
               }`}
             >
-              {l.league_name}
+              {s.home.leagues[l.league as keyof typeof s.home.leagues] ??
+                l.league_name}
             </button>
           ))}
         </div>
 
         <div className="mt-6">
-          {groupByDay(league.matches).map(([day, matches]) => (
+          {groupByDay(league.matches, locale).map(([day, matches]) => (
             <div key={day} className="mb-8">
               <h2 className="border-b border-line pb-2 font-display text-sm font-medium text-muted">
                 {day}
@@ -112,10 +128,14 @@ export function Home() {
           ))}
         </div>
 
-        <p className="text-sm text-muted">
-          Bars show home, draw and away probability. Open a match for the full
-          breakdown.
-        </p>
+        <p className="text-sm text-muted">{s.home.barsNote}</p>
+      </section>
+
+      <section className="mt-12 max-w-2xl rounded-2xl bg-surface p-6">
+        <h2 className="font-display text-sm font-medium text-text">
+          {s.home.eduTitle}
+        </h2>
+        <p className="mt-2 text-sm leading-relaxed text-muted">{s.home.edu}</p>
       </section>
     </div>
   );

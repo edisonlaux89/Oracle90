@@ -17,6 +17,8 @@ export interface Match {
   ou25: { over: number; under: number };
   preview?: string;
   preview_generated_at?: string;
+  preview_zh?: string;
+  preview_zh_generated_at?: string;
 }
 
 export interface LeagueData {
@@ -53,8 +55,8 @@ export function findMatch(
   return match ? { league: l, match } : undefined;
 }
 
-export function kickoffDay(iso: string): string {
-  return new Date(iso).toLocaleDateString("en-GB", {
+export function kickoffDay(iso: string, locale = "en-GB"): string {
+  return new Date(iso).toLocaleDateString(locale, {
     weekday: "long",
     day: "numeric",
     month: "long",
