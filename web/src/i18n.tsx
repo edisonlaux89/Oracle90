@@ -247,15 +247,21 @@ interface I18n {
 
 const I18nContext = createContext<I18n | null>(null);
 
+const STORAGE_KEY = "oracle90-lang";
+
 export function I18nProvider({ children }: { children: React.ReactNode }) {
-  const [lang, setLangState] = useState<Lang>(() => {
-    const saved = localStorage.getItem("oracle90-lang");
-    return saved === "zh" ? "zh" : "en";
-  });
+  // Always start in English: pages are prerendered in English, so reading the
+  // saved language during the first render would break hydration. The stored
+  // preference is applied in the effect below, after hydration.
+  const [lang, setLangState] = useState<Lang>("en");
+
+  useEffect(() => {
+    if (localStorage.getItem(STORAGE_KEY) === "zh") setLangState("zh");
+  }, []);
 
   const setLang = useCallback((l: Lang) => {
     setLangState(l);
-    localStorage.setItem("oracle90-lang", l);
+    localStorage.setItem(STORAGE_KEY, l);
   }, []);
 
   useEffect(() => {

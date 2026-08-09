@@ -3,11 +3,24 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- seo:start — replaced per route by scripts/prerender.mjs; the block below is the dev-server default -->
     <title>Oracle90 · Football match probabilities</title>
     <meta
       name="description"
       content="Statistical match probabilities for the Premier League and Championship, committed to a public GitHub record before every kickoff."
     />
+    <link rel="canonical" href="https://oracle90.com/" />
+    <meta property="og:title" content="Oracle90" />
+    <meta
+      property="og:description"
+      content="Football match probabilities, published before kickoff. Logged publicly on GitHub."
+    />
+    <meta property="og:image" content="https://oracle90.com/og.png" />
+    <meta property="og:url" content="https://oracle90.com/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Oracle90" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <!-- seo:end -->
     <meta name="theme-color" content="#0B1220" />
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
     <link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png" />
@@ -16,17 +29,9 @@
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
     <meta name="apple-mobile-web-app-title" content="Oracle90" />
-    <meta property="og:title" content="Oracle90" />
-    <meta
-      property="og:description"
-      content="Football match probabilities, published before kickoff. Logged publicly on GitHub."
-    />
-    <meta property="og:image" content="https://oracle90.com/og.png" />
-    <meta property="og:type" content="website" />
-    <meta name="twitter:card" content="summary_large_image" />
   </head>
   <body>
-    <div id="root"></div>
+    <div id="root"><!--app-html--></div>
     <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>

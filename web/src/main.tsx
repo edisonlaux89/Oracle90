@@ -1,6 +1,6 @@
 import { StrictMode } from "react";
-import { createRoot } from "react-dom/client";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { createRoot, hydrateRoot } from "react-dom/client";
+import { BrowserRouter } from "react-router-dom";
 import "@fontsource/space-grotesk/500.css";
 import "@fontsource/space-grotesk/700.css";
 import "@fontsource/inter/400.css";
@@ -8,27 +8,22 @@ import "@fontsource/inter/500.css";
 import "@fontsource/jetbrains-mono/400.css";
 import "@fontsource/jetbrains-mono/600.css";
 import "./index.css";
-import { I18nProvider } from "./i18n";
-import { Layout } from "./components/Layout";
-import { Home } from "./pages/Home";
-import { MatchPage } from "./pages/MatchPage";
-import { TrackRecord } from "./pages/TrackRecord";
-import { Methodology } from "./pages/Methodology";
+import { App } from "./App";
 
-createRoot(document.getElementById("root")!).render(
+const root = document.getElementById("root")!;
+
+const tree = (
   <StrictMode>
-    <I18nProvider>
-      <BrowserRouter>
-        <Routes>
-        <Route element={<Layout />}>
-          <Route path="/" element={<Home />} />
-          <Route path="/match/:league/:slug" element={<MatchPage />} />
-          <Route path="/track-record" element={<TrackRecord />} />
-          <Route path="/methodology" element={<Methodology />} />
-          <Route path="*" element={<Home />} />
-        </Route>
-        </Routes>
-      </BrowserRouter>
-    </I18nProvider>
-  </StrictMode>,
+    <BrowserRouter>
+      <App />
+    </BrowserRouter>
+  </StrictMode>
 );
+
+// Prerendered pages ship server-rendered markup inside #root; hydrate those
+// instead of throwing the DOM away. Empty #root means an un-prerendered path.
+if (root.firstElementChild) {
+  hydrateRoot(root, tree);
+} else {
+  createRoot(root).render(tree);
+}
