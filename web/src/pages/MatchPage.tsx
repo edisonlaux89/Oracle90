@@ -54,7 +54,7 @@ export function MatchPage() {
           {name(match.away)}
         </h1>
         <p className="mt-3 font-mono text-xs text-muted">
-          {s.match.publishedProof} ·{" "}
+          {s.match.publishedProof} {l.model_version} ·{" "}
           <a
             href={`${REPO_URL}/commits/main/web/data/${l.league}.json`}
             target="_blank"

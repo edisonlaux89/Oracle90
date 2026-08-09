@@ -50,7 +50,7 @@ const STRINGS = {
       aiGenerated: "AI-generated",
       provenance:
         "Written by a language model from the numbers on this page and historical results only.",
-      publishedProof: "Published before kickoff · model v0",
+      publishedProof: "Published before kickoff · model",
       githubRecord: "View the GitHub record",
       methodNote1: "Probabilities come from a market-anchored statistical ensemble. See the ",
       methodNote2: "methodology",
@@ -163,7 +163,7 @@ const STRINGS = {
       preview: "賽前分析",
       aiGenerated: "AI 生成",
       provenance: "由語言模型根據本頁數字與歷史賽果撰寫。",
-      publishedProof: "於開賽前發佈．模型 v0",
+      publishedProof: "於開賽前發佈．模型",
       githubRecord: "查看 GitHub 紀錄",
       methodNote1: "機率來自市場錨定的統計合奏模型。產生與驗證方式見",
       methodNote2: "方法論",
