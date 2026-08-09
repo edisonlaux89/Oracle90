@@ -80,7 +80,7 @@ const STRINGS = {
         {
           title: "How the model works",
           paras: [
-            "The forecasts come from an ensemble of two parts. The first is a statistical model built on team scoring rates and strength ratings, in the family of Dixon and Coles style Poisson models combined with Elo ratings, trained on more than a decade of historical results.",
+            "The forecasts come from an ensemble of two parts. The first is a statistical model built on team scoring rates, shots on target and strength ratings, in the family of Dixon and Coles style Poisson models combined with Elo ratings, trained on more than a decade of historical results. Since model v2, one of its rating tracks also follows market-implied team strength derived from the closing odds of past matches, so part of the market's judgement enters the model itself; we say so here because you would not be able to tell from the outputs.",
             "The second is the market consensus. Betting markets aggregate the judgement of thousands of participants and are the strongest known public predictor of football results. Our published probabilities anchor the statistical model to that consensus. This is standard practice in the industry: Opta, for example, has said publicly that its match predictions use market odds as an input.",
             "We disclose the blend openly. The current published forecasts weight the market consensus at 0.8 and the pure statistical model at 0.2. When the weighting changes, the version number changes with it.",
           ],
@@ -95,7 +95,7 @@ const STRINGS = {
           title: "Known limitations",
           paras: [
             "The model is least reliable in the first weeks of a season, when current-season data is thinnest. Newly promoted clubs carry extra uncertainty because they have little recent history in the top two divisions.",
-            "The statistical model knows nothing about injuries, transfers, squad rotation or managerial changes. That information reaches the forecasts only indirectly, through the market consensus.",
+            "The statistical model knows nothing about injuries, transfers, squad rotation or managerial changes. That information reaches the forecasts only indirectly, through the market consensus anchor and the market-informed rating track.",
             "Probabilities describe long-run frequencies. Any single match can go any way; an upset does not mean the model is broken. Judge us on the calibration shown on the track record page, not on one result.",
           ],
         },
@@ -191,7 +191,7 @@ const STRINGS = {
         {
           title: "模型如何運作",
           paras: [
-            "預測來自兩個部分組成的合奏模型。第一部分是統計模型，以球隊得分率與實力評分為基礎，屬於 Dixon 與 Coles 一系的 Poisson 模型，結合 Elo 評分，以超過十年的歷史賽果訓練而成。",
+            "預測來自兩個部分組成的合奏模型。第一部分是統計模型，以球隊得分率、射正次數與實力評分為基礎，屬於 Dixon 與 Coles 一系的 Poisson 模型，結合 Elo 評分，以超過十年的歷史賽果訓練而成。自模型 v2 起，其中一條實力評分軌也會追蹤由過往比賽收盤賠率推算的市場評價，等於市場的部分判斷會進入模型本身；這一點從輸出看不出來，所以我們在此明講。",
             "第二部分是市場共識。博彩市場匯集了成千上萬參與者的判斷，是目前已知最強的公開足球賽果預測指標。我們發佈的機率把統計模型錨定在這個共識之上。這是業界的標準做法：例如 Opta 就公開表示過，其比賽預測以市場賠率作為輸入之一。",
             "我們公開披露混合比例。目前發佈的預測中，市場共識權重為 0.8，純統計模型為 0.2。權重改變時，版本編號會一併更新。",
           ],
@@ -206,7 +206,7 @@ const STRINGS = {
           title: "已知限制",
           paras: [
             "球季開始的前幾週資料最少，模型在這段期間最不可靠。剛升班的球隊因為缺乏近年頂兩級聯賽的數據，不確定性也較高。",
-            "統計模型不知道傷停、轉會、陣容輪換與教練變動；這些資訊只能透過市場共識間接反映到預測中。",
+            "統計模型不知道傷停、轉會、陣容輪換與教練變動；這些資訊只能透過市場共識錨定與市場評價軌，間接反映到預測中。",
             "機率描述的是長期頻率。單場比賽任何結果都可能發生，冷門出現不代表模型失效。請以往績頁的整體校準來評斷我們，而不是單一賽果。",
           ],
         },
