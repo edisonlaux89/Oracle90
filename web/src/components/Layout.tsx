@@ -47,7 +47,10 @@ export function Layout() {
               {s.nav.methodology}
             </NavLink>
             {PRICE_CHECK_ENABLED && (
-              <NavLink to="/price-check" className={navClass}>
+              <NavLink
+                to="/price-check"
+                className={(st) => `hidden whitespace-nowrap sm:inline ${navClass(st)}`}
+              >
                 {s.nav.priceCheck}
               </NavLink>
             )}
