@@ -186,7 +186,7 @@ export function PriceCheck({ match }: { match: Match }) {
                   aria-label={t.outcomes[o]}
                   value={inputs[o]}
                   onChange={(e) => setInput(o, e.target.value)}
-                  className="min-h-11 w-24 rounded-xl border border-line bg-raised px-3 font-mono text-sm font-semibold text-text outline-none focus:border-lime"
+                  className="min-h-11 w-24 rounded-xl border border-line bg-raised px-3 font-mono text-base font-semibold text-text outline-none focus:border-lime"
                 />
                 {verdictBadge(o)}
               </div>
