@@ -2,6 +2,7 @@
 // JSON. Consumed at build time by scripts/prerender.mjs (via the SSR bundle)
 // and by scripts/gen-seo-assets.mjs. Nothing here runs in the browser.
 import { LEAGUES, matchSlug, type LeagueData, type Match } from "./data";
+import { PRICE_CHECK_ENABLED } from "./config";
 
 export const SITE_URL = "https://oracle90.com";
 export const SITE_NAME = "Oracle90";
@@ -198,6 +199,19 @@ export function allRoutes(): RouteSeo[] {
       jsonLd: [siteGraph()],
     },
   ];
+
+  if (PRICE_CHECK_ENABLED) {
+    routes.push({
+      path: "/price-check",
+      file: "price-check.html",
+      title: "Price check · Compare any odds with Oracle90's probabilities",
+      description:
+        "Enter the odds you can see for a Premier League or Championship match and compare them with Oracle90's published probabilities.",
+      canonical: `${SITE_URL}/price-check`,
+      lastmod: updated,
+      jsonLd: [siteGraph()],
+    });
+  }
 
   for (const league of LEAGUES) {
     for (const match of league.matches) {
