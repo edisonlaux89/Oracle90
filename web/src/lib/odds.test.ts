@@ -4,6 +4,7 @@ import {
   fairOdds,
   fromDecimal,
   impliedProb,
+  NEAR_THRESHOLD,
   overround,
   parseOdds,
   toDecimal,
@@ -35,6 +36,13 @@ describe("parseOdds", () => {
     expect(parseOdds("0.9", "dec")).toBeNull();
     expect(parseOdds("-2", "hk")).toBeNull();
   });
+  it("accepts a value just above the floor", () => {
+    expect(parseOdds("1.02", "dec")).toBeCloseTo(1.02);
+  });
+  it("rejects hex and exponent notation", () => {
+    expect(parseOdds("0x10", "dec")).toBeNull();
+    expect(parseOdds("1e3", "dec")).toBeNull();
+  });
 });
 
 describe("probabilities", () => {
@@ -55,15 +63,25 @@ describe("edge and verdict", () => {
   it("negative edge → below", () => {
     expect(verdict(0.81, 1.15)).toBe("below");
   });
-  it("within ±2 points → near", () => {
+  it("within the near band → near (edges of 0 and +1 point)", () => {
     expect(verdict(0.8, 1.25)).toBe("near"); // implied 80% exactly
     expect(verdict(0.81, 1.25)).toBe("near"); // edge +1 point
+  });
+  it("pins the near threshold to 0.02", () => {
+    expect(NEAR_THRESHOLD).toBe(0.02);
+  });
+  it("edge beyond the pinned threshold → above/below", () => {
+    expect(verdict(0.83, 1.25)).toBe("above"); // edge +0.03
+    expect(verdict(0.77, 1.25)).toBe("below"); // edge -0.03
+  });
+  it("exact boundary is exclusive → near", () => {
+    expect(verdict(0.5, 4, 0.25)).toBe("near"); // edge exactly 0.25
   });
 });
 
 describe("overround", () => {
   it("book margin from a full 1X2 set", () => {
-    // 1.30 / 7.00 / 12.00 → 0.7692+0.1429+0.0833 = 0.9954 → -0.5% (no margin)
+    // 1.30 / 7.00 / 12.00 → 0.7692+0.1429+0.0833 ≈ 0.99542 → -0.46% (no margin)
     expect(overround([1.3, 7, 12])).toBeCloseTo(-0.0046, 3);
     // typical book: 1.25 / 6.50 / 11.00 → 1.0447 → 4.5% margin
     expect(overround([1.25, 6.5, 11])).toBeCloseTo(0.0447, 3);

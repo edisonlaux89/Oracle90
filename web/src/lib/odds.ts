@@ -5,8 +5,8 @@ export type Verdict = "above" | "near" | "below";
 
 /** Implied-probability gap (in probability points) treated as "near fair". */
 export const NEAR_THRESHOLD = 0.02;
-/** Decimal odds at or below this are rejected as input noise. */
-export const MIN_DECIMAL = 1.01;
+/** Decimal odds must be strictly greater than this to be accepted. */
+export const ODDS_FLOOR = 1.01;
 
 export function toDecimal(value: number, format: OddsFormat): number {
   return format === "hk" ? value + 1 : value;
@@ -18,17 +18,20 @@ export function fromDecimal(dec: number, format: OddsFormat): number {
 
 /** Parse user input in the given format; returns decimal odds or null. */
 export function parseOdds(raw: string, format: OddsFormat): number | null {
-  if (raw.trim() === "") return null;
-  const n = Number(raw.trim());
+  const trimmed = raw.trim();
+  if (trimmed === "") return null;
+  if (!/^\d*\.?\d+$/.test(trimmed)) return null;
+  const n = Number(trimmed);
   if (!Number.isFinite(n)) return null;
   const dec = toDecimal(n, format);
-  return dec > MIN_DECIMAL ? dec : null;
+  return dec > ODDS_FLOOR ? dec : null;
 }
 
 export function impliedProb(dec: number): number {
   return 1 / dec;
 }
 
+// Callers guarantee valid inputs (prob/decs strictly positive); no zero/empty guards by design.
 export function fairOdds(prob: number): number {
   return 1 / prob;
 }
@@ -41,6 +44,10 @@ export function edge(modelProb: number, dec: number): number {
   return modelProb - impliedProb(dec);
 }
 
+/**
+ * Comparisons against the threshold are exclusive: an edge exactly at
+ * ±threshold counts as "near", not "above" or "below".
+ */
 export function verdict(
   modelProb: number,
   dec: number,
@@ -53,6 +60,7 @@ export function verdict(
 }
 
 /** Book margin of a full outcome set, e.g. 1X2. 0.045 = 4.5% overround. */
+// Callers guarantee valid inputs (each price strictly positive); no zero/empty guards by design.
 export function overround(decs: number[]): number {
   return decs.reduce((sum, d) => sum + 1 / d, 0) - 1;
 }
