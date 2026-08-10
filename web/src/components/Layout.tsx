@@ -56,7 +56,7 @@ export function Layout() {
             )}
             <button
               onClick={() => setLang(lang === "en" ? "zh" : "en")}
-              className="rounded-full bg-surface px-3 py-1 text-xs font-medium text-muted transition-colors hover:text-text active:scale-[0.98]"
+              className="whitespace-nowrap rounded-full bg-surface px-3 py-1 text-xs font-medium text-muted transition-colors hover:text-text active:scale-[0.98]"
             >
               {s.nav.toggle}
             </button>
