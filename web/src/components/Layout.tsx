@@ -1,6 +1,7 @@
 import { Link, NavLink, Outlet, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 import { useI18n } from "../i18n";
+import { PRICE_CHECK_ENABLED } from "../config";
 
 export const REPO_URL = "https://github.com/edisonlaux89/Oracle90";
 
@@ -45,6 +46,11 @@ export function Layout() {
             <NavLink to="/methodology" className={navClass}>
               {s.nav.methodology}
             </NavLink>
+            {PRICE_CHECK_ENABLED && (
+              <NavLink to="/price-check" className={navClass}>
+                {s.nav.priceCheck}
+              </NavLink>
+            )}
             <button
               onClick={() => setLang(lang === "en" ? "zh" : "en")}
               className="rounded-full bg-surface px-3 py-1 text-xs font-medium text-muted transition-colors hover:text-text active:scale-[0.98]"
