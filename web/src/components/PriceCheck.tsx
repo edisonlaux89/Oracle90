@@ -189,7 +189,7 @@ export function PriceCheck({ match }: { match: Match }) {
           </div>
           {margin !== null && (
             <p className="mt-3 font-mono text-xs text-muted">
-              {t.overroundLabel}: {(margin * 100).toFixed(1)}%
+              {t.overroundLabel}{(margin * 100).toFixed(1)}%
             </p>
           )}
         </>
