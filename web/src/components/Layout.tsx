@@ -33,7 +33,7 @@ export function Layout() {
               ORACLE<span className="text-lime">90</span>
             </span>
           </Link>
-          <nav className="flex items-center gap-4 text-sm font-medium sm:gap-6">
+          <nav className="flex items-center gap-2 text-sm font-medium sm:gap-6">
             <NavLink to="/" end className={navClass}>
               {s.nav.predictions}
             </NavLink>
