@@ -10,7 +10,8 @@
     "build:server": "vite build --ssr src/entry-server.tsx --outDir dist-ssr",
     "prerender": "node scripts/prerender.mjs && node scripts/gen-seo-assets.mjs",
     "preview": "vite preview",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
   },
   "dependencies": {
     "@fontsource/inter": "^5.2.5",
@@ -27,6 +28,7 @@
     "@vitejs/plugin-react": "^4.4.1",
     "tailwindcss": "^4.1.7",
     "typescript": "^5.8.3",
-    "vite": "^6.3.5"
+    "vite": "^6.3.5",
+    "vitest": "^4.1.10"
   }
 }
