@@ -1,5 +1,6 @@
 import { describe, expect, it } from "vitest";
 import {
+  convertOddsInput,
   edge,
   fairOdds,
   fromDecimal,
@@ -76,6 +77,27 @@ describe("edge and verdict", () => {
   });
   it("exact boundary is exclusive → near", () => {
     expect(verdict(0.5, 4, 0.25)).toBe("near"); // edge exactly 0.25
+  });
+});
+
+describe("convertOddsInput", () => {
+  it("preserves precision below the 2dp display rounding", () => {
+    expect(convertOddsInput("1.011", "dec", "hk")).toBe("0.011");
+    expect(convertOddsInput("0.011", "hk", "dec")).toBe("1.011");
+  });
+  it("round-trips without drift", () => {
+    expect(convertOddsInput("2.505", "dec", "hk")).toBe("1.505");
+    expect(convertOddsInput("1.505", "hk", "dec")).toBe("2.505");
+  });
+  it("strips float noise and trailing zeros", () => {
+    expect(convertOddsInput("1.30", "dec", "hk")).toBe("0.3");
+    expect(convertOddsInput("0.3", "hk", "dec")).toBe("1.3");
+  });
+  it("returns invalid input unchanged", () => {
+    expect(convertOddsInput("abc", "dec", "hk")).toBe("abc");
+  });
+  it("strips trailing zeros from a whole number result", () => {
+    expect(convertOddsInput("2.50", "dec", "hk")).toBe("1.5");
   });
 });
 

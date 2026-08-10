@@ -2,6 +2,7 @@ import { useState } from "react";
 import type { Match } from "../data";
 import { useI18n } from "../i18n";
 import {
+  convertOddsInput,
   edge,
   fairOdds,
   fromDecimal,
@@ -25,7 +26,7 @@ function outcomeProb(match: Match, o: Outcome): number {
 
 function badgeClass(v: Verdict): string {
   if (v === "above") return "bg-lime text-bg";
-  if (v === "below") return "bg-[#3a2426] text-[#e07a7a]";
+  if (v === "below") return "bg-danger text-danger-fg";
   return "bg-raised text-muted";
 }
 
@@ -64,8 +65,7 @@ export function PriceCheck({ match }: { match: Match }) {
     setInputs((prev) => {
       const converted = { ...prev };
       for (const o of OUTCOMES) {
-        const dec = parseOdds(prev[o], format);
-        converted[o] = dec === null ? prev[o] : fmtOdds(dec, next);
+        converted[o] = convertOddsInput(prev[o], format, next);
       }
       return converted;
     });
@@ -110,10 +110,9 @@ export function PriceCheck({ match }: { match: Match }) {
   }
 
   const x12Decs = X12.map((o) => parseOdds(inputs[o], format));
-  const margin =
-    x12Decs.every((d) => d !== null) && x12Decs.length === 3
-      ? overround(x12Decs as number[])
-      : null;
+  const margin = x12Decs.every((d): d is number => d !== null)
+    ? overround(x12Decs)
+    : null;
 
   const formatToggle = (
     <div className="flex shrink-0 overflow-hidden rounded-full bg-raised text-xs">
@@ -121,6 +120,7 @@ export function PriceCheck({ match }: { match: Match }) {
         <button
           key={f}
           onClick={() => switchFormat(f)}
+          aria-pressed={format === f}
           className={`min-h-11 px-3 font-medium transition-colors ${
             format === f ? "bg-lime text-bg" : "text-muted hover:text-text"
           }`}
@@ -144,6 +144,7 @@ export function PriceCheck({ match }: { match: Match }) {
               <button
                 key={o}
                 onClick={() => setFocusOutcome(o)}
+                aria-pressed={focusOutcome === o}
                 className={`min-h-11 rounded-full px-3.5 text-xs font-medium transition-colors ${
                   focusOutcome === o
                     ? "bg-lime text-bg"
@@ -158,13 +159,16 @@ export function PriceCheck({ match }: { match: Match }) {
             <input
               inputMode="decimal"
               placeholder={t.inputPlaceholder}
+              aria-label={t.inputPlaceholder}
               value={inputs[focusOutcome]}
               onChange={(e) => setInput(focusOutcome, e.target.value)}
               className="min-h-11 w-full rounded-xl border border-line bg-raised px-4 font-mono text-lg font-semibold text-text outline-none focus:border-lime"
             />
             {formatToggle}
           </div>
-          <div className="mt-3 min-h-6">{verdictBadge(focusOutcome)}</div>
+          <div className="mt-3 min-h-6" aria-live="polite">
+            {verdictBadge(focusOutcome)}
+          </div>
           {detailRows(focusOutcome)}
         </>
       ) : (
@@ -179,6 +183,7 @@ export function PriceCheck({ match }: { match: Match }) {
                 <input
                   inputMode="decimal"
                   placeholder={t.notFilled}
+                  aria-label={t.outcomes[o]}
                   value={inputs[o]}
                   onChange={(e) => setInput(o, e.target.value)}
                   className="min-h-11 w-24 rounded-xl border border-line bg-raised px-3 font-mono text-sm font-semibold text-text outline-none focus:border-lime"

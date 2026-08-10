@@ -27,6 +27,21 @@ export function parseOdds(raw: string, format: OddsFormat): number | null {
   return dec > ODDS_FLOOR ? dec : null;
 }
 
+/**
+ * Re-express a typed odds string in another format without losing
+ * precision. Invalid input is returned unchanged. Rounds to 4 dp and
+ * strips trailing zeros so state round-trips are stable.
+ */
+export function convertOddsInput(
+  raw: string,
+  from: OddsFormat,
+  to: OddsFormat,
+): string {
+  const dec = parseOdds(raw, from);
+  if (dec === null) return raw;
+  return Number(fromDecimal(dec, to).toFixed(4)).toString();
+}
+
 export function impliedProb(dec: number): number {
   return 1 / dec;
 }
