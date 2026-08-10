@@ -4,6 +4,8 @@ import { ProbBar } from "../components/ProbBar";
 import { REPO_URL } from "../components/Layout";
 import { useI18n } from "../i18n";
 import { teamZh, zhClubNames } from "../teams-zh";
+import { PRICE_CHECK_ENABLED } from "../config";
+import { PriceCheck } from "../components/PriceCheck";
 
 export function MatchPage() {
   const { league = "", slug = "" } = useParams();
@@ -98,6 +100,16 @@ export function MatchPage() {
           </div>
         </div>
       </div>
+
+      {PRICE_CHECK_ENABLED && (
+        <div className="mt-4 max-w-2xl rounded-2xl bg-surface p-6 sm:p-8">
+          {/* kickedOff inside PriceCheck evaluates at build time in prerender and re-evaluates on hydration — accepted. */}
+          <h2 className="font-display text-sm font-medium text-muted">
+            {s.priceCheck.cardTitle}
+          </h2>
+          <PriceCheck match={match} />
+        </div>
+      )}
 
       {previewText && (
         <div className="mt-4 max-w-2xl rounded-2xl bg-surface p-6 sm:p-8">
