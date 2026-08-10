@@ -8,8 +8,7 @@ import {
 
 export type Lang = "en" | "zh";
 
-const STRINGS = {
-  en: {
+const EN = {
     nav: {
       predictions: "Predictions",
       trackRecord: "Track record",
@@ -157,8 +156,11 @@ const STRINGS = {
         "Oracle90 publishes statistical forecasts for informational and educational purposes. It does not offer betting advice.",
       builtBy: "Built by Davy.",
     },
-  },
-  zh: {
+};
+
+export type Strings = typeof EN;
+
+const ZH: Strings = {
     nav: {
       predictions: "預測",
       trackRecord: "往績對帳",
@@ -299,10 +301,9 @@ const STRINGS = {
       disclaimer: "Oracle90 發佈統計預測，僅供資訊與教育用途，不提供投注建議。",
       builtBy: "由 Davy 打造。",
     },
-  },
-} as const;
+};
 
-export type Strings = (typeof STRINGS)["en"];
+const STRINGS: Record<Lang, Strings> = { en: EN, zh: ZH };
 
 interface I18n {
   lang: Lang;
@@ -338,7 +339,7 @@ export function I18nProvider({ children }: { children: React.ReactNode }) {
     <I18nContext.Provider
       value={{
         lang,
-        s: STRINGS[lang] as Strings,
+        s: STRINGS[lang],
         setLang,
         locale: lang === "zh" ? "zh-TW" : "en-GB",
       }}
