@@ -6,6 +6,8 @@ import {
   useState,
 } from "react";
 
+import { PRICE_CHECK_ENABLED } from "./config";
+
 export type Lang = "en" | "zh";
 
 const EN = {
@@ -60,7 +62,7 @@ const EN = {
       cardTitle: "Check your price",
       pageTitle: "Price check",
       pageIntro:
-        "Enter the odds you can see for a match and compare them with Oracle90's published probabilities.",
+        "Odds are how the market expresses probability. This tool translates any price into the probability it implies and puts it next to Oracle90's published estimate for the same outcome. What you do with the difference is entirely your own business.",
       outcomes: {
         home: "Home",
         draw: "Draw",
@@ -144,6 +146,17 @@ const EN = {
             "Where AI-generated match previews appear on this site, they are labelled as AI-generated.",
           ],
         },
+        ...(PRICE_CHECK_ENABLED
+          ? [
+              {
+                title: "About the price check tool",
+                paras: [
+                  "The price check tool converts odds you enter into the probability they imply, then shows our published estimate for the same outcome beside it. The badge describes the relationship between those two numbers and nothing else: your price sits above, near or below the fair odds of our estimate.",
+                  "The estimate is the same market-anchored forecast shown on every match page. There is no extra model behind the tool, nothing you type is stored, and no recommendation is made. Whether a gap matters, and what to do about it, is entirely your own business.",
+                ],
+              },
+            ]
+          : []),
       ],
       repoLinkText: "public GitHub repository",
     },
@@ -208,7 +221,7 @@ const ZH: Strings = {
     priceCheck: {
       cardTitle: "對照你手上的賠率",
       pageTitle: "賠率對照",
-      pageIntro: "輸入你見到的賠率，同 Oracle90 已發佈的機率對照。",
+      pageIntro: "賠率是市場表達機率的語言。這個工具把你看到的價換算成隱含機率，再和 Oracle90 已發佈的估計並排對照。差距怎麼解讀，之後怎麼做，都是你自己的事。",
       outcomes: {
         home: "主勝",
         draw: "和局",
@@ -219,7 +232,7 @@ const ZH: Strings = {
       formatDec: "十進",
       formatHk: "香港盤",
       inputPlaceholder: "你的賠率",
-      expand: "對照成場五個價",
+      expand: "對照整場五個價",
       collapse: "返回單一價",
       above: "高過公道價",
       near: "貼近公道價",
@@ -289,6 +302,17 @@ const ZH: Strings = {
             "本站出現的 AI 生成賽前分析，一律標明為 AI 生成。",
           ],
         },
+        ...(PRICE_CHECK_ENABLED
+          ? [
+              {
+                title: "關於賠率對照工具",
+                paras: [
+                  "賠率對照工具把你輸入的價換算成隱含機率，並列出我們對同一結果已發佈的估計。徽章只描述兩個數字的關係：你的價高過、貼近或低過我們估計的公道價，僅此而已。",
+                  "估計就是每個賽事頁上那個市場錨定預測。工具背後沒有另一個模型，你輸入的內容不會被儲存，也沒有任何推薦。差距重不重要、之後怎麼做，都是你自己的事。",
+                ],
+              },
+            ]
+          : []),
       ],
       repoLinkText: "公開的 GitHub 儲存庫",
     },
