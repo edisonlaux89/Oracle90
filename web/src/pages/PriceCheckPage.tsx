@@ -70,7 +70,7 @@ export function PriceCheckPage() {
           <p className="mt-3 text-sm text-muted">
             {kickoffDay(match.kickoff, locale)}, {kickoffTime(match.kickoff)}
           </p>
-          <PriceCheck match={match} />
+          <PriceCheck match={match} updatedAt={league.generated_at} />
         </div>
       )}
     </div>

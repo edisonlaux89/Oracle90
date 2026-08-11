@@ -1,5 +1,6 @@
 import { useState } from "react";
 import type { Match } from "../data";
+import { kickoffDay } from "../data";
 import { useI18n } from "../i18n";
 import {
   convertOddsInput,
@@ -39,8 +40,14 @@ function fmtPts(e: number): string {
   return `${pts >= 0 ? "+" : ""}${pts.toFixed(1)}%`;
 }
 
-export function PriceCheck({ match }: { match: Match }) {
-  const { s } = useI18n();
+export function PriceCheck({
+  match,
+  updatedAt,
+}: {
+  match: Match;
+  updatedAt?: string;
+}) {
+  const { s, locale } = useI18n();
   const t = s.priceCheck;
   const [format, setFormat] = useState<OddsFormat>("dec");
   const [expanded, setExpanded] = useState(false);
@@ -208,6 +215,11 @@ export function PriceCheck({ match }: { match: Match }) {
       <p className="mt-3 text-xs text-muted">
         {t.disclaimer} {t.privacy}
       </p>
+      {updatedAt && (
+        <p className="mt-1 font-mono text-xs text-muted">
+          {t.updatedAt} {kickoffDay(updatedAt, locale)}
+        </p>
+      )}
     </div>
   );
 }

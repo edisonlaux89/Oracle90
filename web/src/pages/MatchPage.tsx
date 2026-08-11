@@ -107,7 +107,7 @@ export function MatchPage() {
           <h2 className="font-display text-sm font-medium text-muted">
             {s.priceCheck.cardTitle}
           </h2>
-          <PriceCheck match={match} />
+          <PriceCheck match={match} updatedAt={l.generated_at} />
         </div>
       )}
 
