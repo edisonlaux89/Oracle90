@@ -217,7 +217,7 @@ export function PriceCheck({
       </p>
       {updatedAt && (
         <p className="mt-1 font-mono text-xs text-muted">
-          {t.updatedAt} {kickoffDay(updatedAt, locale)}
+          {t.updatedAt} {kickoffDay(updatedAt, locale)} · {t.updatedDaily}
         </p>
       )}
     </div>
