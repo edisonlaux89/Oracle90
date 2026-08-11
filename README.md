@@ -10,6 +10,8 @@ automatically and the running calibration record is updated.
 ORACLE90 publishes probabilities, not betting advice. No tips, no odds
 recommendations, ever.
 
+- [`METHODOLOGY.md`](METHODOLOGY.md) — how the numbers are produced,
+  tested and published, in one readable page
 - `web/` — the site and the published prediction record
 - The model behind the numbers: a Dixon-Coles + Elo ensemble anchored to
   market consensus, fitted on 14 seasons of historical data. The engine runs
