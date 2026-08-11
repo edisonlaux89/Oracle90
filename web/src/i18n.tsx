@@ -137,7 +137,7 @@ const EN = {
         {
           title: "Verification",
           paras: [
-            "Every forecast is committed to a public GitHub repository before kickoff. Git commit timestamps are public and independently checkable, and published predictions are never amended or rewritten. If we were tempted to quietly fix a bad call after full time, the commit history would expose it.",
+            "Every forecast is committed to a public GitHub repository before kickoff. As team news arrives and the market moves, we may update a forecast up to kickoff; each update is a new public commit, so the full history of every revision can be checked by anyone. Once a match kicks off, the final pre-kickoff forecast is frozen. That version, and only that version, is scored on the track record page. Nothing is amended or rewritten after kickoff; if we were tempted to quietly fix a bad call after full time, the commit history would expose it.",
           ],
         },
         {
@@ -294,7 +294,7 @@ const ZH: Strings = {
         {
           title: "驗證機制",
           paras: [
-            "每一筆預測都會在開賽前提交到公開的 GitHub 儲存庫。Git 提交的時間戳公開可查，任何人都能獨立驗證，而已發佈的預測永不修改或重寫。如果我們想在完場後偷偷修正一筆失準的預測，提交歷史會立刻拆穿。",
+            "每一個預測都會在開賽前 commit 到公開的 GitHub repository。隨著陣容消息與市場變動，我們可能在開賽前更新預測；每次更新都是一個新的公開 commit，任何人都能查核每個版本的完整歷史。比賽一開賽，開賽前的最後一版就此凍結，戰績頁計分只認這一版。開賽後任何預測都不會被修改或重寫；如果我們想在完場後偷偷修正錯誤預測，commit 歷史會讓它無所遁形。",
           ],
         },
         {

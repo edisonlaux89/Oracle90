@@ -120,7 +120,7 @@ export const FAQ: { q: string; a: string }[] = [
   },
   {
     q: "How can the published forecasts be verified?",
-    a: "Every forecast is committed to a public GitHub repository before kickoff. Git commit timestamps are public and independently checkable, and published predictions are never amended or rewritten, so a quiet correction after full time would show up in the commit history.",
+    a: "Every forecast is committed to a public GitHub repository before kickoff, and may be updated up to kickoff as new information arrives; each revision is a separate public commit with an independently checkable timestamp. The final pre-kickoff version is the one scored against the result, and nothing is amended or rewritten after kickoff.",
   },
   {
     q: "Does Oracle90 offer betting advice?",
