@@ -2,7 +2,7 @@
  "league": "championship",
  "league_name": "Championship",
  "season": "2026-27",
- "generated_at": "2026-08-09T14:21:39Z",
+ "generated_at": "2026-08-11T13:45:03Z",
  "model_version": "v2",
  "anchor_weight": 0.8,
  "matches": [
@@ -11,238 +11,192 @@
    "home": "Wolverhampton Wanderers",
    "away": "Blackburn Rovers",
    "probs": {
-    "home": 0.5951,
-    "draw": 0.2358,
-    "away": 0.169
-   },
-   "market_anchored": true,
-   "model_backed": true,
-   "ou25": {
-    "over": 0.507,
-    "under": 0.493
-   },
-   "preview": "Wolverhampton Wanderers are the clear favourites in this Championship opener against Blackburn Rovers. Wolves' form was built in the Premier League last term, where they went six games without a win, drawing three and losing three, including a 0-3 defeat at Leeds, and they now return to Championship level after that spell in the top flight. Blackburn, already settled in the division, were more varied, with a 3-1 away win at Sheffield United alongside a 0-3 defeat at Southampton. The two clubs have met rarely in recent years, and those meetings tended to be tight and low-scoring. The draw holds some weight, but the home side remains the stronger lean, and the goal expectation is finely balanced.",
-   "preview_generated_at": "2026-08-11T07:23:25Z",
-   "preview_zh": "Wolverhampton Wanderers 在這場英冠聯賽的揭幕戰中，明顯是對戰 Blackburn Rovers 的較強一方。Wolves 上季在英超聯賽的戰績並不理想，六場比賽未嘗勝績，三平三負，其中包括作客以0比3不敵 Leeds，如今結束了那段身處頂級聯賽的時期，重返英冠聯賽。Blackburn 則早已在這個級別站穩腳步，表現較為起伏不定，曾作客以3比1擊敗 Sheffield United，也曾以0比3不敵 Southampton。兩隊近年交手次數不多，過往對戰多屬勢均力敵、比分偏低的類型。戰平的可能性仍具一定分量，但主場一方依然是較受看好的一方，整體進球預期則相當均衡。",
-   "preview_zh_generated_at": "2026-08-11T07:39:34Z"
-  },
-  {
-   "kickoff": "2026-08-15T11:30:00Z",
-   "home": "Bolton Wanderers",
-   "away": "Preston North End",
-   "probs": {
-    "home": 0.3986,
-    "draw": 0.2853,
-    "away": 0.3161
-   },
-   "market_anchored": true,
-   "model_backed": true,
-   "ou25": {
-    "over": 0.4644,
-    "under": 0.5356
-   },
-   "preview": "Bolton Wanderers are narrowly favoured here, with Preston North End close enough behind to keep this one finely balanced rather than one-sided. Bolton's listed results predate a long absence from this level, so they read as history rather than a guide to current shape, with this fixture marking a return rather than a continuation of form. Preston's recent form has been mixed, following an away win at Sheffield United with a home defeat to Southampton, though a draw with QPR and a win at Charlton show some steadiness too. Head-to-head meetings have leaned the visitors' way, with Preston unbeaten in the last four. The total-goals lean sits on the lower side, suggesting a tighter match than an open, high-scoring one.",
-   "preview_generated_at": "2026-08-11T07:23:25Z",
-   "preview_zh": "Bolton Wanderers在本場賽事中略占優勢，Preston North End緊追在後，讓這場比賽呈現勢均力敵而非一面倒的態勢。Bolton過去的戰績紀錄是在長期缺席此級別聯賽之前累積的，因此僅能作為歷史參考，而非反映目前狀態的依據，這場比賽對他們而言象徵著回歸，而非延續先前的表現。Preston近期戰績起伏不定，先是在客場擊敗Sheffield United，隨後主場不敵Southampton，不過與QPR踢平以及在Charlton客場獲勝，也顯示出一定的穩定性。兩隊交手紀錄方面，客隊較占上風，Preston近四次交手保持不敗。總進球數的走勢偏向較低，顯示這將是一場較為緊湊的比賽，而非進球數眾多的公開對攻局面。",
-   "preview_zh_generated_at": "2026-08-11T07:49:30Z"
-  },
-  {
-   "kickoff": "2026-08-15T14:00:00Z",
-   "home": "Bristol City",
-   "away": "Millwall",
-   "probs": {
-    "home": 0.3631,
-    "draw": 0.2835,
-    "away": 0.3535
-   },
-   "market_anchored": true,
-   "model_backed": true,
-   "ou25": {
-    "over": 0.4723,
-    "under": 0.5277
-   },
-   "preview": "This Championship meeting looks finely balanced, with the home side given a slight edge over Millwall and the draw not far behind in the reckoning. Bristol City closed last season with a mixed run, including a home win over Stoke and a heavy home loss to Norwich, while Millwall finished more consistently, putting together back-to-back wins over Stoke and QPR before closing with a win at Oxford. The head-to-head has swung Millwall's way of late, having won both meetings between the sides in the second half of last year. On goals, the lean points only marginally toward a tighter, lower-scoring contest rather than an open one.",
-   "preview_generated_at": "2026-08-11T07:23:25Z",
-   "preview_zh": "這場英冠賽事看來勢均力敵，主隊被認為對Millwall略占優勢，戰平的可能性也相去不遠。Bristol City上賽季收官戰績起伏不定，其中包括主場擊敗Stoke，以及主場慘敗給Norwich；相較之下，Millwall收尾階段表現較為穩定，先後連續擊敗Stoke與QPR，最後一戰更於客場擊敗Oxford。從近期交手紀錄來看，情勢傾向Millwall，該隊在去年下半年兩次交鋒中皆取得勝利。就進球數而言，跡象僅些微顯示這將是一場比分較為接近、進球較少的比賽，而非一場開放性的高比分對決。",
-   "preview_zh_generated_at": "2026-08-11T07:39:34Z"
-  },
-  {
-   "kickoff": "2026-08-15T14:00:00Z",
-   "home": "Charlton Athletic",
-   "away": "Derby County",
-   "probs": {
-    "home": 0.3463,
-    "draw": 0.2886,
-    "away": 0.3651
-   },
-   "market_anchored": true,
-   "model_backed": true,
-   "ou25": {
-    "over": 0.4532,
-    "under": 0.5468
-   },
-   "preview": "Charlton host a Derby County side they could not beat in either meeting last season, losing narrowly at home in January after drawing away the previous September. The model views this as finely balanced, with only the slightest lean towards the visitors. Charlton's closing form last season was underwhelming, with just one win in six and three defeats mixed among low-scoring draws. Derby's finish was more erratic still, swinging between wins and losses in each of their last six outings. Earlier meetings between the sides, including a heavy Charlton win and a couple of Derby victories, belong to a much earlier era. The goals picture leans towards a tighter, lower-scoring contest.",
-   "preview_generated_at": "2026-08-11T07:23:25Z",
-   "preview_zh": "Charlton在主場迎戰Derby County，上季兩次交手都未能取勝，九月的客場戰平之後，一月主場又小比分告負。模型認為此役實力相當接近，僅些微傾向客隊獲勝。Charlton上季收官階段的狀態並不理想，六場比賽只拿下一勝，三場落敗，其餘則是幾場低比分的平局。Derby的收官表現更為起伏不定，最近六場比賽勝負不斷交替。兩隊較早期的交手紀錄，包括Charlton的一場大勝以及Derby的兩場勝利，都已是相當久遠之前的事了。整體進球走勢則傾向於一場比分較低、雙方僵持不下的比賽。",
-   "preview_zh_generated_at": "2026-08-11T07:39:34Z"
-  },
-  {
-   "kickoff": "2026-08-15T14:00:00Z",
-   "home": "Middlesbrough",
-   "away": "Lincoln City",
-   "probs": {
-    "home": 0.7083,
-    "draw": 0.1845,
-    "away": 0.1072
-   },
-   "market_anchored": true,
-   "model_backed": false,
-   "ou25": {
-    "over": 0.574,
-    "under": 0.426
-   },
-   "preview": "Middlesbrough head into this one as clear favourites, with the model showing a strong lean toward a home win over Lincoln City. Boro closed last season with three straight away draws, each finishing 2-2, while their home form was livelier, including a 5-1 win over Watford and a 1-0 defeat of Sheffield Wednesday, offset by a narrow home loss to Portsmouth. There is no recorded form for Lincoln to weigh against that, and the sides have no previous meetings on file, so the case leans heavily on Middlesbrough's own recent numbers. A draw sits a distant second in the model's thinking, with an away win rated a long shot. Total goals tilt toward the higher side, though only narrowly.",
-   "preview_generated_at": "2026-08-11T07:23:25Z",
-   "preview_zh": "Middlesbrough在這場比賽中明顯佔優，各項數據顯示球隊傾向於主場擊敗Lincoln City。Boro在上個賽季末段客場比賽三連平，三場比賽比分皆為2比2，而主場表現則較為活躍，包括以5比1擊敗Watford，並以1比0擊敗Sheffield Wednesday，不過也曾在主場以些微差距不敵Portsmouth。目前並無Lincoln的近期戰績紀錄可供比較，雙方過去也沒有交手紀錄，因此整體判斷主要依據Middlesbrough近期的自身表現數據。戰平的可能性居於次要位置，客隊獲勝的可能性則被視為相當低。總進球數方面則略微傾向較高的一方。",
-   "preview_zh_generated_at": "2026-08-11T07:39:34Z"
-  },
-  {
-   "kickoff": "2026-08-15T14:00:00Z",
-   "home": "Norwich City",
-   "away": "West Bromwich Albion",
-   "probs": {
-    "home": 0.457,
-    "draw": 0.2737,
-    "away": 0.2693
-   },
-   "market_anchored": true,
-   "model_backed": true,
-   "ou25": {
-    "over": 0.4831,
-    "under": 0.5169
-   },
-   "preview": "Norwich City go into this one as the team the model favours, though the lean towards a home win is not an overwhelming one, with the draw and an away win rated close together behind it. Norwich's recent record has been streaky, with heavy away wins and home defeats mixed through their form, while West Bromwich Albion arrive on the back of three scoreless draws in their last six outings, a sign of a side finding goals hard to come by either way. The head-to-head picture leans towards Norwich too, highlighted by a heavy away win in their last meeting. Total goals are finely balanced, with a slight lean towards a tighter, lower-scoring contest.",
-   "preview_generated_at": "2026-08-11T07:23:25Z",
-   "preview_zh": "Norwich City在此役是分析模型較為看好的一方，但主場獲勝的傾向並不明顯，戰和與客隊獲勝的機率緊隨其後，差距不大。Norwich近期戰績起伏不定，客場大勝與主場落敗交替出現；West Bromwich Albion則是在最近六場比賽中交出三場零比零戰和的成績，顯示這支球隊無論主客場都難以取得進球。兩隊交手紀錄同樣偏向Norwich，上一次交手時Norwich便曾大比分客場獲勝。總進球數方面雙方差距不大，略微傾向於一場進球較少、比分較為緊湊的比賽。",
-   "preview_zh_generated_at": "2026-08-11T07:39:34Z"
-  },
-  {
-   "kickoff": "2026-08-15T14:00:00Z",
-   "home": "Portsmouth",
-   "away": "Queens Park Rangers",
-   "probs": {
-    "home": 0.4233,
-    "draw": 0.2741,
-    "away": 0.3025
+    "home": 0.5958,
+    "draw": 0.2353,
+    "away": 0.1688
    },
    "market_anchored": true,
    "model_backed": true,
    "ou25": {
     "over": 0.5082,
     "under": 0.4918
+   }
+  },
+  {
+   "kickoff": "2026-08-15T11:30:00Z",
+   "home": "Bolton Wanderers",
+   "away": "Preston North End",
+   "probs": {
+    "home": 0.3971,
+    "draw": 0.2867,
+    "away": 0.3162
    },
-   "preview": "Using the note style directly since this is a routine content-writing task within established rules rather than a new feature to brainstorm. **Portsmouth v Queens Park Rangers, Championship** Portsmouth head into this one with a modest edge in the model's view, QPR narrowly behind them and the draw not far off either. Portsmouth's last six brought four wins, including back-to-back clean sheets over Middlesbrough and Ipswich, though a heavy defeat at Coventry showed their away form can wobble. QPR arrive out of form, without a win in six and having taken just two points from their last four matches. The head-to-head has swung sharply of late: QPR's home win in March was one-sided, but they were level at Portsmouth in the meeting before that. Goals-wise, the lean sits close to even, with only a slight tilt toward an open game.",
-   "preview_generated_at": "2026-08-11T07:23:25Z",
-   "preview_zh": "Portsmouth在主場迎戰Queens Park Rangers這場英冠聯賽中，模型認為Portsmouth占些許優勢，QPR些微落後，戰平的可能性也相去不遠。Portsmouth近六場比賽取得四勝，包括連續兩場零封Middlesbrough與Ipswich，不過在客場大敗於Coventry，顯示他們的客場戰績仍不穩定。QPR近況低迷，六場不勝，最近四場比賽僅拿下兩分。近期兩隊交手戰績起伏明顯：QPR三月的主場勝利相當一面倒，但在此之前於Portsmouth作客時曾戰成平手。進球方面，雙方大致勢均力敵，僅些微傾向出現較為開放的比賽。",
-   "preview_zh_generated_at": "2026-08-11T07:39:34Z"
+   "market_anchored": true,
+   "model_backed": true,
+   "ou25": {
+    "over": 0.4616,
+    "under": 0.5384
+   }
+  },
+  {
+   "kickoff": "2026-08-15T14:00:00Z",
+   "home": "Bristol City",
+   "away": "Millwall",
+   "probs": {
+    "home": 0.3617,
+    "draw": 0.2838,
+    "away": 0.3545
+   },
+   "market_anchored": true,
+   "model_backed": true,
+   "ou25": {
+    "over": 0.473,
+    "under": 0.527
+   }
+  },
+  {
+   "kickoff": "2026-08-15T14:00:00Z",
+   "home": "Charlton Athletic",
+   "away": "Derby County",
+   "probs": {
+    "home": 0.3461,
+    "draw": 0.2887,
+    "away": 0.3652
+   },
+   "market_anchored": true,
+   "model_backed": true,
+   "ou25": {
+    "over": 0.4526,
+    "under": 0.5474
+   }
+  },
+  {
+   "kickoff": "2026-08-15T14:00:00Z",
+   "home": "Middlesbrough",
+   "away": "Lincoln City",
+   "probs": {
+    "home": 0.7074,
+    "draw": 0.1855,
+    "away": 0.1071
+   },
+   "market_anchored": true,
+   "model_backed": false,
+   "ou25": {
+    "over": 0.5728,
+    "under": 0.4272
+   }
+  },
+  {
+   "kickoff": "2026-08-15T14:00:00Z",
+   "home": "Norwich City",
+   "away": "West Bromwich Albion",
+   "probs": {
+    "home": 0.4657,
+    "draw": 0.2731,
+    "away": 0.2612
+   },
+   "market_anchored": true,
+   "model_backed": true,
+   "ou25": {
+    "over": 0.4833,
+    "under": 0.5167
+   }
+  },
+  {
+   "kickoff": "2026-08-15T14:00:00Z",
+   "home": "Portsmouth",
+   "away": "Queens Park Rangers",
+   "probs": {
+    "home": 0.4213,
+    "draw": 0.2744,
+    "away": 0.3043
+   },
+   "market_anchored": true,
+   "model_backed": true,
+   "ou25": {
+    "over": 0.5083,
+    "under": 0.4917
+   }
   },
   {
    "kickoff": "2026-08-15T14:00:00Z",
    "home": "Stoke City",
    "away": "Swansea City",
    "probs": {
-    "home": 0.3911,
+    "home": 0.3922,
     "draw": 0.287,
-    "away": 0.3219
+    "away": 0.3208
    },
    "market_anchored": true,
    "model_backed": true,
    "ou25": {
-    "over": 0.448,
-    "under": 0.552
-   },
-   "preview": "As the Championship season opens, the model gives Stoke City a narrow edge at home, with Swansea City not far behind and a draw a real possibility. Both sides are effectively starting fresh, with the sequences on record belonging to the end of last season: Stoke finished poorly, losing five of their last six including successive home defeats, while Swansea were the better side over that spell, winning three of six and losing only once. Head to head results have swung both ways in recent seasons, Swansea winning the most recent meeting between the sides. The goals reading points toward a tighter, lower scoring game.",
-   "preview_generated_at": "2026-08-11T07:23:25Z",
-   "preview_zh": "隨著英冠聯賽開季，模型預測顯示Stoke City坐鎮主場略占優勢，Swansea City緊追在後，戰平的可能性也不容忽視。雙方基本上都是重新出發，可供參考的近況紀錄仍停留在上季末段：Stoke City收官表現不佳，最近六場輸掉五場，其中包含連續兩場主場敗仗；相較之下，Swansea City在同一段時間表現較佳，六戰三勝，僅負一場。近幾個賽季雙方交手戰績互有勝負，而最近一次交鋒由Swansea City獲勝。從進球數據來看，這場比賽可能會較為膠著，比分也偏低。",
-   "preview_zh_generated_at": "2026-08-11T07:39:34Z"
+    "over": 0.4463,
+    "under": 0.5537
+   }
   },
   {
    "kickoff": "2026-08-15T16:30:00Z",
    "home": "Sheffield United",
    "away": "Birmingham City",
    "probs": {
-    "home": 0.3888,
-    "draw": 0.2848,
-    "away": 0.3265
+    "home": 0.3848,
+    "draw": 0.2844,
+    "away": 0.3308
    },
    "market_anchored": true,
    "model_backed": true,
    "ou25": {
-    "over": 0.4742,
-    "under": 0.5258
-   },
-   "preview": "Sheffield United and Birmingham City meet with the contest finely balanced, the model giving the home side a narrow edge over an away win and rating the draw least likely. Sheffield United's form was mixed as last season closed, with wins over Watford, Hull and Derby offset by home defeats to Preston and Blackburn. Birmingham City were steadier, unbeaten in five of their last six league matches and losing only away to Ipswich. History also favours the hosts: Sheffield United won the most recent home meeting 3-0 before a 1-1 draw in March. On goals, the lean points fractionally towards a tighter, lower-scoring match rather than an open, high-scoring one.",
-   "preview_generated_at": "2026-08-11T07:23:25Z",
-   "preview_zh": "Sheffield United和Birmingham City的這場對戰局勢相當接近，模型認為主場一方相對客隊略占優勢，而打平的可能性被視為最低。Sheffield United在上賽季尾聲的狀態起伏不定，先後擊敗Watford、Hull和Derby，卻也在主場不敵Preston和Blackburn。Birmingham City則表現較為穩定，近六場聯賽有五場保持不敗，唯一的敗仗是客場輸給Ipswich。歷史交手紀錄同樣有利於主隊，Sheffield United在最近一次主場交手中以3比0獲勝，而在三月的交手中則以1比1戰平。就進球數而言，這場比賽略微傾向於一場比分較為接近、進球較少的比賽，而非一場開放且高比分的對決。",
-   "preview_zh_generated_at": "2026-08-11T07:39:34Z"
+    "over": 0.4751,
+    "under": 0.5249
+   }
   },
   {
    "kickoff": "2026-08-16T12:30:00Z",
    "home": "Watford",
    "away": "Southampton",
    "probs": {
-    "home": 0.2804,
-    "draw": 0.2681,
-    "away": 0.4515
+    "home": 0.2817,
+    "draw": 0.2673,
+    "away": 0.451
    },
    "market_anchored": true,
    "model_backed": true,
    "ou25": {
-    "over": 0.5427,
-    "under": 0.4573
-   },
-   "preview": "**Watford v Southampton, Championship, 16 August** Watford ended last season on a heavy losing run, beaten 0-4 at home by Coventry and 1-5 away at Middlesbrough among six matches without a win, a difficult finish to the previous campaign. Southampton closed in far better shape, winning four of their last six including a 3-1 success at Preston, and they also won the sides' last meeting 1-0 in February. Those results belong to last term, though, with both clubs starting the new season fresh. The model narrowly favours Southampton without making them overwhelming favourites, reflecting that head-to-head edge and the contrast in how each side finished. The goals picture is close, with only a slight lean towards an open, higher-scoring game.",
-   "preview_generated_at": "2026-08-11T07:23:25Z",
-   "preview_zh": "Watford對戰Southampton，英冠聯賽，8月16日：Watford在上季末段遭遇連續失利，其中包括主場以0比4不敵Coventry，以及客場以1比5負於Middlesbrough，六場比賽未嘗勝績，為上一個賽季畫下艱難的句點。Southampton則以較佳狀態收官，近六場比賽贏得四場，其中包括作客以3比1擊敗Preston，並且在雙方上一次交手中，於二月以1比0獲勝。不過，這些成績都屬於上個賽季，兩隊在新賽季都將重新出發。分析模型些微看好Southampton，但並未將其視為壓倒性優勢的一方，這反映出雙方交手紀錄的優勢，以及兩隊上季收官表現的落差。進球數方面雙方相差不大，僅稍微傾向於這將是一場進球較多、較為開放的比賽。",
-   "preview_zh_generated_at": "2026-08-11T07:39:34Z"
+    "over": 0.5431,
+    "under": 0.4569
+   }
   },
   {
    "kickoff": "2026-08-16T15:00:00Z",
    "home": "Burnley",
    "away": "West Ham United",
    "probs": {
-    "home": 0.3152,
-    "draw": 0.2708,
-    "away": 0.4139
+    "home": 0.3104,
+    "draw": 0.2701,
+    "away": 0.4194
    },
    "market_anchored": true,
    "model_backed": true,
    "ou25": {
-    "over": 0.5362,
-    "under": 0.4638
-   },
-   "preview": "Burnley West Ham United, Championship, 16 August 2026. Both clubs return to this level after playing in the top flight last season, so their recent match lines are history rather than current form. Burnley's spring brought draws and heavy defeats, including losses by 1-4 and 1-3, while West Ham closed with a comfortable 3-0 win despite an earlier 0-3 defeat away at Brentford. Head-to-head results favour the visitors, who have won three of the last five meetings, most recently by two goals. The model leans towards West Ham without being emphatic, and Burnley's own chances sit close behind with the draw well in play. The goals picture is similarly tight, with only a modest tilt towards an open, higher-scoring game.",
-   "preview_generated_at": "2026-08-11T07:23:25Z",
-   "preview_zh": "Burnley對West Ham United，英冠聯賽，2026年8月16日。兩隊上季皆在頂級聯賽出賽，本季一同降回此級別，因此近期交手紀錄僅屬過往紀錄，並非目前狀態的反映。Burnley在春季賽事中多以平局及大比分落敗收場，包括以1比4及1比3告負；West Ham則在客場以0比3不敵Brentford後，以一場3比0的穩健勝利作結。兩隊近期交鋒紀錄對客隊較為有利，West Ham在最近五次交手中取得三勝，最近一次以兩球優勢獲勝。分析傾向West Ham稍佔上風，但差距不大，Burnley的機會也相去不遠，賽和的可能性同樣值得留意。入球方面的走勢同樣接近，僅些微傾向於一場較為開放、入球較多的比賽。",
-   "preview_zh_generated_at": "2026-08-11T07:39:34Z"
+    "over": 0.5378,
+    "under": 0.4622
+   }
   },
   {
    "kickoff": "2026-08-17T19:00:00Z",
    "home": "Cardiff City",
    "away": "Wrexham AFC",
    "probs": {
-    "home": 0.3938,
-    "draw": 0.271,
-    "away": 0.3352
+    "home": 0.3891,
+    "draw": 0.2711,
+    "away": 0.3398
    },
    "market_anchored": true,
    "model_backed": true,
    "ou25": {
-    "over": 0.5402,
-    "under": 0.4598
-   },
-   "preview": "Cardiff City are narrowly favoured here, with the draw not far behind and Wrexham AFC's chances close behind that too, making this look like a fairly tight opener rather than a one-sided call. Cardiff's known form comes from their last spell in this division, when draws with West Brom and Oxford sat alongside home defeats to Stoke and away losses at Sheffield United and Norwich; that run is history now, and the club returns to Championship level rather than carrying genuine current form into this fixture. Wrexham's recent matches tell a livelier story, wins over Oxford and Stoke either side of a heavy defeat at Southampton and another loss at Birmingham, a pattern that swings between control and vulnerability. There is no previous meeting between the two sides on record. The goals picture leans, if only slightly, towards an open game rather than a tight one.",
-   "preview_generated_at": "2026-08-11T07:23:25Z"
+    "over": 0.5388,
+    "under": 0.4612
+   }
   }
  ]
 }

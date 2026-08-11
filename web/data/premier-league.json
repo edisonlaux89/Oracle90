@@ -2,7 +2,7 @@
  "league": "premier-league",
  "league_name": "Premier League",
  "season": "2026-27",
- "generated_at": "2026-08-09T14:21:39Z",
+ "generated_at": "2026-08-11T13:45:03Z",
  "model_version": "v2",
  "anchor_weight": 0.8,
  "matches": [
@@ -11,200 +11,160 @@
    "home": "Arsenal",
    "away": "Coventry City",
    "probs": {
-    "home": 0.8109,
-    "draw": 0.1311,
+    "home": 0.8106,
+    "draw": 0.1314,
     "away": 0.058
    },
    "market_anchored": true,
    "model_backed": true,
    "ou25": {
-    "over": 0.6015,
-    "under": 0.3985
-   },
-   "preview": "Arsenal are rated clear favourites for this Premier League opener, with the model giving the home side considerable control. Their form is drawn from last season, when they won five of their last six league games, including three by a single, tightly defended goal, with the only defeat a narrow loss away at Manchester City. Coventry City return to this level after an excellent Championship campaign, unbeaten in their final six matches and scoring freely, among them a 5-1 win over Portsmouth. There are no previous meetings between the sides on record, so history offers no guide here. The total-goals lean favours an open contest, though not emphatically.",
-   "preview_generated_at": "2026-08-11T07:23:25Z",
-   "preview_zh": "Arsenal在本次英超揭幕戰中被視為明顯的優勝方，模型顯示主場一方擁有相當程度的主導力。他們的走勢根據上個賽季的表現得出，當時他們在最後六場聯賽中贏得五場，其中三場是以些微的一球優勢並嚴密防守取勝，唯一的敗仗是客場敗給Manchester City的一場小負。Coventry City在經歷一個出色的Championship賽季後重返這個層級，他們在最後六場比賽中保持不敗，並且進球頗豐，其中包括以5比1擊敗Portsmouth的一場勝利。雙方過去並無交手紀錄可查，因此歷史對這場比賽並無參考價值。總進球數的傾向偏向一場較為開放的比賽，不過幅度並不明顯。",
-   "preview_zh_generated_at": "2026-08-11T07:39:34Z"
+    "over": 0.6067,
+    "under": 0.3933
+   }
   },
   {
    "kickoff": "2026-08-22T11:30:00Z",
    "home": "Hull City",
    "away": "Manchester United",
    "probs": {
-    "home": 0.1281,
-    "draw": 0.2099,
-    "away": 0.662
+    "home": 0.1283,
+    "draw": 0.2106,
+    "away": 0.6611
    },
    "market_anchored": true,
    "model_backed": true,
    "ou25": {
     "over": 0.5575,
     "under": 0.4425
-   },
-   "preview": "Manchester United go into this fixture as clear favourites, with Hull City given only a modest chance of causing an upset on home soil. United closed out last season strongly at the top level, winning four of their last five matches, including a comfortable away success at Brighton and a tighter win at home to Liverpool. Hull's recent results come from the second tier, a mixed run with just one win in six as they return to this level. The history between these sides gives the hosts little encouragement, with United unbeaten in the last five meetings. On goals, the lean is slight, tilting marginally towards an open, higher-scoring contest.",
-   "preview_generated_at": "2026-08-11T07:23:25Z",
-   "preview_zh": "Manchester United在本場比賽中被視為明顯較被看好的一方，Hull City在主場爆冷取勝的機會並不高。United在上賽季頂級聯賽收尾階段表現強勢，最近五場比賽贏得四場，其中包括作客輕鬆擊敗Brighton，以及主場險勝Liverpool。Hull近期的戰績來自次級聯賽，戰績起伏不定，六場比賽僅贏一場，如今重返此一級別。兩隊過去交手紀錄對主隊而言並無太多鼓舞，United在最近五次交鋒中保持不敗。在進球方面，傾向略微偏向一場較為開放、進球較多的比賽。",
-   "preview_zh_generated_at": "2026-08-11T07:39:34Z"
+   }
   },
   {
    "kickoff": "2026-08-22T14:00:00Z",
    "home": "Everton",
    "away": "Crystal Palace",
    "probs": {
-    "home": 0.4446,
-    "draw": 0.2784,
-    "away": 0.277
+    "home": 0.4443,
+    "draw": 0.2783,
+    "away": 0.2774
    },
    "market_anchored": true,
    "model_backed": true,
    "ou25": {
-    "over": 0.4804,
-    "under": 0.5196
-   },
-   "preview": "Everton carry a genuine edge into this one, though not one strong enough to call comfortably. Both clubs finished last season without a win in six games, a stretch now best read as history rather than current form as they return to this level. Everton's run included a heavy home defeat to Sunderland, while Crystal Palace shipped three without reply on two separate occasions. The recent head-to-head favours the home side, unbeaten in five meetings and winning three, with the sole blemish a shared draw at the end of last term. Goals are harder to separate, with the model's lean towards a tighter, lower-scoring contest only marginal.",
-   "preview_generated_at": "2026-08-11T07:23:25Z",
-   "preview_zh": "Everton在這場比賽中確實占有優勢，但這項優勢還不足以讓人安心地做出判斷。兩隊上季末段都曾經歷六場不勝的低潮，如今這段紀錄應被視為過去式，而非兩隊重返這個層級後的現況。Everton當時的低潮包含主場慘敗給Sunderland，而Crystal Palace則兩度以零比三落敗。近期兩隊交手紀錄對主隊有利，五次交手保持不敗且贏得三場，唯一的美中不足是上季末段的一場平手。進球數方面則較難判斷高下，模型傾向這將是一場較為緊湊、低比分的比賽，但這項傾向並不明顯。",
-   "preview_zh_generated_at": "2026-08-11T07:39:34Z"
+    "over": 0.4816,
+    "under": 0.5184
+   }
   },
   {
    "kickoff": "2026-08-22T14:00:00Z",
    "home": "Ipswich Town",
    "away": "Sunderland",
    "probs": {
-    "home": 0.3561,
-    "draw": 0.2843,
-    "away": 0.3596
+    "home": 0.3562,
+    "draw": 0.2854,
+    "away": 0.3584
    },
    "market_anchored": true,
    "model_backed": true,
    "ou25": {
-    "over": 0.483,
-    "under": 0.517
-   },
-   "preview": "This one is finely balanced, with the model finding little to separate the two sides. Ipswich Town closed out their Championship promotion campaign strongly, following a heavy defeat at Portsmouth with an unbeaten four-match run that ended in a 3-0 home win over QPR, and they head into this Premier League return on the back of that form. Sunderland, who stayed at this level through the spring, ended their own season with back-to-back wins, including a comfortable away success at Everton, though a 5-0 home defeat by Nottingham Forest showed their vulnerability. Ipswich have the better of recent meetings. Goals look likely to be in modest supply, with the lean tilted narrowly towards a lower-scoring afternoon.",
-   "preview_generated_at": "2026-08-11T07:23:25Z",
-   "preview_zh": "本場賽事雙方實力相當，模型分析顯示兩隊差距不大。Ipswich Town在Championship的升級之路上強勢收官，先前在Portsmouth遭遇大敗，隨後展開連續四場不敗，並以3比0主場擊敗QPR作收，帶著這股氣勢重返Premier League。Sunderland整個春季都留在這個級別，賽季末段連續拿下兩場勝利，其中包含在Everton客場輕鬆取勝，不過主場0比5不敵Nottingham Forest，也顯示出他們防守上的脆弱。近期交手紀錄中，Ipswich較占優勢。本場預期進球數不多，略微傾向低比分收場。",
-   "preview_zh_generated_at": "2026-08-11T07:39:34Z"
+    "over": 0.4829,
+    "under": 0.5171
+   }
   },
   {
    "kickoff": "2026-08-22T14:00:00Z",
    "home": "Nottingham Forest",
    "away": "Leeds United",
    "probs": {
-    "home": 0.4202,
-    "draw": 0.2779,
-    "away": 0.3019
+    "home": 0.4205,
+    "draw": 0.278,
+    "away": 0.3015
    },
    "market_anchored": true,
    "model_backed": true,
    "ou25": {
-    "over": 0.4936,
-    "under": 0.5064
-   },
-   "preview": "Nottingham Forest carry a narrow edge into this one on home advantage, though the model stops short of making them clear favourites, with the draw sitting close behind either result. Forest's home form last season featured back-to-back 1-1 draws against Bournemouth and Newcastle, while on the road they swung between a 5-0 win at Sunderland and a 2-3 defeat at Manchester United. Leeds also showed contrasting away form, losing 0-3 at West Ham but drawing 2-2 at Bournemouth, against a steadier home record that included wins over Wolves and Burnley. The recent head-to-head is split down the middle, a win apiece in the last two meetings. On goals, the lean is finely balanced, tipping only slightly towards a tighter, lower-scoring contest.",
-   "preview_generated_at": "2026-08-11T07:23:25Z",
-   "preview_zh": "Nottingham Forest在主場作戰下略占優勢，不過模型並未將其列為明顯的優勝方，賽和的可能性與雙方獲勝的可能性相當接近。Forest上季主場戰績包括連續兩場以1比1戰平Bournemouth與Newcastle，客場方面則表現起伏，先是以5比0大勝Sunderland，其後又以2比3不敵Manchester United。Leeds同樣在客場戰績不一，曾以0比3不敵West Ham，卻又在客場以2比2戰平Bournemouth，主場戰績則較為穩定，包括擊敗Wolves與Burnley。雙方近期交手紀錄平分秋色，最近兩次對戰各贏一場。就進球數而言，雙方傾向相當均衡，僅略微偏向一場比分較低、對抗較為緊繃的比賽。",
-   "preview_zh_generated_at": "2026-08-11T07:39:34Z"
+    "over": 0.494,
+    "under": 0.506
+   }
   },
   {
    "kickoff": "2026-08-22T16:30:00Z",
    "home": "Brentford",
    "away": "Tottenham Hotspur",
    "probs": {
-    "home": 0.3995,
-    "draw": 0.2631,
-    "away": 0.3374
+    "home": 0.3979,
+    "draw": 0.2638,
+    "away": 0.3383
    },
    "market_anchored": true,
    "model_backed": true,
    "ou25": {
-    "over": 0.5762,
-    "under": 0.4238
-   },
-   "preview": "Using the writing directly since this is a content task without a matching skill for football forecast copy. Brentford's finish to last season was mixed, with just one win from six outings and a heavy defeat away to Manchester City, though they did draw with Liverpool and Crystal Palace in their closing matches. Tottenham Hotspur closed more strongly, winning three of their last six including victories over Wolves and Everton, with only a single defeat in that run. Head-to-head meetings have generally favoured the visitors, though the most recent encounter finished goalless. Taking all this together, the model narrowly favours Brentford at home, with Tottenham close behind and a draw far from ruled out, making this a finely balanced contest. On the goals front, the lean is towards an open, high-scoring match rather than a tight one.",
-   "preview_generated_at": "2026-08-11T07:23:25Z",
-   "preview_zh": "Brentford上季收官表現參差，最近六場僅取得一勝，客場更曾大敗於Manchester City，不過期間也曾與Liverpool及Crystal Palace戰成平手。Tottenham Hotspur近況則較為強勢，最近六場拿下三勝，其中包括擊敗Wolves及Everton，同期僅輸掉一場。兩隊過往交手紀錄整體對客隊較為有利，但最近一次對戰以互交白卷收場。綜合以上各項因素，模型分析略為看好主場作戰的Brentford，Tottenham緊隨其後，賽和的可能性也不能排除，顯示此役雙方實力相當接近。至於入球方面，分析傾向這將是一場入球較多、場面開放的比賽，而非緊湊悶戰的賽事。",
-   "preview_zh_generated_at": "2026-08-11T07:39:34Z"
+    "over": 0.5759,
+    "under": 0.4241
+   }
   },
   {
    "kickoff": "2026-08-23T13:00:00Z",
    "home": "Brighton and Hove Albion",
    "away": "Aston Villa",
    "probs": {
-    "home": 0.4272,
-    "draw": 0.2611,
-    "away": 0.3117
+    "home": 0.4276,
+    "draw": 0.2614,
+    "away": 0.311
    },
    "market_anchored": true,
    "model_backed": true,
    "ou25": {
-    "over": 0.5836,
-    "under": 0.4164
-   },
-   "preview": "Brighton and Hove Albion are narrowly favoured to open with a win, though Aston Villa remain firmly in contention and a draw cannot be discounted. Brighton's form at the end of last season was uneven, closing with a heavy home defeat to Manchester United after three losses in four matches, but two three-goal home wins, over Wolves and Chelsea, hinted at their capability in front of their own supporters. Villa finished more strongly, winning their last two matches of the previous campaign, including a high-scoring victory over Liverpool, and they have won each of the last three meetings between these sides, most recently away from home in February. The model leans towards goals in this one.",
-   "preview_generated_at": "2026-08-11T07:23:25Z",
-   "preview_zh": "Brighton and Hove Albion在開局取勝方面稍佔優勢，不過Aston Villa仍具備十足競爭力，雙方戰平的可能性也不能排除。Brighton上賽季末段戰績起伏不定，最後以主場對Manchester United的大比分落敗作收，四戰三敗；但兩場主場三球大勝的表現，分別擊敗Wolves與Chelsea，稍微顯示出他們在主場觀眾面前的實力。Villa則以較強勁的姿態收官，在上賽季最後兩場比賽全部獲勝，其中包括一場高比分擊敗Liverpool的勝利；此外，雙方近三次交手Villa全部獲勝，最近一次是二月在客場取勝。模型傾向於本場比賽將會出現較多進球。",
-   "preview_zh_generated_at": "2026-08-11T07:39:34Z"
+    "over": 0.5825,
+    "under": 0.4175
+   }
   },
   {
    "kickoff": "2026-08-23T13:00:00Z",
    "home": "Manchester City",
    "away": "Bournemouth",
    "probs": {
-    "home": 0.6533,
-    "draw": 0.1953,
-    "away": 0.1513
+    "home": 0.654,
+    "draw": 0.1951,
+    "away": 0.1509
    },
    "market_anchored": true,
    "model_backed": true,
    "ou25": {
     "over": 0.66,
     "under": 0.34
-   },
-   "preview": "Manchester City head into this fixture as clear favourites, with a home win rated well ahead of the alternatives and Bournemouth's chances seen as the longest shot of the three outcomes. City's form late last season carried goals in both directions: two 3-0 wins over Crystal Palace and Brentford sat alongside a 3-3 draw at Everton and a home defeat to Aston Villa on the final day. Bournemouth's away form has been steadier, built on tight results including the 1-1 draw when the sides last met. The head-to-head picture leans firmly City's way too, with wins by an identical 3-1 scoreline in each of the previous two encounters. The total-goals lean points towards an open, higher-scoring contest.",
-   "preview_generated_at": "2026-08-11T07:23:25Z",
-   "preview_zh": "Manchester City在這場比賽中被視為明顯佔優的一方，主場獲勝的可能性遠高於其他結果，而Bournemouth獲勝則被視為三種結果中希望最渺茫的一項。City在上賽季末段的戰績呈現攻守兩端皆有起伏，先後以3比0擊敗Crystal Palace與Brentford，其間也曾在客場與Everton踢成3比3平手，並在賽季最後一輪主場不敵Aston Villa。Bournemouth的客場表現則較為穩定，多場比賽結果緊湊，包括雙方上次交手時踢成1比1平手。兩隊過去交手紀錄也明顯對City有利，過去兩次交鋒都以相同的3比1比分獲勝。整體進球數的走勢則指向這將是一場開放且進球較多的比賽。",
-   "preview_zh_generated_at": "2026-08-11T07:39:34Z"
+   }
   },
   {
    "kickoff": "2026-08-23T15:30:00Z",
    "home": "Newcastle United",
    "away": "Liverpool",
    "probs": {
-    "home": 0.2999,
-    "draw": 0.2506,
-    "away": 0.4495
+    "home": 0.2994,
+    "draw": 0.2503,
+    "away": 0.4503
    },
    "market_anchored": true,
    "model_backed": true,
    "ou25": {
-    "over": 0.63,
-    "under": 0.37
-   },
-   "preview": "Liverpool are narrowly favoured by the model here, with Newcastle not far behind and a draw a real possibility too. Recent meetings tilt clearly towards the visitors: Liverpool have won three of the last five encounters, including a 4-1 win at St James' Park in January. Both clubs closed last season unevenly, Newcastle losing three of their final six league games while Liverpool managed only two wins in the same span, so neither side arrives with strong current form behind them. On the goals front, the model leans towards an open, high-scoring contest.",
-   "preview_generated_at": "2026-08-11T07:23:25Z",
-   "preview_zh": "Liverpool在本場稍佔優勢，Newcastle緊追在後，戰平的可能性也不容忽視。近期交手紀錄明顯偏向客隊：Liverpool在最近五次交手中贏得三場，其中包括一月份在St James' Park以4比1獲勝的一場比賽。兩隊上賽季收官階段表現皆起伏不定，Newcastle在最後六場聯賽中輸掉三場，Liverpool同一階段則僅贏得兩場，因此雙方目前近況都稱不上穩定。在進球方面，模型傾向認為這將是一場踢法開放、進球數較多的比賽。",
-   "preview_zh_generated_at": "2026-08-11T07:39:34Z"
+    "over": 0.635,
+    "under": 0.365
+   }
   },
   {
    "kickoff": "2026-08-24T19:00:00Z",
    "home": "Fulham",
    "away": "Chelsea",
    "probs": {
-    "home": 0.3063,
-    "draw": 0.2607,
-    "away": 0.433
+    "home": 0.3018,
+    "draw": 0.2604,
+    "away": 0.4379
    },
    "market_anchored": true,
    "model_backed": true,
    "ou25": {
-    "over": 0.5725,
-    "under": 0.4275
-   },
-   "preview": "Chelsea are the team the model leans towards for this Premier League opener, though the edge is modest, with the draw and a Fulham win both firmly in play. Fulham closed last season with a home win over Newcastle and a draw at Wolves, but also suffered a heavy defeat at Arsenal and a home loss to Bournemouth. Chelsea's finish was choppier still, losing four of their last six league matches, including reverses at Sunderland and at home to Nottingham Forest, despite a win over Tottenham along the way. Recent meetings have swung both ways, with Fulham winning the last encounter in January. On goals, the lean favours an open game rather than a tight, low-scoring one.",
-   "preview_generated_at": "2026-08-11T07:23:25Z",
-   "preview_zh": "在本場英格蘭超級聯賽揭幕戰中，模型較看好Chelsea，但優勢並不明顯，賽和與Fulham獲勝的可能性同樣不容忽視。Fulham上季末段曾在主場擊敗Newcastle，並在客場戰平Wolves，但也曾在客場慘敗給Arsenal，並在主場不敵Bournemouth。Chelsea的收官戰績更加起伏不定，最近六場聯賽輸掉四場，包括客場不敵Sunderland，以及主場負於Nottingham Forest，儘管期間也曾擊敗Tottenham。兩隊近期交手互有勝負，最近一次交鋒是Fulham在一月獲勝。就進球數而言，此役傾向會是一場比較開放的比賽，而非低比分的緊湊戰局。",
-   "preview_zh_generated_at": "2026-08-11T07:39:34Z"
+    "over": 0.5739,
+    "under": 0.4261
+   }
   }
  ]
 }
