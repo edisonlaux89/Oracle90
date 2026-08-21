@@ -11,20 +11,22 @@
    "home": "Arsenal",
    "away": "Coventry City",
    "probs": {
-    "home": 0.8082,
-    "draw": 0.1329,
-    "away": 0.0589
+    "home": 0.8004,
+    "draw": 0.1371,
+    "away": 0.0625
    },
    "market_anchored": true,
    "model_backed": true,
    "ou25": {
-    "over": 0.5993,
-    "under": 0.4007
+    "over": 0.6034,
+    "under": 0.3966
    },
-   "preview": "Arsenal are strongly favoured at 81% in this Premier League opener. The model reflects confidence in the hosts, who recorded five wins from their final six matches of the previous campaign. Coventry's Championship season ended with three wins and three draws from their six games, showing variable results. The visitors now face a significant step up from the division below. Over 2.5 goals is favoured at 60%, indicating the model expects an open contest rather than a defensive, cautious affair.",
-   "preview_generated_at": "2026-08-21T02:00:47Z",
-   "preview_zh": "Arsenal在這場英超揭幕戰被強烈看好，達81%。該模型反映出對主隊的信心，主隊在上個賽季最後六場比賽中贏得五場。Coventry的英冠賽季以三勝三平結束，成績表現不穩定。客隊面臨來自次級聯賽的重大躍升。2.5球大球被看好，達60%，表示該模型預期這將是一場進攻開放的對陣，而非防守保守的比賽。",
-   "preview_zh_generated_at": "2026-08-21T02:25:47Z"
+   "final": true,
+   "finalised_at": "2026-08-21T17:00:01Z",
+   "preview": "The model favours Arsenal heavily at 80% to win this opening Premier League fixture. Arsenal's closing sequence last season saw five wins from six matches, though a loss to Manchester City in April provided a reality check. Coventry finished their Championship campaign in impressive attacking form, winning three of their final four games with emphatic scorelines that included a 5-1 home victory. The probability split suggests moderate attacking intent overall, with over 2.5 goals slightly favoured at 60%.",
+   "preview_generated_at": "2026-08-21T17:00:33Z",
+   "preview_zh": "該預測模型高度看好 Arsenal 以 80% 的勝率贏得本場英超揭幕戰。Arsenal 上賽季收官階段於六場比賽中贏得五場，儘管四月對 Manchester City 的敗績為其敲響了警鐘。Coventry 則以令人印象深刻的進攻姿態結束英冠賽季，最後四場比賽中贏得三場，並以懸殊比分取勝，其中包括一場 5:1 的主場勝利。概率分佈顯示整體進攻意圖適度，其中 2.5+ 進球數略占優勢，達到 60%。",
+   "preview_zh_generated_at": "2026-08-21T17:02:14Z"
   },
   {
    "kickoff": "2026-08-22T11:30:00Z",
