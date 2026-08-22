@@ -124,23 +124,29 @@
    "home": "Brentford",
    "away": "Tottenham Hotspur",
    "probs": {
-    "home": 0.4506,
-    "draw": 0.258,
-    "away": 0.2914
+    "home": 0.4409,
+    "draw": 0.2599,
+    "away": 0.2992
    },
    "market_anchored": true,
    "model_backed": true,
    "market_probs": {
-    "home": 0.4573,
-    "draw": 0.257,
-    "away": 0.2857
+    "home": 0.4452,
+    "draw": 0.2594,
+    "away": 0.2954
    },
    "books": 25,
-   "overround": 4.76,
+   "overround": 4.64,
    "ou25": {
-    "over": 0.5787,
-    "under": 0.4213
-   }
+    "over": 0.5739,
+    "under": 0.4261
+   },
+   "final": true,
+   "finalised_at": "2026-08-22T14:30:00Z",
+   "preview": "Brentford edges the model's calculation at 44%, though this remains an open contest with Tottenham's away record and historical head-to-head advantage keeping the visitors at 30%. Brentford's home form at the end of last season was patchy, mixing draws and defeats against stronger sides. Tottenham won away at both Aston Villa and Wolves and have historically held the edge in meetings between these teams, though their most recent clash finished goalless. The probability leans slightly towards the over at 57% for more than 2.5 goals.",
+   "preview_generated_at": "2026-08-22T14:30:29Z",
+   "preview_zh": "Brentford在模型計算中略佔優勢，勝率達44%，雖然Tottenham客場戰績與歷史對戰優勢使客隊維持30%勝率，比賽仍屬開放局面。Brentford上賽季末主場表現起伏不定，與更強隊伍的交手中混合了平局與敗績。Tottenham曾客場擊敗Aston Villa和Wolves，在兩隊歷史對戰中一向佔優勢，雖然最近一次交手以無進球作收。超過2.5球的概率略傾向57%。",
+   "preview_zh_generated_at": "2026-08-22T14:31:32Z"
   },
   {
    "kickoff": "2026-08-23T13:00:00Z",
