@@ -33,73 +33,91 @@
    "home": "Everton",
    "away": "Crystal Palace",
    "probs": {
-    "home": 0.4288,
-    "draw": 0.2816,
-    "away": 0.2896
+    "home": 0.428,
+    "draw": 0.2817,
+    "away": 0.2903
    },
    "market_anchored": true,
    "model_backed": true,
    "market_probs": {
-    "home": 0.4277,
-    "draw": 0.282,
-    "away": 0.2903
+    "home": 0.4267,
+    "draw": 0.2822,
+    "away": 0.2911
    },
    "books": 25,
-   "overround": 4.48,
+   "overround": 4.49,
    "ou25": {
-    "over": 0.4792,
-    "under": 0.5208
-   }
+    "over": 0.4786,
+    "under": 0.5214
+   },
+   "final": true,
+   "finalised_at": "2026-08-22T12:00:01Z",
+   "preview": "This opening encounter is finely balanced, with the model rating Everton slight favourites at 43% to Crystal Palace's 29%, while the draw sits at 28%. Both sides finished last season inconsistently, each recording four defeats and two draws in their final six matches. The recent head-to-head record favours Everton: three wins and two draws across the last five meetings, including a 2-2 stalemate from those final fixtures. The total-goals picture leans slightly under 2.5 at 52%, suggesting a tighter opening fixture than the recent scoring between them would indicate.",
+   "preview_generated_at": "2026-08-22T12:00:31Z",
+   "preview_zh": "這場首場對陣勢均力敵，模型將Everton列為小幅看好方，勝率為43%，相對Crystal Palace的29%，而平局機率為28%。雙方上賽季成績起伏，各自在最後六場比賽中錄得四場敗績和兩場平手。近期交手紀錄對Everton有利：過去五場對戰中贏得三場並平兩場，包括最近一次的2-2平局。進球總數傾向略低於2.5球，佔52%，暗示這場首場對陣會比雙方最近的進球表現更加緊湊。",
+   "preview_zh_generated_at": "2026-08-22T12:11:39Z"
   },
   {
    "kickoff": "2026-08-22T14:00:00Z",
    "home": "Ipswich Town",
    "away": "Sunderland",
    "probs": {
-    "home": 0.354,
-    "draw": 0.2928,
-    "away": 0.3532
+    "home": 0.355,
+    "draw": 0.2933,
+    "away": 0.3517
    },
    "market_anchored": true,
    "model_backed": true,
    "market_probs": {
-    "home": 0.3444,
-    "draw": 0.2959,
-    "away": 0.3597
+    "home": 0.3456,
+    "draw": 0.2965,
+    "away": 0.3578
    },
    "books": 25,
-   "overround": 4.72,
+   "overround": 4.75,
    "ou25": {
-    "over": 0.4495,
-    "under": 0.5505
+    "over": 0.4508,
+    "under": 0.5492
    },
    "pick": {
     "tier": "tossup",
     "side": null
-   }
+   },
+   "final": true,
+   "finalised_at": "2026-08-22T12:00:01Z",
+   "preview": "This looks finely balanced, with the model finding little to separate the sides at 36% for Ipswich and 35% for Sunderland. Ipswich has just returned to the Premier League from the Championship where recent form was mixed. Sunderland's last campaign was inconsistent, ranging from a 0-5 home loss to Nottm Forest to victories over Chelsea and Everton. Ipswich are unbeaten in their recent meetings against Sunderland. The model leans toward a low-scoring game, with under 2.5 goals at 55%.",
+   "preview_generated_at": "2026-08-22T12:00:31Z",
+   "preview_zh": "這場比賽看起來勢均力敵，模型認為雙方差別不大，Ipswich 的勝率為 36%，Sunderland 的勝率為 35%。Ipswich 剛從英冠回到英超，近期表現不一致。Sunderland 上賽季表現起伏不定，從主場 0-5 負於 Nottm Forest 到戰勝 Chelsea 和 Everton 都有。Ipswich 近期對陣 Sunderland 保持不敗。模型傾向低進球比賽，少於 2.5 球的機率為 55%。",
+   "preview_zh_generated_at": "2026-08-22T12:11:39Z"
   },
   {
    "kickoff": "2026-08-22T14:00:00Z",
    "home": "Nottingham Forest",
    "away": "Leeds United",
    "probs": {
-    "home": 0.4093,
-    "draw": 0.2862,
-    "away": 0.3045
+    "home": 0.407,
+    "draw": 0.2874,
+    "away": 0.3056
    },
    "market_anchored": true,
    "model_backed": true,
    "market_probs": {
-    "home": 0.4112,
-    "draw": 0.2888,
-    "away": 0.3001
+    "home": 0.4083,
+    "draw": 0.2903,
+    "away": 0.3014
    },
    "books": 25,
-   "overround": 4.47,
+   "overround": 4.39,
    "ou25": {
-    "over": 0.4708,
-    "under": 0.5292
-   }
+    "over": 0.4692,
+    "under": 0.5308
+   },
+   "final": true,
+   "finalised_at": "2026-08-22T12:00:01Z",
+   "preview": "The model favours Nottingham Forest at 41% against Leeds United's 31%, with draws at 29%. Both sides return to this level having shown comparable substance in spring form: Forest registered three wins mixed with draws, whilst Leeds matched that victory count but finished with a heavy 3-0 away defeat. Their head-to-head record across recent meetings shows no established dominance. The model expects under 2.5 goals at 53%, indicating a defensively cautious encounter unlikely to produce a high-scoring result.",
+   "preview_generated_at": "2026-08-22T12:00:31Z",
+   "preview_zh": "模型看好Nottingham Forest勝率為41%，對陣Leeds United勝率為31%，平局佔29%。兩隊回到此水平，春季表現體現了相近的實質：Forest取得三場勝利並混有平局，而Leeds也取得相同勝場數，但最終以客場0:3慘敗收場。兩隊近期對戰紀錄中未見明確的優勢方。模型預期比賽進球少於2.5的機率為53%，顯示這將是一場防守謹慎的比賽，不太可能出現高比分結果。",
+   "preview_zh_generated_at": "2026-08-22T12:11:39Z"
   },
   {
    "kickoff": "2026-08-22T16:30:00Z",
