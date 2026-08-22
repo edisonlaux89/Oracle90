@@ -2,211 +2,289 @@
  "league": "premier-league",
  "league_name": "Premier League",
  "season": "2026-27",
- "generated_at": "2026-08-21T02:00:19Z",
+ "generated_at": "2026-08-22T02:00:17Z",
  "model_version": "v2",
  "anchor_weight": 0.8,
  "matches": [
-  {
-   "kickoff": "2026-08-21T19:00:00Z",
-   "home": "Arsenal",
-   "away": "Coventry City",
-   "probs": {
-    "home": 0.8004,
-    "draw": 0.1371,
-    "away": 0.0625
-   },
-   "market_anchored": true,
-   "model_backed": true,
-   "ou25": {
-    "over": 0.6034,
-    "under": 0.3966
-   },
-   "final": true,
-   "finalised_at": "2026-08-21T17:00:01Z",
-   "preview": "The model favours Arsenal heavily at 80% to win this opening Premier League fixture. Arsenal's closing sequence last season saw five wins from six matches, though a loss to Manchester City in April provided a reality check. Coventry finished their Championship campaign in impressive attacking form, winning three of their final four games with emphatic scorelines that included a 5-1 home victory. The probability split suggests moderate attacking intent overall, with over 2.5 goals slightly favoured at 60%.",
-   "preview_generated_at": "2026-08-21T17:00:33Z",
-   "preview_zh": "該預測模型高度看好 Arsenal 以 80% 的勝率贏得本場英超揭幕戰。Arsenal 上賽季收官階段於六場比賽中贏得五場，儘管四月對 Manchester City 的敗績為其敲響了警鐘。Coventry 則以令人印象深刻的進攻姿態結束英冠賽季，最後四場比賽中贏得三場，並以懸殊比分取勝，其中包括一場 5:1 的主場勝利。概率分佈顯示整體進攻意圖適度，其中 2.5+ 進球數略占優勢，達到 60%。",
-   "preview_zh_generated_at": "2026-08-21T17:02:14Z"
-  },
   {
    "kickoff": "2026-08-22T11:30:00Z",
    "home": "Hull City",
    "away": "Manchester United",
    "probs": {
-    "home": 0.1141,
-    "draw": 0.1962,
-    "away": 0.6897
+    "home": 0.1089,
+    "draw": 0.1925,
+    "away": 0.6986
    },
    "market_anchored": true,
    "model_backed": true,
    "ou25": {
-    "over": 0.5811,
-    "under": 0.4189
+    "over": 0.5859,
+    "under": 0.4141
    },
-   "preview": "The model decisively favours Manchester United at 69%, with Hull's chances limited to 11% and draws at 20%. Hull's final matches of last season showed mixed results across their fixtures, combining defeats, goalless draws and a late win. Manchester United closed the season in commanding form, with multiple victories including several by multiple goals. The historical head-to-head record strongly favours the visitors, with recent meetings consistently showing either Manchester United wins or goalless draws. The goals forecast leans over 2.5 at 58%.",
-   "preview_generated_at": "2026-08-21T02:00:47Z",
-   "preview_zh": "模型明確看好 Manchester United，勝率為69%，Hull 的勝率限制在11%，平手為20%。Hull 上賽季最後幾場比賽成績參差不齊，包括敗仗、0:0 平手和一場後期取勝。Manchester United 以強勢表現收尾本賽季，取得多場勝利，其中包括數場的多球勝利。歷史對陣紀錄強烈傾向客隊，近期交手始終顯示 Manchester United 勝利或 0:0 平手。進球預測傾向2.5球以上，比例為58%。",
-   "preview_zh_generated_at": "2026-08-21T02:25:47Z"
+   "preview": "Manchester United arrive as strong favourites at 70%, with Hull offered only an 11% chance of victory. Last season's form tells the story: Manchester United ended with five consecutive wins including a dominant 3-0 away victory, whilst Hull managed just one win, three draws and two defeats across their final matches. The head-to-head record reinforces this gap; Manchester United have won three of their five recent meetings with Hull and lost none. The model suggests over 2.5 goals at 59%.",
+   "preview_generated_at": "2026-08-22T02:00:45Z",
+   "preview_zh": "Manchester United以強力看好球隊的身份出現，贏球機率為70%，Hull則僅有11%的贏球機率。上賽季的表現充分說明了這個差距：Manchester United在最後階段取得五連勝，包括一場客場3:0的壓倒性勝利，而Hull在最後的比賽中僅取得一勝、三平、兩負。交手紀錄強化了這個差距；Manchester United在最近五次與Hull的交手中贏了三場，未曾敗北。模型預測超過2.5球的機率為59%。",
+   "preview_zh_generated_at": "2026-08-22T02:26:22Z"
   },
   {
    "kickoff": "2026-08-22T14:00:00Z",
    "home": "Everton",
    "away": "Crystal Palace",
    "probs": {
-    "home": 0.4366,
-    "draw": 0.2804,
-    "away": 0.2829
+    "home": 0.4299,
+    "draw": 0.28,
+    "away": 0.29
    },
    "market_anchored": true,
    "model_backed": true,
    "ou25": {
-    "over": 0.4827,
-    "under": 0.5173
+    "over": 0.4835,
+    "under": 0.5165
    },
-   "preview": "Everton are favoured at 44%, but the model sees this as a finely balanced match, with Crystal Palace's 28% probability suggesting an even three-way contest. Both clubs are returning to this level after disappointing conclusions to last season. Everton were particularly vulnerable in their final matches, while Palace struggled to find form against stronger opposition. The most recent meeting between these sides ended 2-2, in keeping with drawn results in recent head-to-head fixtures. Everton's slight edge in their record offers modest confidence. The model leans slightly to under 2.5 goals at 52%, consistent with a closely fought encounter.",
-   "preview_generated_at": "2026-08-21T02:00:47Z",
-   "preview_zh": "Everton被看好，機率為44%，但模型認為這場比賽勢均力敵，Crystal Palace的28%機率暗示這是一場三方勢均的對決。兩支球隊在上賽季令人失望的結尾後，正重返這個水準。Everton在最後幾場比賽中特別脆弱，而Palace在對陣更強對手時難以展現狀態。這兩支球隊最近的交手以2-2結束，與近期頭對頭比賽中的平局結果相符。Everton在交戰紀錄上的微弱優勢提供了適度的信心。模型稍微傾向於小於2.5球，機率為52%，與一場勢均力敵的比賽一致。",
-   "preview_zh_generated_at": "2026-08-21T02:25:47Z"
+   "preview": "Everton edge the model's assessment at 43%, though the margin is modest against a competitive Palace side. Returning from last season, both clubs showed inconsistent form through their closing matches, with Everton recording two draws amongst four defeats, whilst Palace drew twice in six outings. Their most recent meeting ended 2-2, illustrating their tendency towards tight contests. The head-to-head record favours Everton over the past two years. A low-scoring contest edges slightly ahead in the model's projection, with under 2.5 goals favoured at 52%.",
+   "preview_generated_at": "2026-08-22T02:00:45Z",
+   "preview_zh": "Everton 在模型評估中領先 43%，但面對具競爭力的 Palace 時，優勢並不明顯。延續上個賽季的狀況，兩隊在收官比賽中都表現不穩定，Everton 四場敗績中有兩場平手，Palace 則在六場比賽中有兩場平手。他們最近一次交手以 2-2 結束，說明他們傾向於僅差分毫的比賽。過去兩年的交戰紀錄對 Everton 有利。低得分比賽在模型預測中略佔上風，少於 2.5 球的概率為 52%。",
+   "preview_zh_generated_at": "2026-08-22T02:26:22Z"
   },
   {
    "kickoff": "2026-08-22T14:00:00Z",
    "home": "Ipswich Town",
    "away": "Sunderland",
    "probs": {
-    "home": 0.3576,
-    "draw": 0.2876,
-    "away": 0.3547
+    "home": 0.3566,
+    "draw": 0.2893,
+    "away": 0.3541
    },
    "market_anchored": true,
    "model_backed": true,
    "ou25": {
-    "over": 0.4806,
-    "under": 0.5194
+    "over": 0.4702,
+    "under": 0.5298
    },
-   "preview": "The model rates this opening fixture as closely balanced, with Ipswich at 36%, Sunderland at 35% and draws at 29%. Ipswich's form showed pronounced inconsistency with a run of draws punctuated only by a striking 3-0 home victory, whilst Sunderland displayed greater volatility, recording impressive victories against significant opponents but tempered by a heavy 5-0 home defeat. In recent head-to-head meetings, Ipswich holds a clear edge, winning both encounters in 2023 and 2024. On total goals, the model leans marginally towards under 2.5 at 52%.",
-   "preview_generated_at": "2026-08-21T02:00:47Z",
-   "preview_zh": "模型認為這場開幕賽事勢均力敵，Ipswich 的機率為 36%、Sunderland 為 35%，平局為 29%。Ipswich 的狀態表現出明顯的不穩定性，一連串平局中只被一場漂亮的 3-0 主場勝利點綴，而 Sunderland 則展現更大的波動性，對陣強隊時有傑出的表現，但卻被一場慘重的 5-0 主場敗績所拖累。在近期的交手紀錄中，Ipswich 明顯占據優勢，2023 年和 2024 年的兩場對陣中均贏得勝利。在總進球數方面，模型略偏向少於 2.5 球，機率為 52%。",
-   "preview_zh_generated_at": "2026-08-21T02:25:47Z"
+   "preview": "The model backs Ipswich by the slimmest margin at 36%, with Sunderland at 35% and a draw at 29%, making this a finely balanced opener. Ipswich showed mixed form in the Championship before returning to the Premier League; Sunderland's recent Premier League campaign included impressive victories over Chelsea and Everton but a heavy loss to Nott'm Forest. Head-to-head strongly favours Ipswich, who have won all four recent meetings. The model leans under 2.5 goals at 53%, suggesting a cautious affair.",
+   "preview_generated_at": "2026-08-22T02:00:45Z",
+   "preview_zh": "模型對Ipswich的支持度以最微弱的優勢達36%，Sunderland為35%，平手為29%，使得本場揭幕戰局勢極為接近。Ipswich在重返英超前於英冠聯賽中表現參差不齊；Sunderland近期英超賽事中戰勝Chelsea和Everton表現亮眼，但慘敗給Nottm Forest。對陣紀錄明顯傾向Ipswich，該隊在近期四場交手中全部勝出。模型預測傾向少於2.5球，達53%，暗示本場比賽將趨於保守。",
+   "preview_zh_generated_at": "2026-08-22T02:26:22Z"
   },
   {
    "kickoff": "2026-08-22T14:00:00Z",
    "home": "Nottingham Forest",
    "away": "Leeds United",
    "probs": {
-    "home": 0.4121,
-    "draw": 0.2808,
-    "away": 0.307
+    "home": 0.4099,
+    "draw": 0.2821,
+    "away": 0.308
    },
    "market_anchored": true,
    "model_backed": true,
    "ou25": {
-    "over": 0.488,
-    "under": 0.512
+    "over": 0.4866,
+    "under": 0.5134
    },
-   "preview": "The model favours Nottingham Forest at 41%, though the gap over Leeds's 31% probability is modest, with a draw at 28% making this a fairly balanced contest. Both teams' form comes from the end of last season, showing mixed results as they return to this level. Forest won 5-0 against Sunderland in April but finished with draws and defeat, while Leeds won 3-0 against Wolves then slipped to a heavy loss. Their head-to-head record is closely contested, with wins alternating in recent meetings. Total goals leans narrowly to under 2.5 at 51%.",
-   "preview_generated_at": "2026-08-21T02:00:47Z",
-   "preview_zh": "模型看好Nottingham Forest，概率為41%，不過領先Leeds的31%優勢有限，平手概率為28%，使此番比賽相當均衡。兩支隊伍的狀態來自上賽季末期，他們回到這個等級時表現參差不齊。Forest在4月以5-0擊敗Sunderland，但最後以平手和敗績結束，而Leeds以3-0擊敗Wolves後隨即遭遇慘敗。他們的交手紀錄勢均力敵，近期交手勝負輪流出現。總進球數略微傾向於2.5以下，概率為51%。",
-   "preview_zh_generated_at": "2026-08-21T02:25:47Z"
+   "preview": "Nottingham Forest are slight favourites at 41%, with Leeds at 31% and the draw at 28% suggesting a competitive encounter. Both clubs finished last season with identical records of three wins from six matches, though Forest's victories came with greater flourish, including a 5-0 away success, while Leeds ended with a heavy away defeat. Their recent head-to-head meetings have seen the sides alternate 3-1 victories, both matches producing multiple goals. The probability model leans slightly towards under 2.5 goals at 51%.",
+   "preview_generated_at": "2026-08-22T02:00:45Z",
+   "preview_zh": "Nottingham Forest被看好的概率為41%，Leeds為31%，平局為28%，表明這將是一場競爭激烈的對賽。兩隊上個賽季的戰績完全相同，各在六場比賽中取勝三場，但Nottingham Forest的勝利更加出色，包括一場5:0的客場大勝，而Leeds則以一場沉重的客場敗績結束賽季。近期交手中，兩隊各自取得過3:1的勝利，兩場比賽的進球都較多。概率模型略微傾向於少於2.5球的結果，概率為51%。",
+   "preview_zh_generated_at": "2026-08-22T02:26:22Z"
   },
   {
    "kickoff": "2026-08-22T16:30:00Z",
    "home": "Brentford",
    "away": "Tottenham Hotspur",
    "probs": {
-    "home": 0.3977,
-    "draw": 0.2646,
-    "away": 0.3377
+    "home": 0.406,
+    "draw": 0.262,
+    "away": 0.332
    },
    "market_anchored": true,
    "model_backed": true,
    "ou25": {
-    "over": 0.5739,
-    "under": 0.4261
+    "over": 0.5747,
+    "under": 0.4253
    },
-   "preview": "The model slightly favours Brentford at 40% to win compared to Tottenham's 34%, with a 26% draw probability indicating a closely contested match. Tottenham hold an advantage in direct history, winning three of the last five encounters including a 2-0 victory in December, though Brentford drew 0-0 with them in January. Both sides' end-of-season form from May presented mixed results and neither appears to carry strong momentum from their previous campaign. The model points toward an open affair, with over 2.5 goals assessed at 57%.",
-   "preview_generated_at": "2026-08-21T02:00:47Z",
-   "preview_zh": "模型預測Brentford的勝率為40%，相比Tottenham的34%，平手機率為26%，顯示這將是一場勢均力敵的比賽。Tottenham在直接對戰紀錄中佔有優勢，在近五場交手中贏得三場，包括12月的2:0勝利，不過Brentford在1月與他們戰成0:0。雙方在5月的賽季末期表現參差不齊，都未能從上一個賽季延續強勢動能。模型指向這將是一場開放式的比賽，大於2.5球的機率評估為57%。",
-   "preview_zh_generated_at": "2026-08-21T02:25:47Z"
+   "preview": "Brentford are slight favourites at 41%, though Tottenham at 33% make this finely balanced, with draws at 26%. Spurs hold significant historical advantage in this fixture, winning three of the last five meetings, with their most recent encounter ending goalless. Brentford's closing season showed volatility, highlighted by a 3-0 home win yet followed by a 0-3 away loss. Tottenham proved more consistent, recording three victories across their final matches including away wins at Wolves and Aston Villa. The model rates over 2.5 goals at 57%.",
+   "preview_generated_at": "2026-08-22T02:00:45Z",
+   "preview_zh": "Brentford以41%略佔上風，Tottenham則為33%，平手占26%，整體勢均力敵。Spurs在此對陣中握有顯著的歷史優勢，近五次交手中贏得三場，最近的一次交手以0:0結束。Brentford本賽季末段表現波動，一場3:0的主場勝利隨之出現0:3的客場落敗。Tottenham表現則更為穩健，最後幾場賽事中取得三場勝利，包括作客Wolves和Aston Villa的兩場勝利。模型評估進球數超過2.5的概率為57%。",
+   "preview_zh_generated_at": "2026-08-22T02:26:22Z"
   },
   {
    "kickoff": "2026-08-23T13:00:00Z",
    "home": "Brighton and Hove Albion",
    "away": "Aston Villa",
    "probs": {
-    "home": 0.4375,
-    "draw": 0.2624,
-    "away": 0.3001
+    "home": 0.4385,
+    "draw": 0.2654,
+    "away": 0.2961
    },
    "market_anchored": true,
    "model_backed": true,
    "ou25": {
-    "over": 0.5721,
-    "under": 0.4279
+    "over": 0.5492,
+    "under": 0.4508
    },
-   "preview": "Brighton are modelled as a slight favourite at 44%, with Aston Villa at 30%, indicating a tightly contested opening match. Both squads return to action after last season concluded. Brighton's home form proved inconsistent during the last campaign, registering significant victories of 3-0 and 3-0 alongside heavy defeats. Villa displayed attacking prowess with wins of 4-2 and 4-3, though defeats also featured. The teams' most recent meeting saw Villa win 1-0 at Brighton. Over 2.5 goals is projected at 57%.",
-   "preview_generated_at": "2026-08-21T02:00:47Z",
-   "preview_zh": "Brighton被評估為輕微優勢者，獲勝概率為44%，Aston Villa為30%，表明這場開幕戰勢均力敵。兩支球隊在上季結束後恢復比賽。Brighton的主場表現在上一季中不穩定，錄得3-0和3-0的重大勝利，也遭遇過重大敗績。Villa展現進攻實力，取得4-2和4-3的勝利，但也有敗績。兩隊最近一次交手中，Villa在Brighton以1-0獲勝。預計進球達到3球或以上的概率為57%。",
-   "preview_zh_generated_at": "2026-08-21T02:25:47Z"
+   "preview": "Brighton edges the model forecast at 44%, but Aston Villa's 30% probability combined with the 27% draw possibility makes this a finely balanced contest. Head-to-head history favours Villa notably, who have won three of their last five meetings, including a 3-0 victory at this ground. Brighton's form from the end of last season proved mixed, with three defeats among their final six league matches. The goal market leans over 2.5 at 55%, reflecting the attacking patterns evident in recent meetings between these clubs.",
+   "preview_generated_at": "2026-08-22T02:00:45Z",
+   "preview_zh": "Brighton 在模型預測中領先 44%，但 Aston Villa 30% 的勝率結合 27% 的平局可能性，使這場對陣勢均力敵。對戰歷史對 Villa 明顯有利，最近五場交手中 Villa 贏得三場，包括在此球場的一次 3-0 勝利。Brighton 上賽季末的表現並不穩定，最後六場聯賽中有三場落敗。進球數超過 2.5 球的預測佔 55%，反映了這兩隊最近交手中的進攻特點。",
+   "preview_zh_generated_at": "2026-08-22T02:26:22Z"
   },
   {
    "kickoff": "2026-08-23T13:00:00Z",
    "home": "Manchester City",
    "away": "Bournemouth",
    "probs": {
-    "home": 0.6492,
-    "draw": 0.1975,
-    "away": 0.1533
+    "home": 0.6479,
+    "draw": 0.1977,
+    "away": 0.1544
    },
    "market_anchored": true,
    "model_backed": true,
    "ou25": {
-    "over": 0.6491,
-    "under": 0.3509
+    "over": 0.647,
+    "under": 0.353
    },
-   "preview": "Manchester City are the model's clear choice at 65%, a decisive but not overwhelming favourite. The teams drew 1-1 in their most recent meeting, though City won 3-1 in the two prior encounters. Manchester City's recent form has been mixed, with wins interspersed among draws and a recent defeat. Bournemouth have also been inconsistent, recording equal numbers of wins and draws. Over 2.5 goals is favoured at 65%.",
-   "preview_generated_at": "2026-08-21T02:00:47Z",
-   "preview_zh": "Manchester City是模型的明確首選，概率達65%，屬於明確卻非絕對壓倒性的有利方。兩隊最近一次交手平1-1，但City在前兩次對陣中都以3-1獲勝。Manchester City最近表現起伏不定，勝利穿插著平手和最近的敗績。Bournemouth也表現不穩定，勝場和平手數相等。總進球數超過2.5個被看好，概率達65%。",
-   "preview_zh_generated_at": "2026-08-21T02:25:47Z"
+   "preview": "The model backs Manchester City at 65% to win. Both teams return to this level after last season's close in May. City showed three wins and two draws over six matches but finished with a 1-2 home loss to Villa. Bournemouth won three times but drew three, including 1-1 with City and 2-2 with Leeds, and beat Palace 3-0. Manchester City's recent home record against Bournemouth has been strong: two 3-1 victories. The model forecasts 65% for over 2.5 goals.",
+   "preview_generated_at": "2026-08-22T02:00:45Z",
+   "preview_zh": "模型估算Manchester City以65%的機率獲勝。兩隊回到去年5月的水準。City在6場比賽中取得3勝2平，但主場以1-2不敵Villa。Bournemouth則取得3勝3平，包括與City的1-1打平及與Leeds的2-2打平，以及3-0擊敗Palace。Manchester City近期在主場對陣Bournemouth的戰績強勢：取得兩場3-1的勝利。模型預測2.5球以上進球的機率為65%。",
+   "preview_zh_generated_at": "2026-08-22T02:26:22Z"
   },
   {
    "kickoff": "2026-08-23T15:30:00Z",
    "home": "Newcastle United",
    "away": "Liverpool",
    "probs": {
-    "home": 0.2731,
-    "draw": 0.2489,
-    "away": 0.478
+    "home": 0.2658,
+    "draw": 0.2494,
+    "away": 0.4848
    },
    "market_anchored": true,
    "model_backed": true,
    "ou25": {
-    "over": 0.6364,
-    "under": 0.3636
+    "over": 0.63,
+    "under": 0.37
    },
-   "preview": "Liverpool's 48% probability gives them clear but not overwhelming favourite status over Newcastle's 27%, with the draw at 25%. Newcastle show mixed home form: back-to-back victories over West Ham and Brighton in May were interrupted by losses to Fulham and Arsenal. Liverpool have struggled on their travels, with losses of 2-4 away to Aston Villa and 2-3 away to Manchester United, though their head-to-head record is commanding. Recent wins of 4-1, 4-2 and 2-0 show Liverpool's dominance over Newcastle in their meetings. The model expects an open game, with over 2.5 goals favoured at 64%.",
-   "preview_generated_at": "2026-08-21T02:00:47Z",
-   "preview_zh": "Liverpool的獲勝機率為48%，相比Newcastle的27%，處於明顯但並非壓倒性的優勢，平局機率為25%。Newcastle主場表現不穩定，五月份對West Ham和Brighton的連勝隨後被輸給Fulham和Arsenal所中斷。Liverpool的客場表現欠佳，輸給Aston Villa 2-4、輸給Manchester United 2-3，但其與Newcastle的交戰紀錄明顯占優。最近的4-1、4-2和2-0勝績充分體現Liverpool對Newcastle的絕對優勢。該模型預期這將是一場進攻開放的比賽，比賽進球超過2.5球的機率為64%。",
-   "preview_zh_generated_at": "2026-08-21T02:25:47Z"
+   "preview": "Liverpool are the model's clear preference at 48%, with Newcastle's win probability limited to 27% and a draw possible at 25%. Liverpool's record in recent head-to-head contests has been striking: they won 4-1 in January and 3-2 the previous August. Both sides displayed inconsistent form toward the end of the spring season, though Newcastle managed only two wins from their final six matches. The model leans decisively toward an entertaining contest, with over 2.5 goals favoured at 63%.",
+   "preview_generated_at": "2026-08-22T02:00:45Z",
+   "preview_zh": "Liverpool是該模型的明確首選，機率為48%，Newcastle的勝率為27%，平局的機率為25%。Liverpool在近期對戰紀錄中表現亮眼：1月贏了4比1，前一年8月則贏了3比2。兩隊在春季賽季末尾表現不穩定，但Newcastle在最後六場比賽中僅獲得兩場勝利。該模型強烈傾向於一場精彩的比賽，進球數超過2.5球的機率為63%。",
+   "preview_zh_generated_at": "2026-08-22T02:26:22Z"
   },
   {
    "kickoff": "2026-08-24T19:00:00Z",
    "home": "Fulham",
    "away": "Chelsea",
    "probs": {
-    "home": 0.2682,
-    "draw": 0.2555,
-    "away": 0.4762
+    "home": 0.2608,
+    "draw": 0.2553,
+    "away": 0.4839
    },
    "market_anchored": true,
    "model_backed": true,
    "ou25": {
-    "over": 0.5709,
-    "under": 0.4291
+    "over": 0.5714,
+    "under": 0.4286
    },
-   "preview": "Chelsea are the model's clear choice at 48%, with Fulham at 27% and the draw at 26%. From last season's conclusion, Fulham displayed defensive vulnerability, losing 0-3 to Arsenal, though they finished strongly with a 2-0 home victory over Newcastle. Chelsea's campaign ended poorly: four defeats in their final six matches, including 1-2 at Sunderland. In recent head-to-head meetings, the sides have been closely matched, with Fulham taking two of the last five. The model leans towards goals, favouring over 2.5 at 57%.",
-   "preview_generated_at": "2026-08-21T02:00:47Z",
-   "preview_zh": "Chelsea是模型的明確偏好，佔48%，Fulham佔27%，平手佔26%。從上一賽季末期來看，Fulham展現防線脆弱，以0-3敗於Arsenal，儘管他們以2-0主場戰勝Newcastle結束。Chelsea的賽季末期表現糟糕，最後六場比賽中敗績四場，包括在Sunderland的1-2敗績。在近期交手中，雙方實力相當，Fulham在最近五場中贏得兩場。模型傾向進球較多，進球數超過2.5的概率為57%。",
-   "preview_zh_generated_at": "2026-08-21T02:25:47Z"
+   "preview": "Chelsea holds a narrow advantage at 48%, though the contest appears finely balanced with Fulham and the draw both at 26%. Returning to this level, Fulham ended the previous season with creditable results against Newcastle and Aston Villa amid variable overall form, while Chelsea managed only a single win across their final six games. Recent head-to-head meetings have proven consistently competitive; Fulham secured a victory in January's home meeting, winning 2-1. The model leans toward over 2.5 goals at 57%.",
+   "preview_generated_at": "2026-08-22T02:00:45Z",
+   "preview_zh": "Chelsea保持小幅領先，佔比48%，不過比賽看起來勢均力敵，Fulham與和局的佔比各為26%。回到這個級別，Fulham在上一賽季末期對Newcastle與Aston Villa取得不錯的成績，整體表現則有起伏，而Chelsea在最後六場比賽中僅獲得一場勝利。近期交手紀錄證明一直競爭激烈；Fulham在1月的主場比賽中以2-1獲勝。模型傾向進球數超過2.5球，概率為57%。",
+   "preview_zh_generated_at": "2026-08-22T02:26:22Z"
+  },
+  {
+   "kickoff": "2026-08-29T14:00:00Z",
+   "home": "Bournemouth",
+   "away": "Everton",
+   "probs": {
+    "home": 0.4837,
+    "draw": 0.269,
+    "away": 0.2474
+   },
+   "market_anchored": true,
+   "model_backed": true,
+   "ou25": {
+    "over": 0.5478,
+    "under": 0.4522
+   },
+   "preview": "The model favours Bournemouth at 48%, with Everton at 25% and a draw at 27%. Last season's final stretch was inconsistent for Bournemouth, who picked up three wins alongside three draws, while Everton managed just two draws across their final six matches and four losses against Tottenham, Sunderland, West Ham and Liverpool. Bournemouth hold the upper hand in their head-to-head record, winning three of the last five meetings. The match appears finely balanced, with the model expecting over 2.5 goals at 55%.",
+   "preview_generated_at": "2026-08-22T02:00:45Z",
+   "preview_zh": "該預測模型評估 Bournemouth 勝利的機率為 48%，Everton 為 25%，平局為 27%。上賽季最後階段，Bournemouth 表現不穩定，取得三場勝利和三場平局。Everton 在最後六場比賽中僅有兩場平局，其餘四場對陣 Tottenham、Sunderland、West Ham 和 Liverpool 全數敗北。Bournemouth 在相互交手紀錄中佔據上風，在最近五場交手中取得三場勝利。這場比賽看起來勢均力敵，該模型預期超過2.5球的機率為55%。",
+   "preview_zh_generated_at": "2026-08-22T02:26:22Z"
+  },
+  {
+   "kickoff": "2026-08-29T16:30:00Z",
+   "home": "Tottenham Hotspur",
+   "away": "Newcastle United",
+   "probs": {
+    "home": 0.4593,
+    "draw": 0.2533,
+    "away": 0.2874
+   },
+   "market_anchored": true,
+   "model_backed": true,
+   "ou25": {
+    "over": 0.5838,
+    "under": 0.4162
+   },
+   "preview": "The model favours Tottenham at 46%, though Newcastle's 29% and a 25% draw probability suggest a closely competitive encounter. Tottenham's end-of-season form was mixed, with wins over Everton and Aston Villa offset by an away loss to Chelsea and draws with Leeds and Brighton. Newcastle displayed notable home strength but consistent away vulnerability in recent fixtures. The head-to-head record strongly favours Newcastle, who have won four of their last five meetings. Over 2.5 goals is the probability edge at 58%.",
+   "preview_generated_at": "2026-08-22T02:00:45Z",
+   "preview_zh": "模型看好 Tottenham，支持率為 46%，但 Newcastle 的 29% 與平手的 25% 機率表明這將是勢均力敵的比賽。Tottenham 賽季末期表現起伏，雖贏過 Everton 與 Aston Villa，但也客場輸給 Chelsea，並與 Leeds 及 Brighton 戰平。Newcastle 在近期比賽中展現明顯的主場優勢，但客場表現持續脆弱。交手紀錄明顯偏向 Newcastle，他們在最近五次交手中贏了四場。超過 2.5 進球的機率為 58%。",
+   "preview_zh_generated_at": "2026-08-22T02:26:22Z"
+  },
+  {
+   "kickoff": "2026-08-30T13:00:00Z",
+   "home": "Leeds United",
+   "away": "Brentford",
+   "probs": {
+    "home": 0.3639,
+    "draw": 0.2801,
+    "away": 0.356
+   },
+   "market_anchored": true,
+   "model_backed": true,
+   "ou25": {
+    "over": 0.5675,
+    "under": 0.4325
+   },
+   "preview": "The model sees this as a closely matched contest. Both Leeds and Brentford are favoured at 36% to win, with the draw at 28%. Recent head-to-head meetings have been tightly contested low-scoring affairs, with their last two encounters in this calendar year finishing 0-0 and 1-1. Looking at the available form from the end of last season, both teams showed mixed results at that stage of the campaign. The model anticipates a higher-scoring game, with over 2.5 goals at 57%.",
+   "preview_generated_at": "2026-08-22T02:00:45Z",
+   "preview_zh": "模型認為這場比賽勢均力敵。Leeds 與 Brentford 各為 36% 獲勝機率，平手佔 28%。近期交手紀錄為勢均力敵的低比分局面，今年以來兩次交手分別以 0-0 及 1-1 收場。根據上賽季末段的表現，兩隊在當時都呈現混合表現。模型預計這場會是高比分比賽，2.5 球以上的機率為 57%。",
+   "preview_zh_generated_at": "2026-08-22T02:26:22Z"
+  },
+  {
+   "kickoff": "2026-08-30T13:00:00Z",
+   "home": "Chelsea",
+   "away": "Brighton and Hove Albion",
+   "probs": {
+    "home": 0.4525,
+    "draw": 0.2706,
+    "away": 0.2768
+   },
+   "market_anchored": true,
+   "model_backed": true,
+   "ou25": {
+    "over": 0.5583,
+    "under": 0.4417
+   },
+   "preview": "The model favours Chelsea at 45%, though with Brighton at 28% and the draw at 27%, this contest is finely balanced. In recent head-to-head meetings, Brighton hold the ascendancy with three wins from the last five, including two emphatic 3-0 victories that illustrate their potency in this fixture. Both teams show inconsistent recent form, with neither establishing clear dominance. The 56% probability of over 2.5 goals suggests an open and attacking match in which both sides pose a threat.",
+   "preview_generated_at": "2026-08-22T02:00:45Z",
+   "preview_zh": "模型傾向Chelsea為45%，儘管Brighton為28%、平手為27%，這場比賽勢均力敵。在近期對戰中，Brighton佔上風，最近五場中贏了三場，包括兩場3-0的大勝，展現出他們在這場比賽中的實力。兩隊最近的表現都不穩定，均未建立明確的優勢。超過2.5球的機率為56%，顯示這將是一場進攻型比賽，雙方都能構成威脅。",
+   "preview_zh_generated_at": "2026-08-22T02:26:22Z"
+  },
+  {
+   "kickoff": "2026-08-31T19:00:00Z",
+   "home": "Aston Villa",
+   "away": "Arsenal",
+   "probs": {
+    "home": 0.2399,
+    "draw": 0.2483,
+    "away": 0.5119
+   },
+   "market_anchored": true,
+   "model_backed": true,
+   "ou25": {
+    "over": 0.5219,
+    "under": 0.4781
+   },
+   "preview": "Arsenal are clear favourites at 51%, with Aston Villa at 24% and a draw at 25%. Last season Arsenal were in exceptional form, winning five of their final six matches, while Villa showed mixed results with impressive wins against Manchester City and Liverpool offset by defeats to Fulham and Tottenham. The recent head-to-head between the clubs is finely balanced across their last five meetings. The model leans slightly towards over 2.5 goals at 52%, suggesting this contest should be reasonably competitive despite Arsenal's underlying advantage.",
+   "preview_generated_at": "2026-08-22T02:00:45Z",
+   "preview_zh": "Arsenal以51%明顯領先，Aston Villa為24%，平手為25%。上賽季Arsenal表現出色，最後六場贏得五場，而Villa則成績不穩定，對Manchester City和Liverpool的勝利令人印象深刻，但敗給Fulham和Tottenham。兩隊最近五次對陣的戰績相當均衡。預測模型對超過2.5球稍微傾向，概率為52%，暗示儘管Arsenal具有基礎優勢，這場比賽應該相當具有競爭力。",
+   "preview_zh_generated_at": "2026-08-22T02:26:22Z"
   }
  ]
 }
