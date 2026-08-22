@@ -31,6 +31,23 @@ const EN = {
       leagues: { "premier-league": "Premier League", championship: "Championship" },
       barsNote:
         "Bars show home, draw and away probability. Open a match for the full breakdown.",
+      featured: {
+        title: "This round's selections",
+        sub: "A few matches from today's card, grouped by what the numbers say about them. Every selection is published before kickoff and scored against the frozen version.",
+        empty:
+          "No selections for now. Today's remaining matches are either already under way or too close to kickoff to feature.",
+        consensus: "Most confident",
+        tossup: "Genuinely open",
+        consensusNote:
+          "Our highest-confidence calls, where our model and the market agree. Short prices by definition. This group is here to show whether our percentages hold up, not because it is the most profitable place to look.",
+        tossupNote:
+          "No clear favourite. Our model and the market both leave all three outcomes live, so these are the matches where a confident forecast would be overstating what anyone knows.",
+        ourEstimate: "Our estimate",
+        marketSays: "Market",
+        pickLabel: "Leaning",
+        noPick: "No leaning",
+        vsMarket: "vs market",
+      },
       eduTitle: "What the percentages mean",
       edu: "58% means that in ten matches with similar conditions, we expect that result about six times. The highest percentage is our best estimate, not a promise. Oracle90 is a data science project; it does not offer betting advice.",
       h: "H",
@@ -194,6 +211,22 @@ const ZH: Strings = {
       ],
       leagues: { "premier-league": "英超", championship: "英冠" },
       barsNote: "機率條由左至右代表主勝、和局、客勝。點進任一場查看完整拆解。",
+      featured: {
+        title: "本輪精選",
+        sub: "從今日賽程中挑出數場，按數字所呈現的性質分組。每一場都在開賽前發佈，並以凍結版本計分。",
+        empty: "目前沒有精選場次。今日餘下的比賽不是已經開賽，就是距離開賽太近。",
+        consensus: "最有把握",
+        tossup: "真正開放",
+        consensusNote:
+          "我們最有把握的判斷，模型與市場一致。賠率按定義偏低，這一組的作用是檢驗我們的百分比是否站得住腳，並非因為它最有利可圖。",
+        tossupNote:
+          "沒有明顯熱門。模型與市場都認為三個結果皆有機會，在這些場次上給出肯定的預測，等於誇大了任何人實際知道的程度。",
+        ourEstimate: "我們的估計",
+        marketSays: "市場",
+        pickLabel: "傾向",
+        noPick: "無傾向",
+        vsMarket: "對比市場",
+      },
       eduTitle: "這些百分比是什麼意思",
       edu: "58% 的意思是：在十場條件相近的比賽裡，這個結果預期出現大約六次。最高的百分比是我們的最佳估計，不是承諾。Oracle90 是數據科學專案，不提供投注建議。",
       h: "主",

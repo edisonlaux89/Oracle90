@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import { useI18n } from "../i18n";
+import { Featured } from "../components/Featured";
 import { teamZh } from "../teams-zh";
 import {
   LEAGUES,
@@ -97,7 +98,9 @@ export function Home() {
         </ul>
       </section>
 
-      <section className="mt-10">
+      <Featured />
+
+      <section className="mt-14">
         <div className="flex gap-2">
           {LEAGUES.map((l, i) => (
             <button

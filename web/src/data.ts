@@ -7,6 +7,13 @@ export interface MatchProbs {
   away: number;
 }
 
+export type PickTier = "consensus" | "tossup";
+
+export interface Pick {
+  tier: PickTier;
+  side: "home" | "draw" | "away" | null;
+}
+
 export interface Match {
   kickoff: string;
   home: string;
@@ -15,6 +22,12 @@ export interface Match {
   market_anchored: boolean;
   model_backed: boolean;
   ou25: { over: number; under: number };
+  /** De-vigged market consensus, published alongside our own number. */
+  market_probs?: MatchProbs;
+  books?: number;
+  overround?: number;
+  pick?: Pick;
+  final?: boolean;
   preview?: string;
   preview_generated_at?: string;
   preview_zh?: string;
@@ -35,6 +48,26 @@ export const LEAGUES: LeagueData[] = [
   premierLeague as LeagueData,
   championship as LeagueData,
 ];
+
+export interface FeaturedPick {
+  league: LeagueData;
+  match: Match;
+  pick: Pick;
+}
+
+/** Featured selections across every league, consensus first. */
+export function featuredPicks(): FeaturedPick[] {
+  const order: Record<PickTier, number> = { consensus: 0, tossup: 1 };
+  return LEAGUES.flatMap((league) =>
+    league.matches
+      .filter((m): m is Match & { pick: Pick } => Boolean(m.pick))
+      .map((match) => ({ league, match, pick: match.pick })),
+  ).sort(
+    (a, b) =>
+      order[a.pick.tier] - order[b.pick.tier] ||
+      a.match.kickoff.localeCompare(b.match.kickoff),
+  );
+}
 
 export function leagueBySlug(slug: string): LeagueData | undefined {
   return LEAGUES.find((l) => l.league === slug);
