@@ -11,20 +11,22 @@
    "home": "Hull City",
    "away": "Manchester United",
    "probs": {
-    "home": 0.1089,
-    "draw": 0.1925,
-    "away": 0.6986
+    "home": 0.1071,
+    "draw": 0.1848,
+    "away": 0.708
    },
    "market_anchored": true,
    "model_backed": true,
    "ou25": {
-    "over": 0.5859,
-    "under": 0.4141
+    "over": 0.6038,
+    "under": 0.3962
    },
-   "preview": "Manchester United arrive as strong favourites at 70%, with Hull offered only an 11% chance of victory. Last season's form tells the story: Manchester United ended with five consecutive wins including a dominant 3-0 away victory, whilst Hull managed just one win, three draws and two defeats across their final matches. The head-to-head record reinforces this gap; Manchester United have won three of their five recent meetings with Hull and lost none. The model suggests over 2.5 goals at 59%.",
-   "preview_generated_at": "2026-08-22T02:00:45Z",
-   "preview_zh": "Manchester United以強力看好球隊的身份出現，贏球機率為70%，Hull則僅有11%的贏球機率。上賽季的表現充分說明了這個差距：Manchester United在最後階段取得五連勝，包括一場客場3:0的壓倒性勝利，而Hull在最後的比賽中僅取得一勝、三平、兩負。交手紀錄強化了這個差距；Manchester United在最近五次與Hull的交手中贏了三場，未曾敗北。模型預測超過2.5球的機率為59%。",
-   "preview_zh_generated_at": "2026-08-22T02:26:22Z"
+   "final": true,
+   "finalised_at": "2026-08-22T09:30:02Z",
+   "preview": "The model favours Manchester United at 71%, with Hull City at 11% and a draw at 18%. Both sides return after the summer break with sharply contrasting recent form: United claimed five wins from six matches while Hull secured one victory alongside three draws and two defeats. When the two teams previously met, United dominated those encounters, winning three times and drawing twice in their five most recent meetings. The forecast leans toward goals, with over 2.5 at 60%.",
+   "preview_generated_at": "2026-08-22T09:30:33Z",
+   "preview_zh": "模型預測 Manchester United 勝率為 71%，Hull City 為 11%，平手為 18%。兩隊在夏季休賽期後回歸，但最近狀態形成鮮明對比；Manchester United 在六場比賽中贏得五場，Hull City 則是一勝三平兩負。兩隊過往交手中，Manchester United 佔據優勢，在最近五次交手中贏得三場、平手兩場。預測傾向於進球較多，比賽進球數達三球或以上的機率為 60%。",
+   "preview_zh_generated_at": "2026-08-22T09:34:50Z"
   },
   {
    "kickoff": "2026-08-22T14:00:00Z",

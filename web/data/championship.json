@@ -11,60 +11,64 @@
    "home": "Birmingham City",
    "away": "Bristol City",
    "probs": {
-    "home": 0.5164,
-    "draw": 0.2587,
-    "away": 0.2249
+    "home": 0.5238,
+    "draw": 0.2579,
+    "away": 0.2183
    },
    "market_anchored": true,
    "model_backed": true,
    "ou25": {
-    "over": 0.506,
-    "under": 0.494
+    "over": 0.4993,
+    "under": 0.5007
    },
-   "preview": "Birmingham holds a slight edge at 52% according to the model, though with Bristol at 22% and a draw at 26% this remains competitive. The model reflects Birmingham's stronger recent form, where they beat Bristol 2-1 at home in April and won three of their final six league matches. Bristol's end-of-season campaign showed mixed results, with wins against Stoke and Sheffield United but losses to Birmingham and Norwich. The total-goals outlook is finely balanced at 51% for over 2.5.",
-   "preview_generated_at": "2026-08-22T02:00:45Z",
-   "preview_zh": "根據模型計算，Birmingham略佔上風，取勝機率為52%；Bristol為22%，平手為26%，整體仍具競爭性。模型反映出Birmingham近期表現更強勢，他們在4月主場以2:1擊敗Bristol，且在最後六場聯賽中贏得三場。Bristol賽季末期的表現呈現起伏，雖然戰勝了Stoke與Sheffield United，但也輸給了Birmingham與Norwich。進球數方面則相當均衡，超過2.5球的機率為51%。",
-   "preview_zh_generated_at": "2026-08-22T02:26:22Z"
+   "final": true,
+   "finalised_at": "2026-08-22T09:30:02Z",
+   "preview": "The model backs Birmingham to win with 52%, a modest favourite against Bristol City's 22% chance. Last season's closing matches saw Birmingham take three wins from six outings, while Bristol City managed two victories and two draws, offering clear insight into the form each brings to this Championship opener. Their most recent meeting went Birmingham's way, a 2-1 victory at home in April. Goal expectations are split evenly at 50-50, pointing to a match with no clear scoring lean.",
+   "preview_generated_at": "2026-08-22T09:30:33Z",
+   "preview_zh": "模型看好Birmingham以52%的勝率奪勝，相較Bristol City的22%勝率略佔上風。上賽季末期的比賽中，Birmingham在六場中贏了三場，Bristol City則為二勝二平，清楚反映兩隊進入此次Championship開幕戰各自的狀態。兩隊最近一次交手以Birmingham的勝利告終，於4月主場以2:1擊敗對手。進球預期呈現50-50的平衡，顯示這場比賽在得分方面沒有明顯傾向。",
+   "preview_zh_generated_at": "2026-08-22T09:34:50Z"
   },
   {
    "kickoff": "2026-08-22T11:30:00Z",
    "home": "Lincoln City",
    "away": "Portsmouth",
    "probs": {
-    "home": 0.3933,
-    "draw": 0.2825,
-    "away": 0.3242
+    "home": 0.4046,
+    "draw": 0.2858,
+    "away": 0.3096
    },
    "market_anchored": true,
    "model_backed": false,
    "ou25": {
-    "over": 0.4825,
-    "under": 0.5175
+    "over": 0.4775,
+    "under": 0.5225
    },
-   "preview": "Lincoln City hold a 39% probability advantage over Portsmouth at 32%, with the draw at 28%, suggesting this Championship opener remains finely balanced. Lincoln has no recent form on record as this campaign begins. Portsmouth closed their previous season with four wins in six matches, though their record included defensive lapses and a heavy defeat during that period. The model leans toward under 2.5 goals at 52%, indicating defensive solidity may determine this opening encounter.",
-   "preview_generated_at": "2026-08-22T02:00:45Z",
-   "preview_zh": "Lincoln City 的勝率為 39%，高於 Portsmouth 的 32%，平手機率為 28%，顯示這場英冠聯賽開幕戰仍保持勢均力敵。Lincoln 本賽季目前無最近戰績紀錄。Portsmouth 上一賽季的最後六場比賽贏得四場，但其戰績紀錄包括防線漏洞，且期間內遭遇一場大敗。模型傾向於少於 2.5 球的結果（52%），表明防線穩健程度可能決定這場開幕戰。",
-   "preview_zh_generated_at": "2026-08-22T02:26:22Z"
+   "final": true,
+   "finalised_at": "2026-08-22T09:30:02Z",
+   "preview": "The model slightly favours Lincoln City at 40 per cent, though the contest is finely balanced with Portsmouth at 31 per cent and a draw at 29 per cent. Portsmouth's previous season shows a mixed record: they won 3-1 away at Stoke and 2-0 at home to Ipswich, but lost heavily 1-5 away at Coventry and drew 1-1 at home to Birmingham most recently. With Lincoln lacking recent form and Portsmouth returning to this level, the match looks competitive. The total-goals market leans slightly under 2.5 at 52 per cent.",
+   "preview_generated_at": "2026-08-22T09:30:33Z"
   },
   {
    "kickoff": "2026-08-22T11:30:00Z",
    "home": "Millwall",
    "away": "Norwich City",
    "probs": {
-    "home": 0.4352,
-    "draw": 0.276,
-    "away": 0.2888
+    "home": 0.4058,
+    "draw": 0.2808,
+    "away": 0.3134
    },
    "market_anchored": true,
    "model_backed": true,
    "ou25": {
-    "over": 0.4825,
-    "under": 0.5175
+    "over": 0.4812,
+    "under": 0.5188
    },
-   "preview": "The model slightly favours Millwall at 44%, though this is a finely balanced contest with Norwich at 29% and the draw at 28%. Returning to action after last season's close, Millwall showed strong form with three wins in their final five games, while Norwich proved more inconsistent through their campaign's finishing stretch. The clubs have a history of competitive meetings, with Norwich claiming an away victory at Millwall grounds earlier in the year. The forecast leans towards a tighter contest, with 52% probability assigned to under 2.5 goals.",
-   "preview_generated_at": "2026-08-22T02:00:45Z",
-   "preview_zh": "該模型輕微看好 Millwall（44%），雖然這是一場勢均力敵的比賽，Norwich 為29%，平局為28%。在上賽季結束後重返賽場，Millwall 在最後五場比賽中表現強勁，贏得三場勝利，而 Norwich 在賽季收尾階段表現則更加不穩定。兩隊有激烈交手的歷史，Norwich 在今年早些時候在 Millwall 主場贏得了一場客場勝利。預測傾向於進球數較少的比賽，少於2.5球的概率為52%。",
-   "preview_zh_generated_at": "2026-08-22T02:26:22Z"
+   "final": true,
+   "finalised_at": "2026-08-22T09:30:02Z",
+   "preview": "The model favours Millwall by 41% to 31%, though this is relatively close. From last season, Millwall won 2-0 at home against Oxford in their final match but earlier lost 1-2 at home to Norwich. Norwich's season ended mixed with defeat to Hull, and the sides have split wins in their last two meetings: Millwall won 2-1 away in August 2025, Norwich won 2-1 away in April. Home advantage gives Millwall a modest edge, but the quality is closely matched. The model expects goals to be scarce, pointing to under 2.5 at 52%.",
+   "preview_generated_at": "2026-08-22T09:30:33Z",
+   "preview_zh": "模型看好Millwall，比例為41%對31%，但差距相對接近。上賽季Millwall在主場以2:0擊敗Oxford在最後一場比賽，但之前在主場以1:2不敵Norwich。Norwich的賽季以不敵Hull結束，成績參差。兩隊在最近兩次交手中各勝一場：Millwall在2025年8月客場以2:1勝出，Norwich在4月客場以2:1勝出。主場優勢使Millwall稍佔上風，但雙方實力不相上下。模型預計進球數量偏少，指向低於2.5球的概率為52%。",
+   "preview_zh_generated_at": "2026-08-22T09:34:50Z"
   },
   {
    "kickoff": "2026-08-22T14:00:00Z",
