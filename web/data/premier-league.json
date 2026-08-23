@@ -69,27 +69,29 @@
    "home": "Newcastle United",
    "away": "Liverpool",
    "probs": {
-    "home": 0.2681,
-    "draw": 0.247,
-    "away": 0.4849
+    "home": 0.269,
+    "draw": 0.2518,
+    "away": 0.4792
    },
    "market_anchored": true,
    "model_backed": true,
    "market_probs": {
-    "home": 0.2509,
-    "draw": 0.2426,
-    "away": 0.5065
+    "home": 0.2521,
+    "draw": 0.2486,
+    "away": 0.4993
    },
    "books": 25,
-   "overround": 4.66,
+   "overround": 4.58,
    "ou25": {
-    "over": 0.6318,
-    "under": 0.3682
+    "over": 0.6269,
+    "under": 0.3731
    },
-   "preview": "Liverpool are favoured at 48% to claim victory, though the margin over Newcastle suggests this will prove a competitive affair. They have established clear dominance in this fixture with three wins in the last five meetings. Both sides finished last season with mixed records, now returning to competitive action after the summer break. Newcastle's home advantage remains significant, though Liverpool's historical edge in this pairing carries substantial weight. The model projects over 2.5 goals in 63% of simulations, implying an open, attacking encounter.",
-   "preview_generated_at": "2026-08-23T02:00:42Z",
-   "preview_zh": "Liverpool 被看好以 48% 的概率贏得勝利，不過相對 Newcastle 的優勢幅度表明這將是一場激烈對陣。他們在此對陣中已建立明確優勢，過去五場中贏得三場。雙方上賽季戰績參差，現已在暑假後回歸競賽。Newcastle 的主場優勢依然顯著，然而 Liverpool 在此對陣中的歷史優勢份量很重。該模型在 63% 的模擬中預測進球數超過 2.5 球，暗示這將是一場開放、進攻型的對戰。",
-   "preview_zh_generated_at": "2026-08-23T02:32:55Z"
+   "final": true,
+   "finalised_at": "2026-08-23T13:30:00Z",
+   "preview": "Liverpool are favoured at 48% to Newcastle's 27%, with draws at 25%, offering the visitors a clear edge in the model's assessment. Newcastle ended last season with an inconsistent record, winning two but losing three of their final six matches, while Liverpool posted an equally mixed closing run. The visitors hold an advantage in the head-to-head record, winning four of the past five encounters, most recently with a 4-1 victory in January. The model expects goals, with over 2.5 marked at 63%.",
+   "preview_generated_at": "2026-08-23T13:30:29Z",
+   "preview_zh": "Liverpool 以 48% 的勝率被看好，領先 Newcastle 的 27%，平局為 25%，在模型評估中給予客隊明顯優勢。Newcastle 上賽季結束時戰績不穩，最後六場中贏二負三；Liverpool 同樣呈現參差不齊的收尾表現。客隊在交手紀錄中佔優勢，過去五場贏四場，最近一次是一月的 4-1 勝利。模型預期有進球，2.5 球以上的概率為 63%。",
+   "preview_zh_generated_at": "2026-08-23T13:31:31Z"
   },
   {
    "kickoff": "2026-08-24T19:00:00Z",
