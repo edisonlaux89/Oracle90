@@ -11,54 +11,58 @@
    "home": "Brighton and Hove Albion",
    "away": "Aston Villa",
    "probs": {
-    "home": 0.4392,
-    "draw": 0.2672,
-    "away": 0.2936
+    "home": 0.4383,
+    "draw": 0.2689,
+    "away": 0.2928
    },
    "market_anchored": true,
    "model_backed": true,
    "market_probs": {
-    "home": 0.4311,
-    "draw": 0.2687,
-    "away": 0.3002
+    "home": 0.4301,
+    "draw": 0.2708,
+    "away": 0.2991
    },
    "books": 25,
-   "overround": 4.74,
+   "overround": 4.56,
    "ou25": {
-    "over": 0.5479,
-    "under": 0.4521
+    "over": 0.5354,
+    "under": 0.4646
    },
-   "preview": "Brighton are slight favourites at 44%, though the model sees this as closely contested with Villa at 29% and a draw at 27%. Last season's form is history for both sides, but the head-to-head record shows a pattern: Villa have won three of the past five meetings, including a 3-0 away success. Brighton showed clinical home performances with back-to-back 3-0 victories, though these are now historical form. The model edges toward goals, backing over 2.5 at 55% against 45% for under 2.5.",
-   "preview_generated_at": "2026-08-23T02:00:42Z",
-   "preview_zh": "Brighton被視為輕微熱門，模型預測其勝率為44%，不過模型認為這場對陣較為勢均力敵，Villa的預測為29%，平局的預測為27%。上賽季的表現對雙方而言已成過往，但交手紀錄顯示一個模式：Villa在過去五場對陣中贏得三場，包括一次客場3:0的勝利。Brighton在主場展現出高效的表現，連續取得兩場3:0的勝利，不過這些已是歷史表現。模型傾向於進球數較多，預測2.5球以上的概率為55%，2.5球以下的概率為45%。",
-   "preview_zh_generated_at": "2026-08-23T02:32:55Z"
+   "final": true,
+   "finalised_at": "2026-08-23T11:00:00Z",
+   "preview": "Brighton are marginally favoured by the model at 44%, with Aston Villa at 29% and a draw possible at 27%, making this a finely balanced contest. Both clubs are returning to this level after their demanding last season, which showed Brighton mixing heavy defeats with convincing victories while Aston Villa finished the stronger of the two. Their recent head-to-head record proves variable, stretching from high-scoring encounters to tightly contested affairs. The model suggests a slight lean toward over 2.5 goals at 54%.",
+   "preview_generated_at": "2026-08-23T11:00:29Z",
+   "preview_zh": "根據模型分析，Brighton 的贏球機率為 44%，Aston Villa 為 29%，平手的機率為 27%，使得這場比賽勢均力敵。兩隊在經歷了上賽季的考驗後回到這個級別，上賽季 Brighton 既有沉重的敗績，也有令人信服的勝利，而 Aston Villa 的表現相對較強。兩隊最近的交手紀錄多變，從高比分對局到激烈競爭的比賽皆有。模型分析輕微傾向進球總數超過 2.5 球，機率為 54%。",
+   "preview_zh_generated_at": "2026-08-23T11:02:16Z"
   },
   {
    "kickoff": "2026-08-23T13:00:00Z",
    "home": "Manchester City",
    "away": "Bournemouth",
    "probs": {
-    "home": 0.6442,
-    "draw": 0.1989,
-    "away": 0.1569
+    "home": 0.6538,
+    "draw": 0.1986,
+    "away": 0.1476
    },
    "market_anchored": true,
    "model_backed": true,
    "market_probs": {
-    "home": 0.6427,
-    "draw": 0.1958,
-    "away": 0.1615
+    "home": 0.6549,
+    "draw": 0.1955,
+    "away": 0.1496
    },
    "books": 25,
-   "overround": 4.59,
+   "overround": 4.64,
    "ou25": {
     "over": 0.6491,
     "under": 0.3509
    },
-   "preview": "The model favours Manchester City at 64%, with Bournemouth offered at 16%. Their most recent head-to-head meeting produced a 1-1 draw away in May. City hold a decisive historical advantage, winning three of five recent meetings, with both of their two most recent wins ending 3-1. Both clubs are returning to competitive action after the summer break. The goals market leans over 2.5 at 65%, consistent with City's attacking threat and the pattern of goals in their recent head-to-head history.",
-   "preview_generated_at": "2026-08-23T02:00:42Z",
-   "preview_zh": "該模型看好Manchester City，概率為64%，Bournemouth的概率為16%。雙方最近一次交手是5月的客場1-1平。Manchester City擁有明顯的歷史優勢，最近5場交手中贏了3場，其最近2場勝利都以3-1結束。兩支球隊都在夏季休賽後回到競技比賽。進球數超過2.5的概率為65%，這與Manchester City的進攻威力及其最近交手中的進球模式相符。",
-   "preview_zh_generated_at": "2026-08-23T02:32:55Z"
+   "final": true,
+   "finalised_at": "2026-08-23T11:00:00Z",
+   "preview": "Manchester City are clear favourites at 65% to prevail at home, though the head-to-head record offers genuine encouragement to Bournemouth. The sides drew 1-1 in their most recent meeting, and City's end-of-season form displayed frustrating inconsistency, including a costly loss to Aston Villa. Bournemouth have shown recent defensive discipline with consecutive draws against strong opponents. The model expects an open encounter, with over 2.5 goals at 65%, reflecting that City's attacking threat should ultimately prove too much for their visitors.",
+   "preview_generated_at": "2026-08-23T11:00:29Z",
+   "preview_zh": "Manchester City 是明確的主場熱門，勝率達 65%；儘管如此，對戰紀錄卻為 Bournemouth 帶來實質的鼓舞。雙方在最近一次交手中戰成 1-1，而 City 的賽季末表現令人沮喪地不穩定，其中包括對 Aston Villa 的一場代價高昂的失利。Bournemouth 最近展現防守紀律，連續與強隊戰平。模型預期這將是一場開放的比賽，超過 2.5 球的機率為 65%，反映 City 的進攻威脅最終應該對客隊而言過於強大。",
+   "preview_zh_generated_at": "2026-08-23T11:02:16Z"
   },
   {
    "kickoff": "2026-08-23T15:30:00Z",
