@@ -28,10 +28,12 @@
     "over": 0.4468,
     "under": 0.5532
    },
-   "preview": "This match is finely balanced on the model's assessment, with Burnley narrowly favoured at 36% to West Bromwich's 34% and a draw at 29%. Burnley arrived from the Premier League, where their final season saw three defeats and two draws across their last six matches. The recent head-to-head between these two sides tends towards draws and narrow margins, with three of the past five meetings producing either a draw or a one-goal result. Under 2.5 goals is favoured at 55%.",
-   "preview_generated_at": "2026-08-23T02:00:42Z",
-   "preview_zh": "根據模型評估，本場比賽勢均力敵，Burnley略佔上風（36%），West Bromwich為34%，和局佔29%。Burnley來自英超，該隊上賽季最後六場比賽中取得三敗兩平。近期兩隊對戰記錄傾向於和局和小分差，過去五次交手中有三次為和局或單球勝負。進球數在2.5以下的比例為55%。",
-   "preview_zh_generated_at": "2026-08-23T02:32:55Z"
+   "final": true,
+   "finalised_at": "2026-08-23T09:00:00Z",
+   "preview": "The model slightly favours Burnley at 36% to West Brom's 34%, making this encounter finely balanced with a 29% draw probability. Burnley return to Championship level after their recent Premier League campaign. Head-to-head meetings between these sides have typically been tight affairs, with draws recurring across their rivalry (0-0 and 1-1 scorelines prominent). Both teams have shown defensive discipline in their closing fixtures. The model suggests under 2.5 goals at 55%, indicating a low-scoring match is expected.",
+   "preview_generated_at": "2026-08-23T09:00:30Z",
+   "preview_zh": "模型略微看好 Burnley，其勝率為 36%，West Brom 為 34%，使得此場對陣勢均力敵，平局機率為 29%。Burnley 在最近的英超賽季後回到英冠級別。兩隊過往交手紀錄通常很膠著，其歷史對戰中平局頻繁出現，尤其是 0-0 及 1-1 的比分。兩隊在近期比賽中都展現出防守紀律。模型預測進球數少於 2.5 球的機率為 55%，表示預期將是低進球數的比賽。",
+   "preview_zh_generated_at": "2026-08-23T09:01:26Z"
   },
   {
    "kickoff": "2026-08-28T19:00:00Z",
