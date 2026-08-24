@@ -11,23 +11,27 @@
    "home": "Fulham",
    "away": "Chelsea",
    "probs": {
-    "home": 0.2562,
-    "draw": 0.2528,
-    "away": 0.491
+    "home": 0.2485,
+    "draw": 0.2542,
+    "away": 0.4973
    },
    "market_anchored": true,
    "model_backed": true,
    "market_probs": {
-    "home": 0.2405,
-    "draw": 0.2471,
-    "away": 0.5125
+    "home": 0.2312,
+    "draw": 0.2485,
+    "away": 0.5203
    },
    "books": 25,
-   "overround": 4.89,
+   "overround": 4.42,
    "ou25": {
-    "over": 0.5639,
-    "under": 0.4361
-   }
+    "over": 0.5616,
+    "under": 0.4384
+   },
+   "final": true,
+   "finalised_at": "2026-08-24T17:00:00Z",
+   "preview": "Chelsea are favoured at 50 per cent, though only a modest advantage over an equal three-way split. Both sides finished last season with mixed results. Fulham recorded a home win against Newcastle but had difficulty away from home, including a 0-3 loss at Arsenal. Chelsea won at Tottenham but ended their campaign with a loss at Sunderland, having previously lost 0-3 away at Brighton. The head-to-head record over recent meetings shows even competition. The model anticipates over 2.5 goals at 56 per cent.",
+   "preview_generated_at": "2026-08-24T17:00:39Z"
   },
   {
    "kickoff": "2026-08-28T19:00:00Z",
