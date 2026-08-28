@@ -21,10 +21,12 @@
     "over": 0.4801,
     "under": 0.5199
    },
-   "preview": "The model gives Wrexham a narrow 40% to 33% edge over Birmingham, though the 27% draw probability reflects a fairly balanced encounter. Last season, Wrexham showed mixed form, ending with a home draw against Middlesbrough after several earlier defeats, while Birmingham demonstrated greater strength with wins against Preston and Bristol City. When the sides met in April, Birmingham prevailed 2-0 at home. The underlying pattern leans slightly towards a low-scoring contest, with under 2.5 goals at 52%.",
-   "preview_generated_at": "2026-08-28T02:00:41Z",
-   "preview_zh": "模型給予Wrexham相比Birmingham 40%對33%的小幅優勢，但27%的平局概率反映了這是場相當均勢的對陣。上賽季，Wrexham表現參差不齊，在幾場失利後以主場平局對陣Middlesbrough作收，而Birmingham則展現了更強的實力，戰勝Preston和Bristol City。雙方在四月交手時，Birmingham在主場以2:0取勝。潛在的分析模式趨向於低進球比賽，進球數少於2.5球的概率為52%。",
-   "preview_zh_generated_at": "2026-08-28T02:41:01Z"
+   "final": true,
+   "finalised_at": "2026-08-28T17:00:00Z",
+   "preview": "The model suggests a finely balanced encounter with Wrexham at 40%, Birmingham at 33% and the draw at 27%. Both clubs return after last season ended in May, when Birmingham won 2-0 at this ground in April. Wrexham showed mixed home results with victories over Stoke but suffered a heavy defeat to Southampton, whilst Birmingham proved more consistent through a sequence of wins and draws. The total goals projection leans narrowly to under at 52%, against 48% for over 2.5.",
+   "preview_generated_at": "2026-08-28T17:00:39Z",
+   "preview_zh": "模型預測這場比賽勢均力敵，Wrexham 40%、Birmingham 33%，平手 27%。兩隊在上賽季五月結束後重新出發，四月份 Birmingham 曾在此地以 2-0 勝出。Wrexham 主場表現不穩定，雖然戰勝過 Stoke，但遭 Southampton 大敗；相比之下，Birmingham 透過一系列勝利和平局表現更為穩定。進球總數預測略傾向少於 2.5 球（52%），超過 2.5 球則為 48%。",
+   "preview_zh_generated_at": "2026-08-28T17:03:44Z"
   },
   {
    "kickoff": "2026-08-29T11:30:00Z",
