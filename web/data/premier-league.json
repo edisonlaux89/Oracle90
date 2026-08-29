@@ -43,10 +43,12 @@
     "over": 0.5108,
     "under": 0.4892
    },
-   "preview": "Bournemouth start as marginal favourites at 48%, though the model suggests this is far from settled, with Everton at 25% in what looks a competitive encounter. The visitors' recent form offers little encouragement, producing just two draws and four defeats in their final six matches. Bournemouth, meanwhile, have managed a more convincing finish, with wins against Palace and Fulham among their recent results. Most significantly, the head-to-head record has gone decisively Bournemouth's way: four wins in their last five meetings. The total-goals market is nearly split at 51% over 2.5.",
-   "preview_generated_at": "2026-08-29T02:00:39Z",
-   "preview_zh": "Bournemouth 以48%的微弱優勢開局，儘管模型顯示結果遠未確定，Everton 則占25%，看起來是一場勢均力敵的比賽。客隊近期表現令人失望，最後六場比賽中僅有兩場平局和四場敗績。Bournemouth 則取得更令人信服的收尾，最近的戰績中包括戰勝 Palace 和 Fulham。最重要的是，對戰紀錄明確向 Bournemouth 傾斜，最後五次交手中贏了四場。進球總數市場中，超過2.5球的比例為51%，幾乎對半分。",
-   "preview_zh_generated_at": "2026-08-29T02:40:28Z"
+   "final": true,
+   "finalised_at": "2026-08-29T12:00:00Z",
+   "preview": "The model favours Bournemouth at 48%, with Everton at 25% and the draw at 26%. Both sides return for the new season having finished last May on contrasting notes: Bournemouth balanced their books with three wins and three draws across their final fixtures, while Everton managed only two draws and four defeats in six matches. The head-to-head record strongly favours the hosts, Bournemouth having won four of the last five meetings. Total goals are forecast almost evenly, with 51% for over 2.5.",
+   "preview_generated_at": "2026-08-29T12:00:29Z",
+   "preview_zh": "該模型看好Bournemouth佔48%，Everton佔25%，平局佔26%。兩隊在五月結束上賽季時的戰績截然不同：Bournemouth在最後幾場比賽中取得三勝三平，Everton則在六場比賽中僅有兩平四敗。對陣紀錄明顯有利於主隊Bournemouth，過去五場交手中贏得四場。進球總數預測幾乎平分，超過2.5球佔51%。",
+   "preview_zh_generated_at": "2026-08-29T12:10:08Z"
   },
   {
    "kickoff": "2026-08-29T14:00:00Z",
@@ -63,8 +65,12 @@
     "over": 0.5367,
     "under": 0.4633
    },
-   "preview": "The model favours Coventry City, rating them at 56 percent to win against Hull City's 20 percent, with draws at 24 percent. Both sides showed strong form at the end of last season: Coventry claimed three wins in four games, while Hull recovered from earlier struggles to beat Norwich in their final fixture. Their recent head-to-head meetings ended in successive goalless draws, suggesting tactical understanding between them. This shapes as a moderately competitive fixture. The model tilts toward over 2.5 goals at 54 percent, though the balance is fairly even.",
-   "preview_generated_at": "2026-08-29T02:00:39Z"
+   "final": true,
+   "finalised_at": "2026-08-29T12:00:00Z",
+   "preview": "Coventry City are favoured at 56% to take the points at home, with Hull City limited to 20% chance of victory. Coventry, returning to this level, ended the previous season with three consecutive wins of substantial margins after a spell of defensive solidity. Hull showed inconsistent form through that period, mixing victories with defeats. The head-to-head record is notably tight: four recent meetings produced just five goals, with two ending goalless. The total-goals model slightly favours over 2.5 at 54%.",
+   "preview_generated_at": "2026-08-29T12:00:29Z",
+   "preview_zh": "Coventry City在主場獲勝的概率為56%，Hull City的獲勝概率為20%。Coventry重返這個級別，上賽季末連勝三場，勝差都相當懸殊，此前曾有一段防線穩健的表現。Hull在那段時間表現不穩定，勝負交替。相互對陣記錄非常膠著：最近四場交手僅產生五粒進球，其中兩場以0-0結束。進球總數模型對2.5球以上的預測傾向為54%。",
+   "preview_zh_generated_at": "2026-08-29T12:10:08Z"
   },
   {
    "kickoff": "2026-08-29T16:30:00Z",
