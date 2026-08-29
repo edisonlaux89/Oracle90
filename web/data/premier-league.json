@@ -21,10 +21,12 @@
     "over": 0.5939,
     "under": 0.4061
    },
-   "preview": "Liverpool start as 62% favourites in this home encounter, though both sides finished last season with mixed results. Liverpool's campaign ended with defeat in their penultimate match, while Nottingham Forest showed stronger form earlier with three wins in four games, before weakening with recent draws and a loss. The head-to-head record is balanced with two wins apiece from recent meetings. The model expects a competitive match and leans toward 59% of outcomes featuring over 2.5 goals.",
-   "preview_generated_at": "2026-08-29T02:00:39Z",
-   "preview_zh": "Liverpool在此主場比賽中以62%的優勢開局，儘管雙方上賽季成績不一。Liverpool上賽季在倒數第二場比賽以敗績收場，而Nottingham Forest早期表現較佳，四場賽事中贏得三場，其後表現轉弱，近期出現平局與敗績。近期交手戰績平衡，雙方各取兩場勝利。模型預期這場比賽將競爭激烈，傾向於59%的結果會出現超過2.5球。",
-   "preview_zh_generated_at": "2026-08-29T02:40:28Z"
+   "final": true,
+   "finalised_at": "2026-08-29T09:30:00Z",
+   "preview": "Liverpool are favoured to win, with the model assessing a 62% probability. Recent head-to-head meetings between these sides have been tightly contested, and typically low-scoring. Both clubs are returning to action after several months away, their last performances from the end of last season. Nottingham Forest showed stronger finishing form at that point, highlighted by a 5-0 victory away at Sunderland, in contrast to Liverpool's mixed run-in. The model expects an open match, with over 2.5 goals in 59% of outcomes.",
+   "preview_generated_at": "2026-08-29T09:30:39Z",
+   "preview_zh": "Liverpool 被看好獲勝，模型評估勝率為 62%。近期 Liverpool 與對手的交手紀錄一直競爭激烈，通常進球數不多。兩支球隊在離開數個月後回歸，他們的最後表現來自上季尾聲。Nottingham Forest 在那時展現出更強的終段表現，以客場對 Sunderland 的 5-0 勝利為亮點，與 Liverpool 喜憂參半的衝刺形成對比。模型預期會是一場開放的比賽，有 59% 的情況下進球數超過 2.5 球。",
+   "preview_zh_generated_at": "2026-08-29T09:36:13Z"
   },
   {
    "kickoff": "2026-08-29T14:00:00Z",
