@@ -87,10 +87,12 @@
     "over": 0.5724,
     "under": 0.4276
    },
-   "preview": "Tottenham are favoured at 42%, yet with Newcastle at 32% and the draw at 26%, this match shapes as finely balanced. Newcastle arrive with a strong recent record in this fixture, having won four of the last five meetings. Both clubs bring end-of-season form into play: Tottenham finished with mixed results including notable wins over Everton and Aston Villa, while Newcastle's campaign showed inconsistency despite two emphatic home victories against Brighton and West Ham. Over 2.5 goals are forecast at 57%.",
-   "preview_generated_at": "2026-08-29T02:00:39Z",
-   "preview_zh": "Tottenham被看好的概率為42%，Newcastle為32%、平局為26%，這場比賽態勢均衡。Newcastle在此項交手中近期戰績強勢，最近五場交手中勝四場。兩隊都帶著賽季末期的狀態進入比賽：Tottenham收官戰績不穩定，有擊敗Everton和Aston Villa的重要勝績；Newcastle賽季表現缺乏穩定性，儘管主場大勝Brighton和West Ham。超過2.5球的預測概率為57%。",
-   "preview_zh_generated_at": "2026-08-29T02:40:28Z"
+   "final": true,
+   "finalised_at": "2026-08-29T14:30:00Z",
+   "preview": "The model backs Tottenham at 42% to win, though Newcastle at 32% and draws at 26% indicate this is competitive. From last season's closing stretch, Tottenham claimed three wins from six while Newcastle managed just two victories. Yet recent head-to-head form tells a different story: Newcastle have won four of their last five meetings with Tottenham, including wins at both grounds. Overall goal expectations lean over 2.5 at 57%, suggesting an open match with scoring chances available for both sides.",
+   "preview_generated_at": "2026-08-29T14:30:28Z",
+   "preview_zh": "模型預測Tottenham獲勝概率為42%，Newcastle為32%，平局為26%，表明此役具有競爭性。從上賽季最後階段來看，Tottenham在六場比賽中贏得三場，Newcastle則僅贏得兩場。然而，最近的交手紀錄呈現出不同的景象：Newcastle在與Tottenham最近五次交手中贏了四場，包括在兩個主場都取得勝利。總體進球預期傾向於超過2.5球，達57%，這表明該場比賽將是一場開放式對陣，雙方均有進球機會。",
+   "preview_zh_generated_at": "2026-08-29T14:32:13Z"
   },
   {
    "kickoff": "2026-08-30T13:00:00Z",
