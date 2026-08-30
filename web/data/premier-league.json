@@ -87,10 +87,12 @@
     "over": 0.5988,
     "under": 0.4012
    },
-   "preview": "The model strongly favours a Manchester United win at 65%. Their final six league matches last season brought five victories and one draw, including three consecutive home wins. Ipswich return to this level after ending their Championship campaign with two wins, three draws and one defeat across the supplied results. The recent meetings also support the home side: Manchester United won 3-2 in February 2025 after a 1-1 draw at Ipswich the previous November. For total goals, the model leans towards over 2.5 at 60%, compared with 40% for under 2.5.",
-   "preview_generated_at": "2026-08-30T02:00:40Z",
-   "preview_zh": "模型認為 Manchester United 獲勝的機率為65%。他們上賽季最後6場聯賽取得5勝1和，其中包括主場3連勝。Ipswich 在 Championship 賽季最後階段的所列賽果中取得2勝3和1敗後，重返此一級別。近期交手紀錄也對主場球隊有利：Manchester United 在2025年2月以3比2獲勝，而雙方前一年11月在 Ipswich 主場以1比1戰平。全場總進球數方面，模型認為達到3球或以上的機率為60%，2球或以下則為40%。",
-   "preview_zh_generated_at": "2026-08-30T02:07:30Z"
+   "final": true,
+   "finalised_at": "2026-08-30T13:30:01Z",
+   "preview": "Manchester United are clear favourites at 65%, with an impressive recent record of five wins from their last six matches supporting that view. Ipswich showed mixed form in their recent matches, combining draws and defeats alongside victories as they face this fixture. The recent meeting between them saw United emerge with a 3-2 victory, clearly indicating their strong attacking capability. With United at home against opposition stepping up in stature, the model expects goals, backing an over-2.5 outcome at 60%.",
+   "preview_generated_at": "2026-08-30T13:30:30Z",
+   "preview_zh": "Manchester United是明顯的熱門，預測勝率為65%，近期六場比賽中取得五勝的出色戰績支持了這一看法。Ipswich最近比賽表現混合，既有平局和敗績，也有勝利。兩隊最近一次交手中，United以3-2勝出，清楚展現了他們的強大進攻能力。Manchester United在主場對陣級別較高的對手，模型預期進球，預測進球總數超過2.5球的概率為60%。",
+   "preview_zh_generated_at": "2026-08-30T13:31:49Z"
   },
   {
    "kickoff": "2026-08-31T19:00:00Z",
