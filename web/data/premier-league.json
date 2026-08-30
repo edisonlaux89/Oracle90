@@ -21,10 +21,12 @@
     "over": 0.5108,
     "under": 0.4892
    },
-   "preview": "Oracle90 makes this match finely balanced, with Leeds United narrowly favoured at 37%, Brentford close behind at 36% and the draw at 27%. Leeds won each of their final three home league matches listed from last season, keeping two clean sheets. Brentford, meanwhile, drew their final two matches, including a 1-1 result away to Liverpool. The two meetings last season were also draws, ending 0-0 at Leeds and 1-1 at Brentford. The total-goals forecast is almost even, with over 2.5 goals marginally preferred at 51% to under 2.5 at 49%.",
-   "preview_generated_at": "2026-08-30T02:00:40Z",
-   "preview_zh": "Oracle90認為本場比賽勢均力敵，Leeds United以37%的勝出機率略占優勢，Brentford以36%緊追在後，平局機率則為27%。Leeds在所列的上賽季最後三場主場聯賽中全數獲勝，其中兩場未失球。另一方面，Brentford在最後兩場比賽均與對手戰平，包括作客Liverpool時以1比1收場。雙方上賽季兩度交手也都戰平，在Leeds主場以0比0結束，在Brentford主場則以1比1收場。總進球數預測也幾乎不相上下，超過2.5球的機率為51%，僅略高於低於2.5球的49%。",
-   "preview_zh_generated_at": "2026-08-30T02:07:30Z"
+   "final": true,
+   "finalised_at": "2026-08-30T11:00:00Z",
+   "preview": "This appears closely contested, with the model barely separating Leeds at 37% from Brentford at 36%, and a draw at 27%. The teams drew their last two meetings, the most recent finishing goalless. Leeds secured three wins in their final six matches of last season but closed with a 3-0 defeat away to West Ham. Brentford managed one win across their closing matches but drew three times. The model sees over 2.5 goals at 51%, a marginal lean on an otherwise even total.",
+   "preview_generated_at": "2026-08-30T11:00:38Z",
+   "preview_zh": "這顯得勢均力敵，模型幾乎無法將Leeds（37%）與Brentford（36%）區分開來，而平局佔27%。兩隊過去兩次交手均告平，最近一次戰成0:0。Leeds在上賽季最後六場取得三勝，但以客場0:3負於West Ham而落幕。Brentford在賽季收官階段僅取得一勝，但有三次平局。模型預測進球超過2.5球的概率為51%，在整體上略微傾向高進球。",
+   "preview_zh_generated_at": "2026-08-30T11:03:54Z"
   },
   {
    "kickoff": "2026-08-30T13:00:00Z",
@@ -41,10 +43,12 @@
     "over": 0.5511,
     "under": 0.4489
    },
-   "preview": "Chelsea are the model’s narrow favourite at 43%, with Brighton and Hove Albion at 30% and the draw at 26%. That leaves the contest reasonably finely balanced despite the home side’s edge. Chelsea ended last season with one win in six matches, while Brighton won two of their final six. The recent head-to-head record favours Brighton, who won the last three meetings, including a 3-0 home victory in April and a 3-1 success at Chelsea in September 2025. For total goals, the model leans towards over 2.5 at 55%, compared with 45% for under 2.5.",
-   "preview_generated_at": "2026-08-30T02:00:40Z",
-   "preview_zh": "模型以43%些微看好 Chelsea，Brighton and Hove Albion 為30%，平手則為26%。儘管主隊略占優勢，這場比賽的整體局勢仍相當均衡。Chelsea 上季最後六場比賽僅取得一勝，Brighton 則在最後六場贏得兩場。近期交手紀錄對 Brighton 較為有利，他們在最近三次交鋒中全數獲勝，包括四月主場以3比0取勝，以及2025年九月作客 Chelsea 以3比1獲勝。總進球數方面，模型認為超過2.5球的機率為55%，少於2.5球則為45%。",
-   "preview_zh_generated_at": "2026-08-30T02:07:30Z"
+   "final": true,
+   "finalised_at": "2026-08-30T11:00:00Z",
+   "preview": "The model favours Chelsea at 43%, yet the outcome remains closely contested with Brighton at 30% and draws at 26%. Brighton won 3-0 when they visited in April, a decisive result that carries historical weight. Chelsea's recent form proved inconsistent, ending the season with losses to Nott'm Forest and Sunderland, though a draw at Liverpool offered some stability. Over 2.5 goals is forecast at 55%, suggesting attacking potential from both teams, though Chelsea's defensive record requires attention.",
+   "preview_generated_at": "2026-08-30T11:00:38Z",
+   "preview_zh": "模型看好Chelsea 43%的勝率，但結果仍保持競爭態勢，Brighton為30%，平手為26%。Brighton在4月客場以3-0勝出，這是一個決定性的結果，具有歷史意義。Chelsea最近狀態不穩定，賽季末以輸給Nottm Forest和Sunderland告終，儘管在Liverpool平手提供了某種穩定性。進球超過2.5球的概率預測為55%，暗示兩隊都具有進攻潛力，但Chelsea的防線記錄仍需關注。",
+   "preview_zh_generated_at": "2026-08-30T11:03:54Z"
   },
   {
    "kickoff": "2026-08-30T13:00:00Z",
@@ -61,10 +65,12 @@
     "over": 0.4472,
     "under": 0.5528
    },
-   "preview": "Oracle90 makes this a finely balanced contest, with Fulham narrowly favoured at 37%, compared with a Sunderland win at 34% and the draw at 29%. Sunderland finished last season with consecutive victories, beating Chelsea 2-1 at home on 24 May and Everton 3-1 away on 17 May. Fulham also closed with a win, defeating Newcastle 2-0 on 24 May after taking one point from their previous four matches. The two most recent meetings both went Fulham’s way, 3-1 at Sunderland in February and 1-0 at home last November. On total goals, the model leans under 2.5 at 55%, with over 2.5 at 45%.",
-   "preview_generated_at": "2026-08-30T02:00:40Z",
-   "preview_zh": "Oracle90認為這是一場實力相當接近的對決，Fulham以37%的獲勝機率略占優勢，Sunderland獲勝的機率為34%，平局則為29%。Sunderland在上季最後取得二連勝，5月24日於主場以2比1擊敗Chelsea，5月17日則在客場以3比1擊敗Everton。Fulham也以勝利結束上季，在此前四場僅取得一分後，於5月24日以2比0擊敗Newcastle。雙方最近兩次交手皆由Fulham獲勝，分別是2月作客Sunderland以3比1取勝，以及去年11月在主場以1比0獲勝。總進球數方面，模型認為低於2.5球的機率為55%，高於2.5球的機率則為45%。",
-   "preview_zh_generated_at": "2026-08-30T02:07:30Z"
+   "final": true,
+   "finalised_at": "2026-08-30T11:00:00Z",
+   "preview": "Fulham edge the model's prediction at 37%, though Sunderland's 34% keeps this finely balanced with a 29% draw probability. Returning from last season, both clubs showed mixed form. Sunderland featured impressive victories against Chelsea and Everton alongside a heavy 0-5 home loss to Nottingham Forest. Fulham also proved inconsistent: beating Newcastle 2-0 at home but losing to Arsenal away and Bournemouth at home. In recent meetings, Fulham won both: 1-0 at home in November and 3-1 away in February. The model predicts under 2.5 goals at 55%, suggesting a tight contest.",
+   "preview_generated_at": "2026-08-30T11:00:38Z",
+   "preview_zh": "Fulham在模型預測中領先37%，而Sunderland的34%保持緊密平衡，平局概率為29%。上賽季結束後，兩隊表現不一。Sunderland取得對Chelsea和Everton的出色勝利，但也遭遇主場0：5被Nottingham Forest擊敗的慘敗。Fulham同樣表現不穩定，主場2：0擊敗Newcastle，但在客場負於Arsenal，主場也負於Bournemouth。在最近的交手中，Fulham贏了兩場：11月主場1：0和2月客場3：1。模型預測少於2.5球的概率為55%，暗示這將是一場膠著的比賽。",
+   "preview_zh_generated_at": "2026-08-30T11:03:54Z"
   },
   {
    "kickoff": "2026-08-30T15:30:00Z",
@@ -162,7 +168,9 @@
     "under": 0.4989
    },
    "preview": "Oracle90 favours a Brentford win at 54%, a clear but measured preference for the home side. Brentford’s final three home matches last season brought a 2-2 draw with Crystal Palace, a 3-0 win over West Ham and a goalless draw with Fulham. Sunderland, however, ended the campaign with consecutive wins, beating Chelsea 2-1 before a 3-1 away victory at Everton. The two meetings last season were split: Sunderland won 2-1 in August, while Brentford responded with a 3-0 victory in January. The total-goals forecast is evenly divided, with over 2.5 at 50% and under 2.5 also at 50%.",
-   "preview_generated_at": "2026-08-30T02:00:40Z"
+   "preview_generated_at": "2026-08-30T02:00:40Z",
+   "preview_zh": "Oracle90 預測 Brentford 獲勝的概率為 54%，對主隊明確但克制的傾向。Brentford 上賽季最後三場主場比賽分別為與 Crystal Palace 2-2 平手、3-0 擊敗 West Ham 以及與 Fulham 無進球平手。然而，Sunderland 則以連勝結束賽季，先是 2-1 擊敗 Chelsea，再以 3-1 的客場勝績戰勝 Everton。上賽季兩隊的兩次對戰各有勝負：Sunderland 在八月 2-1 勝出，Brentford 則在一月以 3-0 的勝績回應。進球總數的預測呈均勻分佈，超過 2.5 球為 50%，少於 2.5 球也是 50%。",
+   "preview_zh_generated_at": "2026-08-30T11:03:54Z"
   },
   {
    "kickoff": "2026-09-05T14:00:00Z",
@@ -280,7 +288,9 @@
     "under": 0.4971
    },
    "preview": "The model narrowly favours Manchester United at 39%, but this is a finely balanced contest, with an Everton win at 33% and the draw at 27%. United closed last season with five wins from six matches, including a 3-0 away victory over Brighton, while Everton went without a win across their final six fixtures. The recent meetings also show little separation at times: each side won 1-0 in the two latest encounters. The total-goals forecast has no lean either way, with over 2.5 at 50% and under 2.5 also at 50%.",
-   "preview_generated_at": "2026-08-30T02:00:40Z"
+   "preview_generated_at": "2026-08-30T02:00:40Z",
+   "preview_zh": "模型以39%的概率輕微偏向Manchester United，但這是一場勢均力敵的比賽，Everton獲勝的概率為33%，平手為27%。Manchester United在上個賽季最後六場比賽中贏得五場，包括客場3:0擊敗Brighton；而Everton在最後六場比賽中一場未勝。近期交手紀錄也顯示兩隊實力差距不大，最近兩場交手中，雙方各以1:0勝出一次。總進球數預測沒有明顯傾向，2.5球以上的概率為50%，2.5球以下也是50%。",
+   "preview_zh_generated_at": "2026-08-30T11:03:54Z"
   },
   {
    "kickoff": "2026-09-06T15:30:00Z",
