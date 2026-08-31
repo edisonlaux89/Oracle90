@@ -21,10 +21,12 @@
     "over": 0.5173,
     "under": 0.4827
    },
-   "preview": "Oracle90’s model favours Arsenal, with a 49% away-win probability, compared with 27% for the draw and 24% for an Aston Villa win. Arsenal ended last season with five consecutive victories, four of them without conceding, after losing at Manchester City. Villa closed with two wins, scoring twice at Manchester City and four times at home to Liverpool, while four of their final six league matches produced at least three goals. Recent meetings were mixed, with each side winning twice and one draw across the five listed games. The total-goals view is narrow, leaning over 2.5 goals at 52%, against 48% for under 2.5.",
-   "preview_generated_at": "2026-08-31T02:00:40Z",
-   "preview_zh": "Oracle90 的模型較看好 Arsenal，其客場獲勝機率為 49%，相較之下，平手為 27%，Aston Villa 獲勝則為 24%。Arsenal 上季在敗給 Manchester City 後，以五連勝結束賽季，其中四場未失球。Villa 則以兩連勝收尾，對 Manchester City 攻進兩球，並在主場對 Liverpool 攻進四球，而他們最後六場聯賽中有四場的總進球數至少為三球。雙方近期交手結果互有勝負，列出的五場比賽中，兩隊各勝兩場，另有一場平手。總進球數的預測差距不大，超過 2.5 球的機率為 52%，不超過 2.5 球則為 48%。",
-   "preview_zh_generated_at": "2026-08-31T02:10:11Z"
+   "final": true,
+   "finalised_at": "2026-08-31T17:00:00Z",
+   "preview": "Arsenal are favoured at 49%, the model's strongest conviction in this opening fixture, though Aston Villa at 24% and the draw at 27% mean this is no formality. Arsenal concluded last season strongly, taking five wins from their final six matches, whereas Villa returned mixed results from that period. The most recent head-to-head fixture, in December, saw Arsenal secure a decisive 4-1 victory. The model leans marginally toward over 2.5 goals at 52%, suggesting an open match despite Arsenal's clear probabilistic edge.",
+   "preview_generated_at": "2026-08-31T17:00:38Z",
+   "preview_zh": "Arsenal以49%的概率被看好，這是該模型在這場開幕戰中最強的判斷，不過Aston Villa的24%和和局的27%意味著這並非既定的結果。Arsenal上賽季結束得相當出色，最後六場比賽中贏了五場，而Villa在同一時期的成績則不夠穩定。兩隊最近一次對陣是在12月，當時Arsenal以4-1的決定性比分獲勝。該模型略微傾向於超過2.5球的結果（概率為52%），這表明儘管Arsenal具有明顯的概率優勢，這場比賽仍將是一場開放式的對陣。",
+   "preview_zh_generated_at": "2026-08-31T17:02:21Z"
   },
   {
    "kickoff": "2026-09-04T19:00:00Z",
@@ -202,7 +204,9 @@
     "under": 0.4971
    },
    "preview": "Manchester United are the model’s slight favourite at 39%, but with Everton on 33% and the draw on 27%, the match is finely balanced. The visitors ended last season with five wins and a draw from their final six league matches, including a 3-0 away win over Brighton. Everton closed the campaign without a win in six, drawing twice and losing four times. The recent meetings have been mixed: Manchester United won 1-0 at Everton in February, while Everton had taken the reverse fixture by the same scoreline in November. There is no clear total-goals lean, with over 2.5 at 50% and under 2.5 also at 50%.",
-   "preview_generated_at": "2026-08-31T02:00:40Z"
+   "preview_generated_at": "2026-08-31T02:00:40Z",
+   "preview_zh": "Manchester United是模型輕微看好的對象，佔39%，但Everton佔33%，和局佔27%，比賽勢均力敵。客隊以最後六場聯賽的五勝一和結束上季，包括作客對Brighton的3:0勝利。Everton則以六場不勝結束球季，其中兩場平手、四場敗績。近期交手戰績混合：Manchester United在二月於Everton主場以1:0獲勝，而Everton在十一月於Manchester United主場以相同比分勝。進球總數方面沒有明確傾向，2.5球以上佔50%，2.5球以下亦佔50%。",
+   "preview_zh_generated_at": "2026-08-31T17:02:21Z"
   },
   {
    "kickoff": "2026-09-06T15:30:00Z",
