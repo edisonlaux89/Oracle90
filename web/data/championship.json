@@ -2,7 +2,7 @@
  "league": "championship",
  "league_name": "Championship",
  "season": "2026-27",
- "generated_at": "2026-08-30T02:00:13Z",
+ "generated_at": "2026-08-31T02:00:13Z",
  "model_version": "v2",
  "anchor_weight": 0.8,
  "matches": [
@@ -11,20 +11,20 @@
    "home": "Sheffield United",
    "away": "Bolton Wanderers",
    "probs": {
-    "home": 0.667,
-    "draw": 0.2122,
-    "away": 0.1208
+    "home": 0.6681,
+    "draw": 0.2117,
+    "away": 0.1202
    },
    "market_anchored": false,
    "model_backed": true,
    "ou25": {
-    "over": 0.5039,
-    "under": 0.4961
+    "over": 0.5055,
+    "under": 0.4945
    },
-   "preview": "The model makes Sheffield United clear favourites, with a 67% home-win probability, compared with 21% for the draw and 12% for a Bolton Wanderers win. Sheffield United won three of their final six Championship matches last season, including a 2-1 victory at Derby on the closing day. They also won three of the four listed meetings with Bolton, keeping clean sheets in each victory. Bolton’s listed sequence dates from 2019, when they lost six successive Championship games, so it should be treated as history as the club returns to this level. The total-goals forecast is evenly split: over 2.5 is 50% and under 2.5 is 50%.",
-   "preview_generated_at": "2026-08-30T02:00:40Z",
-   "preview_zh": "模型明確看好 Sheffield United，主場獲勝機率為 67%，平手機率為 21%，Bolton Wanderers 獲勝機率則為 12%。Sheffield United 上賽季最後六場 Championship 比賽贏得三場，包括在收官戰客場以二比一擊敗 Derby。他們在文中列出的四次對陣 Bolton 的比賽中也贏得三場，且每場勝仗都未失球。Bolton 的文中戰績序列可追溯至 2019 年，當時他們在 Championship 遭遇六連敗，因此隨著球隊重返這個級別，這段紀錄應視為歷史資料。總進球數預測呈現均勢，超過 2.5 球的機率為 50%，少於 2.5 球的機率也為 50%。",
-   "preview_zh_generated_at": "2026-08-30T02:07:30Z"
+   "preview": "The model strongly favours Sheffield United at home, giving them a 67% chance of victory, compared with 21% for the draw and 12% for Bolton Wanderers. Sheffield United won three of their final six league matches last season, including a 2-1 win at Derby on 2 May, although they also lost consecutive home games to Preston and Blackburn. Bolton’s listed sequence is history from April and May 2019; the club is returning to this level after time outside the top two divisions. Sheffield United also won three of the four recent meetings. The total-goals view is very narrow, leaning over 2.5 at 51% against under 2.5 at 49%.",
+   "preview_generated_at": "2026-08-31T02:00:40Z",
+   "preview_zh": "模型明顯看好主場作戰的 Sheffield United，認為其勝率為 67%，平局機率為 21%，Bolton Wanderers 的勝率則為 12%。Sheffield United 上賽季最後六場聯賽贏得三場，包括 5 月 2 日作客以 2 比 1 擊敗 Derby，但也曾連續在主場敗給 Preston 與 Blackburn。Bolton 所列的賽果紀錄來自 2019 年 4 月與 5 月，該隊在離開前兩級聯賽一段時間後，如今回到這個級別。Sheffield United 在近期四次交手中也贏得三場。總進球數的預測非常接近，超過 2.5 球為 51%，低於 2.5 球為 49%。",
+   "preview_zh_generated_at": "2026-08-31T02:10:11Z"
   },
   {
    "kickoff": "2026-09-01T18:45:00Z",
@@ -41,10 +41,10 @@
     "over": 0.4455,
     "under": 0.5545
    },
-   "preview": "The model sees a finely balanced contest, with Preston North End only narrowly favoured at 38%, compared with 34% for Bristol City and 28% for the draw. Preston ended last season with three defeats across their final six matches, although both wins came away from home. Bristol City closed the campaign with two wins, two draws and two defeats, including a 2-0 victory over Stoke. The recent head-to-head record is similarly mixed: Preston won two of the last five meetings, Bristol City won one, and two finished level. For total goals, the model leans under 2.5 at 55%.",
-   "preview_generated_at": "2026-08-30T02:00:40Z",
-   "preview_zh": "模型認為這場比賽勢均力敵，Preston North End僅以38%稍微受到看好，Bristol City為34%，平手則為28%。Preston上賽季最後六場比賽吞下三敗，但兩場勝利都來自客場。Bristol City以兩勝、兩和、兩敗結束該賽季，其中包括以2比0擊敗Stoke。近期對戰紀錄同樣勝負交錯，最近五次交手中，Preston贏得兩場，Bristol City贏得一場，另有兩場戰成平手。總進球數方面，模型稍微傾向低於2.5球，機率為55%。",
-   "preview_zh_generated_at": "2026-08-30T02:07:30Z"
+   "preview": "Oracle90 makes this a finely balanced match, with a slight preference for Preston North End at 38%. Bristol City are close behind at 34%, while the draw is rated at 28%. The closing results from last season offer mixed evidence: Preston lost 3-1 at home to Southampton after winning 3-2 at Sheffield United, while Bristol City finished with a 2-0 home win over Stoke. Preston also took four points from last season’s two meetings, winning 2-0 away before a 0-0 home draw. The total-goals lean is under 2.5 at 55%, compared with 45% for over 2.5.",
+   "preview_generated_at": "2026-08-31T02:00:40Z",
+   "preview_zh": "Oracle90認為本場比賽實力相當，Preston North End略占優勢，勝率為38%。Bristol City以34%緊追在後，平局機率則為28%。上季末段的賽果提供了不同面向的參考：Preston在主場以1比3不敵Southampton，此前則在客場以3比2擊敗Sheffield United；Bristol City則以主場2比0擊敗Stoke作收。Preston上季兩度交手共取得4分，先在客場以2比0獲勝，之後於主場以0比0戰平。總進球數方面，低於2．5球的機率為55%，高於2．5球則為45%。",
+   "preview_zh_generated_at": "2026-08-31T02:10:11Z"
   },
   {
    "kickoff": "2026-09-01T18:45:00Z",
@@ -58,13 +58,13 @@
    "market_anchored": false,
    "model_backed": true,
    "ou25": {
-    "over": 0.4358,
-    "under": 0.5642
+    "over": 0.4359,
+    "under": 0.5641
    },
-   "preview": "The model makes this a finely balanced contest, with Derby County narrowly favoured at 37%, compared with a 35% Portsmouth win and a 28% draw. Portsmouth finished last season with four wins from six matches, including home victories over Leicester and Ipswich without conceding. Derby’s final six league games were more mixed, producing three wins and three defeats. Recent meetings also favour the visitors: Derby are unbeaten in the last four, winning twice and drawing twice, including a 1-0 victory at Portsmouth in March. The total-goals forecast leans towards under 2.5 goals at 56%, with over 2.5 at 44%.",
-   "preview_generated_at": "2026-08-30T02:00:40Z",
-   "preview_zh": "模型認為這是一場勢均力敵的比賽，Derby County以37%略受看好，Portsmouth獲勝的機率為35%，平局則為28%。Portsmouth上季最後六場比賽取得四勝，其中主場擊敗Leicester與Ipswich，且兩場皆未失球。Derby最後六場聯賽的表現較為起伏，取得三勝與三敗。近期交手紀錄也對客隊較有利，Derby近四次交手保持不敗，取得兩勝兩和，其中包括三月作客Portsmouth時以一比零獲勝。總進球數預測較傾向低於2.5球，機率為56%，高於2.5球則為44%。",
-   "preview_zh_generated_at": "2026-08-30T02:07:30Z"
+   "preview": "The model sees this as finely balanced, with Derby County only marginally favoured to win at 37%. Portsmouth are given 35% and the draw 28%, so there is little separation between the three outcomes. Portsmouth won four of their final six Championship matches last season, including three victories without conceding. Derby were unbeaten in the four recent meetings, winning twice and drawing twice, although two of the last three encounters ended level. The total-goals assessment is clearer, with under 2.5 goals favoured at 56% compared with 44% for over 2.5.",
+   "preview_generated_at": "2026-08-31T02:00:40Z",
+   "preview_zh": "模型認為本場勝負相當接近，Derby County 僅以37%的勝率預測略占優勢。Portsmouth 的勝率為35%，和局機率為28%，三種結果之間差距很小。Portsmouth 在上賽季最後六場英格蘭冠軍聯賽中贏得四場，其中三場以零失球取勝。Derby 在近期四次交手中保持不敗，取得兩勝兩和，不過最近三次對決有兩場以平局收場。總進球數的評估較為明確，低於2.5球的機率為56%，高於2.5球則為44%。",
+   "preview_zh_generated_at": "2026-08-31T02:10:11Z"
   },
   {
    "kickoff": "2026-09-01T18:45:00Z",
@@ -73,7 +73,7 @@
    "probs": {
     "home": 0.4104,
     "draw": 0.2743,
-    "away": 0.3153
+    "away": 0.3152
    },
    "market_anchored": false,
    "model_backed": true,
@@ -81,30 +81,30 @@
     "over": 0.48,
     "under": 0.52
    },
-   "preview": "Oracle90’s model sees this as a finely balanced Championship contest, with Swansea City holding a narrow edge at 41%, ahead of Watford at 32% and the draw at 27%. Swansea ended last season with two wins and a draw from their final three matches, while Watford lost each of their last five. The recent head-to-head record also gives Swansea some encouragement: they won two of the past five meetings and lost only one. The total-goals forecast is similarly tight, with under 2.5 goals given 52% and over 2.5 goals at 48%.",
-   "preview_generated_at": "2026-08-30T02:00:40Z",
-   "preview_zh": "Oracle90 的模型認為，這場英格蘭冠軍聯賽對決實力相當接近，Swansea City 以 41% 略占優勢，Watford 為 32%，平手則為 27%。Swansea 在上賽季最後三場比賽取得兩勝一和，Watford 則在最後五場比賽全部落敗。近期交手紀錄也為 Swansea 帶來一些信心，他們在過去五次交手中贏得兩場，且僅輸一場。總進球數預測同樣相當接近，低於 2.5 球為 52%，高於 2.5 球則為 48%。",
-   "preview_zh_generated_at": "2026-08-30T02:07:30Z"
+   "preview": "Oracle90’s model narrowly favours a Swansea City win at 41%, with Watford at 32% and the draw at 27%, so the match remains finely balanced. Swansea ended last season with three wins from their final six Championship matches, including a 3-1 home victory over Charlton, while Watford closed the campaign with five successive defeats. The recent head-to-head record also supports Swansea: they won 2-0 at Watford in January and are unbeaten in the past two meetings. On total goals, the model has only a slight preference for under 2.5 goals at 52%, compared with 48% for over 2.5.",
+   "preview_generated_at": "2026-08-31T02:00:40Z",
+   "preview_zh": "Oracle90的模型以41%小幅看好Swansea City獲勝，Watford獲勝的機率為32%，平手為27%，因此本場比賽仍相當勢均力敵。Swansea上賽季最後六場英冠賽事取得三勝，其中包括主場以3比1擊敗Charlton，而Watford則以五連敗結束賽季。近期對戰紀錄也對Swansea有利，他們今年一月作客以2比0擊敗Watford，且近兩次交手保持不敗。總進球數方面，模型僅略微傾向少於2.5球，機率為52%，高於超過2.5球的48%。",
+   "preview_zh_generated_at": "2026-08-31T02:10:11Z"
   },
   {
    "kickoff": "2026-09-01T18:45:00Z",
    "home": "West Ham United",
    "away": "Wolverhampton Wanderers",
    "probs": {
-    "home": 0.561,
+    "home": 0.5609,
     "draw": 0.2463,
     "away": 0.1928
    },
    "market_anchored": false,
    "model_backed": true,
    "ou25": {
-    "over": 0.5079,
-    "under": 0.4921
+    "over": 0.508,
+    "under": 0.492
    },
-   "preview": "West Ham United are the model’s clear favourite, with a 56% probability of a home win. Both clubs are returning to this level, so their results from April and May are history rather than current form. West Ham ended last season with a 3-0 home victory over Leeds, while Wolves closed with successive 1-1 draws against Burnley and Fulham. The recent meetings have produced decisive results in both directions: West Ham won the latest encounter 4-0, after Wolves had won the previous one 3-0. The total-goals forecast is much tighter, leaning slightly towards over 2.5 goals at 51%, compared with 49% for under 2.5.",
-   "preview_generated_at": "2026-08-30T02:00:40Z",
-   "preview_zh": "模型明確認為 West Ham United 較具優勢，主場獲勝機率為 56%。兩支球隊都重返此級別，因此四月和五月的賽果屬於過往紀錄，不能代表目前狀態。West Ham United 上季最後一戰在主場以 3：0 擊敗 Leeds，Wolves 則以連續兩場 1：1 戰平 Burnley 和 Fulham 作收。雙方近期交手各有大勝，West Ham United 在最近一次對決以 4：0 獲勝，而此前一次則由 Wolves 以 3：0 取勝。比賽總進球數的預測更為接近，超過 2．5 球的機率略高，為 51%，低於 2．5 球則為 49%。",
-   "preview_zh_generated_at": "2026-08-30T02:07:30Z"
+   "preview": "The model favours West Ham United, with a 56% home-win probability, compared with 25% for the draw and 19% for Wolverhampton Wanderers. That is a clear, though not overwhelming, preference. In the closing weeks of last season, West Ham won two of their final six matches, both at home, including a 3-0 victory over Leeds. Wolves ended that campaign with three 1-1 draws in their final four fixtures and no wins across the six listed matches. Recent meetings have produced contrasting results, with West Ham winning 4-0 in April after Wolves won 3-0 in January. Total goals are almost evenly split, with over 2.5 narrowly favoured at 51% against 49% under.",
+   "preview_generated_at": "2026-08-31T02:00:40Z",
+   "preview_zh": "模型較看好 West Ham United，主場獲勝機率為56%，平手機率為25%，Wolverhampton Wanderers 獲勝機率則為19%。這是相當明確但並非壓倒性的傾向。上季最後幾週，West Ham 在最後六場比賽中贏得兩場，且兩場都是主場賽事，包括以3：0擊敗 Leeds。Wolves 在該季最後四場比賽中有三場以1：1戰平，並且在列出的六場比賽中未嘗勝績。雙方近期交手結果差異明顯，West Ham 在四月以4：0獲勝，此前 Wolves 曾在一月以3：0取勝。總進球數的機率幾乎各半，達到3球以上的機率略高，為51%，2球以下則為49%。",
+   "preview_zh_generated_at": "2026-08-31T02:10:11Z"
   },
   {
    "kickoff": "2026-09-01T19:00:00Z",
@@ -112,7 +112,7 @@
    "away": "Southampton",
    "probs": {
     "home": 0.3383,
-    "draw": 0.2722,
+    "draw": 0.2723,
     "away": 0.3895
    },
    "market_anchored": false,
@@ -121,10 +121,10 @@
     "over": 0.5244,
     "under": 0.4756
    },
-   "preview": "Oracle90’s model makes Southampton the narrow favourite at 39%, with Birmingham City at 34% and the draw at 27%, so this is a finely balanced contest. Both sides ended last season’s Championship campaign with useful results. Birmingham were unbeaten in five of their final six matches and won each of their last three home games. Southampton closed with four wins and two draws from six, while the last four meetings produced at least two goals. The total-goals figures lean narrowly towards over 2.5 goals at 52%, compared with 48% for under 2.5.",
-   "preview_generated_at": "2026-08-30T02:00:40Z",
-   "preview_zh": "Oracle90的模型認為Southampton以39%的機率略占優勢，Birmingham City為34%，平局則為27%，因此這是一場實力非常接近的比賽。兩隊在上季英格蘭足球冠軍聯賽尾聲都取得了不錯的成績。Birmingham在最後六場比賽中有五場保持不敗，並且贏下最後三場主場比賽。Southampton最後六場取得四勝兩和，而雙方最近四次交手都至少出現兩個進球。總進球數據略微傾向超過2．5球，機率為52%，低於2．5球的機率則為48%。",
-   "preview_zh_generated_at": "2026-08-30T02:07:30Z"
+   "preview": "Oracle90 makes this a finely balanced contest, with Southampton narrowly favoured to win at 39%, against 34% for Birmingham City and 27% for the draw. Southampton ended last season unbeaten across the six listed matches, winning four and scoring at least twice in every game. Birmingham, meanwhile, won each of their final three listed home fixtures, including successive 2-1 victories over Bristol City and Preston. Recent meetings also provide a clear attacking pattern: Southampton won three of the last four, while both sides scored in all four. On total goals, the model leans slightly towards over 2.5 at 52%, with under 2.5 at 48%.",
+   "preview_generated_at": "2026-08-31T02:00:40Z",
+   "preview_zh": "Oracle90認為這將是一場勢均力敵的比賽，Southampton以39%的勝率略占優勢，Birmingham City的勝率為34%，平手機率則為27%。Southampton在上賽季最後所列的六場比賽中保持不敗，取得四勝，且每場至少攻進兩球。另一方面，Birmingham贏得最後所列的三場主場賽事，其中包括連續以2比1擊敗Bristol City與Preston。近期交手也呈現明確的進攻趨勢，Southampton在最近四次交鋒中贏得三場，且四場比賽皆由雙方取得進球。總進球數方面，模型略為傾向3球或以上，機率為52%，2球或以下的機率則為48%。",
+   "preview_zh_generated_at": "2026-08-31T02:10:11Z"
   },
   {
    "kickoff": "2026-09-01T19:00:00Z",
@@ -132,7 +132,7 @@
    "away": "Norwich City",
    "probs": {
     "home": 0.3266,
-    "draw": 0.2791,
+    "draw": 0.2792,
     "away": 0.3942
    },
    "market_anchored": false,
@@ -141,10 +141,10 @@
     "over": 0.4649,
     "under": 0.5351
    },
-   "preview": "The model narrowly favours Norwich City at 39%, but with Stoke City on 33% and the draw at 28%, this is a finely balanced contest. Stoke ended last season with five defeats in their final six matches, scoring only three goals across that sequence. Norwich’s closing six-game run was less consistent but included three wins, with two coming away from home. The recent head-to-head history offers no simple guide: Stoke won 2-0 at Norwich in January, while the previous meeting at Stoke finished 1-1. On total goals, the model leans slightly towards under 2.5 goals at 54%, compared with 46% for over 2.5.",
-   "preview_generated_at": "2026-08-30T02:00:40Z",
-   "preview_zh": "模型以39%些微看好Norwich City，但Stoke City為33%，平手為28%，顯示這場比賽局勢相當接近。Stoke上賽季最後六場比賽吞下五敗，期間僅攻進三球。Norwich在最後六場比賽的表現較不穩定，但仍取得三勝，其中兩勝來自客場。近期交手紀錄未能提供明確依據：Stoke在一月作客Norwich時以2比0獲勝，而此前在Stoke進行的交手則以1比1結束。總進球數方面，模型以54%略微傾向低於2．5球，高於2．5球則為46%。",
-   "preview_zh_generated_at": "2026-08-30T02:07:30Z"
+   "preview": "The model gives Norwich City a narrow edge, with a 39% chance of an away win, compared with 33% for Stoke City and 28% for the draw, so the match is finely balanced. Stoke closed last season with five defeats in six matches, scoring only three goals across that sequence. Norwich won three of their final six games, although they lost 2-1 at Hull on the last day. Recent meetings offer Stoke some encouragement: they won 2-0 at Norwich in January, while two of the previous four encounters ended 1-1. The total-goals lean is under 2.5 at 54%, against 46% for over 2.5.",
+   "preview_generated_at": "2026-08-31T02:00:40Z",
+   "preview_zh": "模型略為看好 Norwich City，預測其客場獲勝機率為39%，Stoke City 獲勝機率為33%，和局機率為28%，顯示本場比賽形勢相當接近。Stoke 上季最後六場比賽吞下五敗，期間僅攻進三球。Norwich 在最後六場比賽贏得三場，但在收官戰以1比2客場不敵 Hull。近期交手紀錄為 Stoke 帶來一些正面訊號，他們今年一月客場以2比0擊敗 Norwich，而此前四次交手有兩場以1比1結束。總進球數低於2.5球的預測機率為54%，高於2.5球則為46%。",
+   "preview_zh_generated_at": "2026-08-31T02:10:11Z"
   },
   {
    "kickoff": "2026-09-02T18:45:00Z",
@@ -152,79 +152,79 @@
    "away": "Cardiff City",
    "probs": {
     "home": 0.4125,
-    "draw": 0.2726,
+    "draw": 0.2727,
     "away": 0.3148
    },
    "market_anchored": false,
    "model_backed": true,
    "ou25": {
-    "over": 0.4967,
-    "under": 0.5033
+    "over": 0.4966,
+    "under": 0.5034
    },
-   "preview": "Oracle90’s model makes Queens Park Rangers the narrow favourite at 41%, with the draw at 27% and a Cardiff City win at 31%, so the match is finely balanced. QPR ended last season with four straight defeats, conceding at least twice in each, after draws against Bristol City and Preston. Cardiff are returning to this level, so their listed 2025 results are history rather than current form. Recent meetings are mixed: QPR won two of the last five, Cardiff won one, and two finished goalless. The total-goals view is completely even, with over 2.5 at 50% and under 2.5 at 50%.",
-   "preview_generated_at": "2026-08-30T02:00:40Z",
-   "preview_zh": "Oracle90的模型顯示，Queens Park Rangers以41%的勝率略占優勢，平局機率為27%，Cardiff City獲勝機率為31%，因此本場比賽情勢相當接近。QPR上賽季最後四場全數落敗，每場至少失兩球，此前則先後與Bristol City及Preston戰平。Cardiff正重返這一級別，因此所列的2025年賽果僅代表過往紀錄，並非目前狀態。近期交手結果各有勝負：最近五場中，QPR贏得兩場，Cardiff贏得一場，另有兩場以零比零收場。總進球數預測完全均衡，至少三球的機率為50%，最多兩球的機率同樣為50%。",
-   "preview_zh_generated_at": "2026-08-30T02:07:30Z"
+   "preview": "The match is finely balanced, though Queens Park Rangers are the model’s narrow favourite with a 41% home-win probability, compared with 27% for the draw and 31% for a Cardiff City win. QPR ended last season with four consecutive defeats, conceding at least twice in each, after draws against Bristol City and Preston. Cardiff’s listed results date from April and May 2025, so they are history rather than current form as the club returns to this level. Two of the last five meetings finished goalless, while QPR won two. There is no total-goals lean, with over 2.5 and under 2.5 both at 50%.",
+   "preview_generated_at": "2026-08-31T02:00:40Z",
+   "preview_zh": "本場比賽勢均力敵，但模型略微看好 Queens Park Rangers，其主場獲勝機率為41%，相較之下，平手機率為27%，Cardiff City 獲勝機率則為31%。QPR 上賽季最後四場比賽皆告負，且每場至少失兩球，此前則先後與 Bristol City 及 Preston 戰平。Cardiff 所列的賽果來自2025年4月及5月，因此只能反映過往情況，無法代表球隊重返這個層級時的近期狀態。雙方近五次交手有兩場以零比零收場，QPR 則贏得其中兩場。總進球數沒有明顯傾向，超過2.5球與少於2.5球的機率均為50%。",
+   "preview_zh_generated_at": "2026-08-31T02:10:11Z"
   },
   {
    "kickoff": "2026-09-02T18:45:00Z",
    "home": "West Bromwich Albion",
    "away": "Charlton Athletic",
    "probs": {
-    "home": 0.5424,
-    "draw": 0.2657,
-    "away": 0.1919
+    "home": 0.5426,
+    "draw": 0.2656,
+    "away": 0.1918
    },
    "market_anchored": false,
    "model_backed": true,
    "ou25": {
-    "over": 0.3718,
-    "under": 0.6282
+    "over": 0.372,
+    "under": 0.628
    },
-   "preview": "The model favours West Bromwich Albion at home, with a 54% win probability, compared with 27% for the draw and 19% for Charlton Athletic. West Brom’s closing run last season included 3-0 and 2-0 wins, alongside three goalless draws, while Charlton finished with three defeats in their final five matches. The recent head-to-head record is less clear-cut: Charlton won 1-0 in November 2025 before the sides drew 1-1 in February 2026. Overall, the strongest goals signal is for a low-scoring contest, with under 2.5 goals favoured at 63% and over 2.5 goals at 37%.",
-   "preview_generated_at": "2026-08-30T02:00:40Z",
-   "preview_zh": "模型較看好主場作戰的 West Bromwich Albion，獲勝機率為54%，平手為27%，Charlton Athletic 獲勝則為19%。West Bromwich Albion 上賽季收官階段曾以3比0及2比0取勝，另有三場0比0平手；Charlton Athletic 則在最後五場比賽中吞下三場敗仗。近期交手紀錄較不明朗，Charlton Athletic 於2025年11月以1比0獲勝，之後雙方於2026年2月以1比1戰平。整體而言，最明顯的進球趨勢是比賽進球數偏低，總進球數少於2.5球的機率為63%，多於2.5球則為37%。",
-   "preview_zh_generated_at": "2026-08-30T02:07:30Z"
+   "preview": "The model favours West Bromwich Albion at home, with a 54% win probability, compared with 27% for the draw and 19% for Charlton Athletic. West Brom ended last season with five clean sheets across their final six matches, including home wins over Watford and draws with Ipswich and Millwall. Charlton conceded in each of their final six games, although they did record a home victory over Hull. Recent meetings have been tighter: the latest finished 1-1, while Charlton won the previous encounter 1-0. The total-goals forecast leans towards under 2.5 goals at 63%, with over 2.5 at 37%.",
+   "preview_generated_at": "2026-08-31T02:00:40Z",
+   "preview_zh": "模型較看好主場作戰的 West Bromwich Albion，獲勝機率為 54%，平局機率為 27%，Charlton Athletic 獲勝機率則為 19%。West Brom 上賽季最後六場比賽有五場零封對手，其中包括主場擊敗 Watford，以及與 Ipswich 和 Millwall 戰平。Charlton 在最後六場比賽中每場都有失球，不過也曾在主場擊敗 Hull。近期交手較為膠著，最近一次以 1：1 收場，前一次則由 Charlton 以 1：0 獲勝。總進球數預測傾向低於 2．5 球，機率為 63%，高於 2．5 球的機率則為 37%。",
+   "preview_zh_generated_at": "2026-08-31T02:10:11Z"
   },
   {
    "kickoff": "2026-09-02T18:45:00Z",
    "home": "Millwall",
    "away": "Wrexham AFC",
    "probs": {
-    "home": 0.5048,
+    "home": 0.5049,
     "draw": 0.2626,
-    "away": 0.2326
+    "away": 0.2325
    },
    "market_anchored": false,
    "model_backed": true,
    "ou25": {
-    "over": 0.4752,
-    "under": 0.5248
+    "over": 0.475,
+    "under": 0.525
    },
-   "preview": "The model favours Millwall, assigning the home side a 50% win probability, compared with 26% for the draw and 23% for a Wrexham AFC victory. Millwall ended last season strongly, winning three of their final four matches and keeping three clean sheets across their last six. Wrexham AFC’s closing sequence was less consistent, with two wins, one draw and three defeats. The recent meetings were evenly split: Millwall won 2-0 at Wrexham in February, while Wrexham AFC recorded the same scoreline at Millwall in August 2025. Total goals lean narrowly towards under 2.5 at 52%, with over 2.5 at 48%.",
-   "preview_generated_at": "2026-08-30T02:00:40Z",
-   "preview_zh": "模型較看好 Millwall，認為主隊的獲勝機率為 50%，平局為 26%，Wrexham AFC 獲勝則為 23%。Millwall 在上季末段表現強勁，最後四場比賽贏得三場，並在最後六場比賽中三度保持零失球。Wrexham AFC 的季末戰績較不穩定，取得兩勝一和三敗。近期交手結果平分秋色：Millwall 於二月作客 Wrexham 以 2 比 0 獲勝，Wrexham AFC 則於 2025 年八月作客 Millwall 以相同比數取勝。總進球數略微傾向低於 2.5 球，機率為 52%，高於 2.5 球則為 48%。",
-   "preview_zh_generated_at": "2026-08-30T02:07:30Z"
+   "preview": "The model favours a Millwall win at 50%, ahead of the draw at 26% and a Wrexham AFC win at 23%. Millwall ended last season with five matches unbeaten, including home wins over Oxford and QPR, both by 2-0. Wrexham’s closing sequence was less consistent, with two wins and three defeats across their final six fixtures. The recent meetings were evenly split: Millwall won 2-0 at Wrexham in February, after Wrexham had recorded the same score at Millwall in August. The total-goals forecast is close, with under 2.5 goals narrowly preferred at 52%.",
+   "preview_generated_at": "2026-08-31T02:00:40Z",
+   "preview_zh": "模型預測 Millwall 獲勝的機率為50%，高於平局的26%及 Wrexham AFC 獲勝的23%。Millwall 上賽季以五場不敗作收，其中包括主場對 Oxford 及 QPR 的勝利，兩場比分皆為2比0。Wrexham 最後階段的表現較不穩定，最後六場比賽取得兩勝三敗。近期交手結果平分秋色，Millwall 於2月作客 Wrexham 以2比0獲勝，此前 Wrexham 曾於8月作客 Millwall 以相同比分獲勝。總進球數預測相當接近，低於2．5球的機率以52%略占優勢。",
+   "preview_zh_generated_at": "2026-08-31T02:10:11Z"
   },
   {
    "kickoff": "2026-09-02T19:00:00Z",
    "home": "Burnley",
    "away": "Middlesbrough",
    "probs": {
-    "home": 0.3599,
+    "home": 0.36,
     "draw": 0.2767,
-    "away": 0.3634
+    "away": 0.3633
    },
    "market_anchored": false,
    "model_backed": true,
    "ou25": {
-    "over": 0.4796,
-    "under": 0.5204
+    "over": 0.4795,
+    "under": 0.5205
    },
-   "preview": "Oracle90 rates this match as finely balanced, with a Burnley win and a Middlesbrough win both at 36%, while the draw is 28%. Burnley are returning to this level after ending last season with a winless sequence in the top flight, including home draws against Wolves and Aston Villa. Middlesbrough finished their Championship campaign more positively, following a 5-1 home win over Watford with a 2-2 draw at Wrexham. The two most recent meetings were also drawn, finishing 0-0 and 1-1. The total-goals forecast is narrow, but leans towards under 2.5 goals at 52%.",
-   "preview_generated_at": "2026-08-30T02:00:40Z",
-   "preview_zh": "Oracle90認為本場比賽勢均力敵，Burnley與Middlesbrough的獲勝機率均為36%，平局機率則為28%。Burnley上季在頂級聯賽以一波未嘗勝績的賽程作結，其中包括主場戰平Wolves及Aston Villa，如今回到這個級別。Middlesbrough則以較佳狀態結束Championship賽季，先在主場以5比1擊敗Watford，隨後作客以2比2戰平Wrexham。兩隊最近兩次交手也都以平局收場，比分分別為0比0及1比1。總進球數預測相當接近，但少於2.5球的機率略高，為52%。",
-   "preview_zh_generated_at": "2026-08-30T02:07:30Z"
+   "preview": "This match looks finely balanced, with Oracle90 assigning a Burnley win 36% and a Middlesbrough win 36%, while the draw stands at 28%. Burnley ended last season without a victory across the six listed matches, drawing twice at home and losing the other four games. Middlesbrough’s closing Championship sequence was steadier, including two wins and three draws from six. The two most recent meetings were also tight, finishing 0-0 at Middlesbrough and 1-1 at Burnley. The total-goals forecast has a narrow lean towards under 2.5 goals at 52%, compared with over 2.5 goals at 48%.",
+   "preview_generated_at": "2026-08-31T02:00:40Z",
+   "preview_zh": "本場比賽看來勢均力敵，Oracle90預測Burnley獲勝的機率為36%，Middlesbrough獲勝的機率同樣為36%，和局則為28%。Burnley在上季最後列出的六場比賽中未嘗勝績，主場取得兩場和局，其餘四場皆告失利。Middlesbrough在英冠賽季末段的表現較為穩定，六場比賽取得兩勝三和。雙方最近兩次交手同樣膠著，在Middlesbrough主場以0比0收場，在Burnley主場則踢成1比1。總進球數預測略微傾向低於2．5球，機率為52%，高於2．5球則為48%。",
+   "preview_zh_generated_at": "2026-08-31T02:10:11Z"
   },
   {
    "kickoff": "2026-09-05T11:30:00Z",
@@ -233,66 +233,66 @@
    "probs": {
     "home": 0.3807,
     "draw": 0.2897,
-    "away": 0.3296
+    "away": 0.3295
    },
    "market_anchored": false,
    "model_backed": true,
    "ou25": {
-    "over": 0.3819,
-    "under": 0.6181
+    "over": 0.3818,
+    "under": 0.6182
    },
-   "preview": "The model sees a finely balanced contest, with Preston North End marginally favoured at 38%, ahead of Blackburn Rovers at 33% and the draw at 29%. Preston ended last season with four defeats and two wins across their final six matches, while Blackburn recorded one win, three draws and two defeats over the same closing sequence. Recent meetings favour the visitors: Blackburn won each of the last three encounters, all by a single goal. Even so, the probabilities leave little separation between the sides. The total-goals forecast provides a clearer lean, with under 2.5 goals at 62% and over 2.5 at 38%.",
-   "preview_generated_at": "2026-08-30T02:00:40Z",
-   "preview_zh": "模型認為這場比賽勢均力敵，Preston North End以38%略占優勢，Blackburn Rovers為33%，平局則為29%。Preston上賽季最後六場比賽取得兩勝四敗，Blackburn在同期收官階段則取得一勝三和兩敗。近期交手紀錄對客隊較為有利，Blackburn贏下最近三次對決，而且每場都僅以一球之差獲勝。即便如此，雙方的預測機率仍相當接近。總進球數預測的傾向較為明確，低於2.5球的機率為62%，高於2.5球則為38%。",
-   "preview_zh_generated_at": "2026-08-30T02:07:30Z"
+   "preview": "The model slightly favours Preston North End at 38%, but this is a finely balanced contest, with Blackburn Rovers at 33% and the draw at 29%. Preston ended last season with four defeats in their final six Championship matches, although both victories in that sequence came away from home. Blackburn’s closing six-match run contained one win, three draws and two defeats. Recent meetings point Blackburn’s way: they won each of the last three, all by a single goal. The total-goals forecast leans towards a lower-scoring match, with under 2.5 goals at 62% and over 2.5 at 38%.",
+   "preview_generated_at": "2026-08-31T02:00:40Z",
+   "preview_zh": "模型以38%些微看好Preston North End，但這場比賽勢均力敵，Blackburn Rovers為33%，平局則為29%。Preston在上季最後六場Championship賽事中吞下四場敗仗，不過期間的兩場勝利都在客場取得。Blackburn在季末六場比賽中取得一勝、三和、兩敗。近期交手紀錄較有利於Blackburn，他們贏下最近三次交鋒，而且每場都以一球之差取勝。總進球數預測較傾向進球偏少，低於2.5球為62%，高於2.5球則為38%。",
+   "preview_zh_generated_at": "2026-08-31T02:10:11Z"
   },
   {
    "kickoff": "2026-09-05T11:30:00Z",
    "home": "Stoke City",
    "away": "Charlton Athletic",
    "probs": {
-    "home": 0.4512,
-    "draw": 0.2835,
-    "away": 0.2653
+    "home": 0.4514,
+    "draw": 0.2834,
+    "away": 0.2652
    },
    "market_anchored": false,
    "model_backed": true,
    "ou25": {
-    "over": 0.3795,
-    "under": 0.6205
+    "over": 0.3797,
+    "under": 0.6203
    },
-   "preview": "The model favours a Stoke City win at 45%, but the draw at 28% and a Charlton Athletic win at 27% show that the contest is relatively close. Stoke ended last season without a win in their final six matches, losing five and scoring only three goals across that run. Charlton’s closing sequence was mixed, with one win, two draws and three defeats. The two meetings last season produced contrasting results: Stoke won 3-0 at home before Charlton responded with a 1-0 victory. The total-goals forecast leans towards under 2.5 goals at 62%, compared with 38% for over 2.5.",
-   "preview_generated_at": "2026-08-30T02:00:40Z",
-   "preview_zh": "預測模型認為 Stoke City 的獲勝機率為45%，但平手的機率為28%，Charlton Athletic 獲勝的機率為27%，顯示雙方實力相對接近。Stoke 上季最後6場比賽未嘗勝績，其中吞下5敗，期間僅攻進3球。Charlton 季末的表現有好有壞，取得1勝、2和、3敗。雙方上季兩次交手的結果截然不同：Stoke 先在主場以3比0獲勝，之後 Charlton 以1比0扳回一城。總進球數預測較傾向低於2.5球，機率為62%，高於2.5球則為38%。",
-   "preview_zh_generated_at": "2026-08-30T02:07:30Z"
+   "preview": "Oracle90 favours Stoke City at home, with a 45% chance of victory, while the draw is 28% and a Charlton Athletic win 27%. The home side’s closing run last season was difficult: Stoke lost five of their final six listed Championship matches and scored only three goals across them. Charlton also ended with mixed results, taking one win and two draws from their final six listed games. Recent meetings offer less of a clear pattern, with the sides sharing two wins apiece across the four supplied encounters. The total-goals view is clearer, with under 2.5 goals favoured at 62%.",
+   "preview_generated_at": "2026-08-31T02:00:40Z",
+   "preview_zh": "Oracle90較看好主場作戰的Stoke City，其獲勝機率為45%，平手機率為28%，Charlton Athletic獲勝機率則為27%。Stoke上賽季的收官階段表現不佳，在最後六場列出的Championship賽事中輸了五場，期間僅攻進三球。Charlton Athletic的季末成績同樣好壞參半，在最後六場列出的比賽中取得一勝二和。雙方近期交手也沒有明確趨勢，在所提供的四次對決中各贏兩場。總進球數的預測則較為明確，低於2.5球的機率為62%。",
+   "preview_zh_generated_at": "2026-08-31T02:10:11Z"
   },
   {
    "kickoff": "2026-09-05T14:00:00Z",
    "home": "Millwall",
    "away": "Bolton Wanderers",
    "probs": {
-    "home": 0.6984,
-    "draw": 0.2047,
-    "away": 0.0969
+    "home": 0.6994,
+    "draw": 0.2041,
+    "away": 0.0964
    },
    "market_anchored": false,
    "model_backed": true,
    "ou25": {
-    "over": 0.425,
-    "under": 0.575
+    "over": 0.4266,
+    "under": 0.5734
    },
-   "preview": "The model strongly favours Millwall at home, giving them a 70% chance of winning, compared with 20% for the draw and 10% for a Bolton Wanderers victory. Millwall ended last season with five matches unbeaten, including 2-0 home wins over Oxford and QPR, while also winning 3-1 away at Stoke. Bolton are returning to this level, so their listed 2019 results are history rather than current form; all six ended in defeat, without Bolton scoring in any of them. The latest meeting also dates from 2019, when Bolton won 2-1. On total goals, the model leans under 2.5 at 57%, with over 2.5 at 42%.",
-   "preview_generated_at": "2026-08-30T02:00:40Z",
-   "preview_zh": "模型明顯看好主場作戰的 Millwall，認為其勝率為 70%，平局機率為 20%，Bolton Wanderers 獲勝機率則為 10%。Millwall 上賽季以連續五場不敗作收，其中包括主場以 2比0 擊敗 Oxford 與 QPR，以及客場以 3比1 擊敗 Stoke。Bolton 正重返此級別，因此所列的 2019 年賽果只能視為歷史紀錄，而非近期狀態；六場比賽皆以失利告終，且 Bolton 一球未進。雙方最近一次交手同樣是在 2019 年，當時 Bolton 以 2比1 獲勝。總進球數方面，模型認為少於 2.5 球的機率為 57%，多於 2.5 球的機率為 42%。",
-   "preview_zh_generated_at": "2026-08-30T02:07:30Z"
+   "preview": "Oracle90 makes Millwall the clear favourite, assigning a 70% probability to a home win, compared with 20% for the draw and 10% for Bolton Wanderers. Millwall ended last season with a five-match unbeaten run, winning three of those games and keeping three clean sheets. Bolton’s listed Championship results date from 2019, before their time outside the top two English divisions, so they are history rather than current form as the club returns to this level. The listed meetings were mixed, with two draws and two Bolton wins across the last five. On total goals, the model leans under 2.5 at 57%, with over 2.5 at 43%.",
+   "preview_generated_at": "2026-08-31T02:00:40Z",
+   "preview_zh": "Oracle90 明確認為 Millwall 占優，主場獲勝機率為70%，平手為20%，Bolton Wanderers 獲勝則為10%。Millwall 上季以五場不敗作收，其中贏得三場，並有三場保持零失球。所列的 Bolton Championship 賽果可追溯至2019年，之後球隊曾離開英格蘭前兩級聯賽，因此這些紀錄屬於歷史資料，而非球隊重返此級別時的近期狀態。所列的交手結果互有高低，近五場包括兩場平手及兩場由 Bolton 獲勝。總進球數方面，模型認為少於2.5球的機率為57%，多於2.5球則為43%。",
+   "preview_zh_generated_at": "2026-08-31T02:10:11Z"
   },
   {
    "kickoff": "2026-09-05T14:00:00Z",
    "home": "Burnley",
    "away": "Bristol City",
    "probs": {
-    "home": 0.5244,
-    "draw": 0.2578,
+    "home": 0.5245,
+    "draw": 0.2579,
     "away": 0.2177
    },
    "market_anchored": false,
@@ -301,10 +301,10 @@
     "over": 0.4783,
     "under": 0.5217
    },
-   "preview": "Burnley are the model’s favourite at home, with a 52% win probability, compared with 26% for the draw and 22% for Bristol City. Burnley are returning to this level, so their listed Premier League results from last season are history rather than current Championship form. That sequence ended with four defeats and two draws, while Bristol City closed their Championship campaign by beating Stoke 2-0. The head-to-head record supports the home side: Burnley won all five listed meetings, including 1-0 victories in both 2024-25 fixtures. The total-goals forecast is close, with under 2.5 goals narrowly favoured at 52% against 48% for over.",
-   "preview_generated_at": "2026-08-30T02:00:40Z",
-   "preview_zh": "Burnley在主場是模型較看好的一方，勝率為52%，相較之下，和局機率為26%，Bristol City勝率為22%。Burnley正重返此級別，因此所列的上季Premier League賽果屬於過往紀錄，並非目前在Championship的狀態。該段賽程最後以四敗兩和作結，而Bristol City則在Championship賽季尾聲以2比0擊敗Stoke。雙方交手紀錄也支持主隊，Burnley在所列的五次交手中全數獲勝，包括2024至25賽季兩場比賽皆以1比0取勝。總進球數預測相當接近，低於2．5球的機率為52%，略高於超過2．5球的48%。",
-   "preview_zh_generated_at": "2026-08-30T02:07:30Z"
+   "preview": "Oracle90 favours a Burnley win at 52%, with the draw at 26% and a Bristol City win at 22%. Burnley ended last season without a victory in their final six listed matches, although those fixtures came at a higher level. Bristol City finished their Championship campaign with a 2-0 win over Stoke, having taken mixed results across the preceding weeks. The head-to-head record is firmly in Burnley’s favour: they won each of the five supplied meetings, including two 1-0 victories in 2024 and 2025. For total goals, the model narrowly leans under 2.5 at 52%.",
+   "preview_generated_at": "2026-08-31T02:00:40Z",
+   "preview_zh": "Oracle90預測Burnley獲勝的機率為52%，平局為26%，Bristol City獲勝則為22%。Burnley上賽季最後六場列出的比賽未嘗勝績，不過這些賽事的競爭層級較高。Bristol City在英冠賽季最後一戰以2比0擊敗Stoke，此前幾週的比賽結果則有勝有負。雙方交手紀錄明顯有利於Burnley，他們在所列的五次交鋒中全部獲勝，其中包括2024年與2025年的兩場1比0勝利。總進球數方面，模型預測少於2.5球的機率略高，為52%。",
+   "preview_zh_generated_at": "2026-08-31T02:10:11Z"
   },
   {
    "kickoff": "2026-09-05T14:00:00Z",
@@ -313,7 +313,7 @@
    "probs": {
     "home": 0.4151,
     "draw": 0.2752,
-    "away": 0.3096
+    "away": 0.3097
    },
    "market_anchored": false,
    "model_backed": true,
@@ -321,10 +321,10 @@
     "over": 0.4701,
     "under": 0.5299
    },
-   "preview": "The model makes Portsmouth slight favourites at 42%, but with Cardiff City at 31% and the draw at 28%, the match remains finely balanced. Portsmouth ended their 2025-26 Championship campaign with four wins in six matches, including three clean-sheet victories, although that sequence also contained a 5-1 defeat at Coventry. Cardiff are returning to this level, so their listed 2025 results are history rather than current form: they went without a win across those six matches, drawing three. The two recent meetings were split, with Portsmouth winning 2-1 at home after Cardiff had won 2-0 in the reverse fixture. The total-goals lean is narrowly under 2.5 at 53%.",
-   "preview_generated_at": "2026-08-30T02:00:40Z",
-   "preview_zh": "預測模型顯示，Portsmouth以42%的勝率略占優勢，Cardiff City的勝率為31%，平手機率為28%，因此這場比賽仍相當接近。Portsmouth在2025至26年Championship賽季最後六場比賽取得四勝，其中三場獲勝且未失球，但這段賽程也包括以1比5敗給Coventry。Cardiff正重返這一級別，因此列出的2025年賽果只能視為過往紀錄，而非目前狀態。他們在那六場比賽中一勝難求，並取得三場平手。兩隊最近兩次交手各勝一場，Portsmouth在主場以2比1獲勝，此前Cardiff則在另一場對戰中以2比0取勝。全場總進球數少於2．5球的機率略高，為53%。",
-   "preview_zh_generated_at": "2026-08-30T02:07:30Z"
+   "preview": "Oracle90’s model narrowly favours a Portsmouth win at 42%, with the draw at 28% and a Cardiff City win at 31%. Portsmouth ended last season with several positive results, including a 3-1 victory at Stoke and home wins over Leicester and Ipswich, although they also lost 5-1 at Coventry. Cardiff’s listed results are older history rather than current form, as the club is returning to this level. Those matches included a 4-2 defeat at Norwich and a goalless draw with West Brom. The two recent meetings were split, with each side winning at home. Total goals lean slightly towards under 2.5 at 53%, compared with 47% for over 2.5.",
+   "preview_generated_at": "2026-08-31T02:00:40Z",
+   "preview_zh": "Oracle90的模型預測Portsmouth獲勝機率略高，為42%，平局為28%，Cardiff City獲勝為31%。Portsmouth在上個賽季末取得數場正面結果，包括客場以3比1擊敗Stoke，以及主場戰勝Leicester和Ipswich，不過他們也曾以1比5不敵Coventry。Cardiff所列出的賽果屬於較早期的歷史紀錄，而非近期狀態，因為該隊正重返這個級別。這些比賽包括以2比4敗給Norwich，以及與West Brom互交白卷。雙方最近兩次交手各自在主場獲勝。總進球數方面，少於2.5球的機率略高，為53%，多於2.5球則為47%。",
+   "preview_zh_generated_at": "2026-08-31T02:10:11Z"
   },
   {
    "kickoff": "2026-09-05T14:00:00Z",
@@ -341,10 +341,10 @@
     "over": 0.534,
     "under": 0.466
    },
-   "preview": "Oracle90’s model strongly favours a West Ham United win at 65%, compared with 22% for the draw and 13% for a Derby County victory. West Ham ended last season with a 3-0 home win over Leeds, having also beaten Everton 2-1 at home, although they lost three of their final five matches. Derby’s closing Championship run was mixed, with three wins and three defeats. Their last three away games produced a 3-2 win at QPR and two 2-1 losses. There are no previous meetings on record. The total-goals lean is narrowly over 2.5 at 53%, against 47% for under 2.5.",
-   "preview_generated_at": "2026-08-30T02:00:40Z",
-   "preview_zh": "Oracle90的模型明顯看好West Ham United獲勝，機率為65%，平手為22%，Derby County獲勝則為13%。West Ham上季最後一戰在主場以3比0擊敗Leeds，此前也曾在主場以2比1戰勝Everton，不過他們在最後5場比賽中輸了3場。Derby在英冠賽季末段的表現有好有壞，取得3勝3敗。他們最近3場客場比賽包括以3比2擊敗QPR，以及兩場以1比2落敗。目前沒有雙方過往交手的紀錄。總進球數超過2．5球的機率略高，為53%，不超過2．5球則為47%。",
-   "preview_zh_generated_at": "2026-08-30T02:07:30Z"
+   "preview": "West Ham United are clear favourites, with the model giving them a 65% chance of winning, compared with 22% for the draw and 13% for Derby County. West Ham ended last season with a 3-0 home victory over Leeds, although that followed three consecutive defeats. Derby’s final six results of last season alternated between defeat and victory, including a 3-2 away win at QPR and a 1-2 home loss to Sheffield United. There are no previous meetings on record. The total-goals forecast leans narrowly towards over 2.5 goals at 53%, with under 2.5 at 47%.",
+   "preview_generated_at": "2026-08-31T02:00:40Z",
+   "preview_zh": "West Ham United明顯較被看好，模型預測其獲勝機率為65%，平局為22%，Derby County獲勝則為13%。West Ham在上賽季最後一場比賽於主場以3比0擊敗Leeds，不過在此之前曾連續吞下三場敗仗。Derby上賽季最後六場比賽的結果在落敗與獲勝之間交替，其中包括作客以3比2擊敗QPR，以及主場以1比2不敵Sheffield United。目前沒有兩隊過往交手的紀錄。總進球數預測略微傾向超過2.5球，機率為53%，少於2.5球的機率則為47%。",
+   "preview_zh_generated_at": "2026-08-31T02:10:11Z"
   },
   {
    "kickoff": "2026-09-05T14:00:00Z",
@@ -352,19 +352,19 @@
    "away": "Middlesbrough",
    "probs": {
     "home": 0.2369,
-    "draw": 0.2605,
-    "away": 0.5026
+    "draw": 0.2606,
+    "away": 0.5025
    },
    "market_anchored": false,
    "model_backed": true,
    "ou25": {
-    "over": 0.5137,
-    "under": 0.4863
+    "over": 0.5136,
+    "under": 0.4864
    },
-   "preview": "The model favours Middlesbrough, giving the visitors a 50% win probability, compared with 26% for the draw and 24% for Queens Park Rangers. QPR ended last season with four consecutive defeats, conceding 10 goals across that run. Middlesbrough closed the campaign with two wins and three draws from their final six matches, including a 5-1 home victory over Watford. The recent head-to-head record also supports the away side: Middlesbrough won all five listed meetings, scoring at least twice each time. The total-goals forecast is much closer, with over 2.5 goals narrowly preferred at 51% against 49% for under 2.5.",
-   "preview_generated_at": "2026-08-30T02:00:40Z",
-   "preview_zh": "模型預測 Middlesbrough 較有優勢，客隊勝率為50%，和局為26%，Queens Park Rangers 勝率則為24%。QPR 上賽季以四連敗作收，期間共失10球。Middlesbrough 在賽季最後六場比賽取得兩勝三和，其中包括主場以5比1擊敗 Watford。近期對戰紀錄同樣有利於客隊，Middlesbrough 在列出的五次交手中全數獲勝，而且每場至少攻進兩球。總進球數預測則接近許多，超過2.5球的機率為51%，略高於少於2.5球的49%。",
-   "preview_zh_generated_at": "2026-08-30T02:07:30Z"
+   "preview": "Oracle90’s model favours Middlesbrough, giving the away side a 50% chance of victory, compared with 26% for the draw and 24% for a Queens Park Rangers win. The visitors ended last season with two wins and three draws from their final six matches, while QPR lost four of their last six and failed to score in three of them. Recent meetings also point towards Middlesbrough, who have won all five listed encounters, including 4-0 at QPR in March 2026. The total-goals call is much tighter: over 2.5 goals has a narrow 51% lean, against 49% for under 2.5.",
+   "preview_generated_at": "2026-08-31T02:00:40Z",
+   "preview_zh": "Oracle90 的模型較看好 Middlesbrough，認為客隊有 50% 的獲勝機率，相較之下，平手為 26%，Queens Park Rangers 獲勝為 24%。Middlesbrough 上季最後六場比賽取得兩勝三和，QPR 則在最近六場輸掉四場，其中三場未能進球。近期交手紀錄也較有利於 Middlesbrough，他們在列出的五次交手中全數獲勝，包括 2026 年 3 月作客 QPR 時以 4：0 取勝。總進球數方面的判斷則更為接近，超過 2.5 球的機率為 51%，僅略高於低於 2.5 球的 49%。",
+   "preview_zh_generated_at": "2026-08-31T02:10:11Z"
   },
   {
    "kickoff": "2026-09-05T14:00:00Z",
@@ -378,13 +378,13 @@
    "market_anchored": false,
    "model_backed": true,
    "ou25": {
-    "over": 0.5341,
-    "under": 0.4659
+    "over": 0.534,
+    "under": 0.466
    },
-   "preview": "Sheffield United are the model’s preferred outcome, with a 43% home-win probability, compared with 30% for Norwich City and 27% for the draw. That points to a home edge, although the spread is not decisive. At the end of last season, Sheffield United won three of their final six listed league matches, while Norwich also recorded three wins across the same six-match sequence. Recent meetings have often been tight: two of the last five ended 1-1, while Sheffield United won two of the other three. On total goals, the model leans narrowly towards over 2.5 at 53%, against 47% for under 2.5.",
-   "preview_generated_at": "2026-08-30T02:00:40Z",
-   "preview_zh": "模型最看好 Sheffield United，以主場獲勝機率43%領先 Norwich City 的30%，平局機率則為27%。這顯示主隊稍占優勢，不過差距並不明顯。上個賽季末，Sheffield United 在最後六場列出的聯賽中贏得三場，Norwich City 在同一段六場賽事中也取得三勝。近期交手往往相當膠著，最近五次對決有兩場以1比1結束，另外三場則有兩場由 Sheffield United 獲勝。總進球方面，模型以53%略微傾向超過2.5球，低於2.5球則為47%。",
-   "preview_zh_generated_at": "2026-08-30T02:07:30Z"
+   "preview": "Oracle90 makes Sheffield United the moderate favourite at 43%, with Norwich City on 30% and the draw at 27%. Sheffield United ended last season inconsistently, winning three and losing three of their final six Championship matches, while Norwich also took three wins from six but finished with a 2-1 defeat at Hull. The recent head-to-head record is similarly mixed: Norwich won 2-1 in March, after Sheffield United had gone four meetings unbeaten, including a 2-0 home victory in January 2025. That leaves the home side with a clear but not decisive model edge. On total goals, the lean is narrowly towards over 2.5 at 53%, compared with under 2.5 at 47%.",
+   "preview_generated_at": "2026-08-31T02:00:40Z",
+   "preview_zh": "Oracle90的模型顯示，Sheffield United以43%居於領先位置，Norwich City為30%，平局則為27%。Sheffield United上季末表現不穩，在最後六場英冠賽事中取得三勝三負；Norwich同樣在六場比賽中拿下三勝，但最後以1比2不敵Hull。雙方近期交手紀錄也呈現互有勝負的局面：Norwich在3月以2比1獲勝，此前Sheffield United曾連續四次交手保持不敗，其中包括2025年1月主場以2比0取勝。因此，模型顯示主隊具有明顯但不具決定性的優勢。總進球數方面，超過2.5球的可能性略高，為53%，低於2.5球則為47%。",
+   "preview_zh_generated_at": "2026-08-31T02:10:11Z"
   },
   {
    "kickoff": "2026-09-05T14:00:00Z",
@@ -401,30 +401,30 @@
     "over": 0.4226,
     "under": 0.5774
    },
-   "preview": "The model favours West Bromwich Albion at 47%, with the draw at 27% and a Watford win at 25%. West Brom ended last season with a solid defensive sequence before their final-day defeat, keeping four clean sheets across the previous five listed Championship matches. That run included a 3-0 home win over Watford on 21 April. Watford, meanwhile, finished the campaign with five successive defeats and failed to score in four of them. The recent head-to-head record is more even, with each side winning twice across the last five meetings, alongside one draw. The total-goals forecast leans towards under 2.5 goals at 58%, compared with 42% for over 2.5.",
-   "preview_generated_at": "2026-08-30T02:00:40Z",
-   "preview_zh": "模型預測 West Bromwich Albion 的勝率為47%，和局為27%，Watford 的勝率為25%。West Brom 在上季收官戰落敗前展現穩固的防守表現，在此前所列的五場英格蘭足球冠軍聯賽中有四場未失球，其中包括4月21日主場以3比0擊敗 Watford。另一方面，Watford 以五連敗結束該賽季，並在其中四場未能進球。近期交手紀錄則較為均衡，雙方在最近五次對決中各贏兩場，另有一場和局。賽事總進球數低於2.5球的預測機率為58%，高於2.5球則為42%。",
-   "preview_zh_generated_at": "2026-08-30T02:07:30Z"
+   "preview": "Oracle90 favours a West Bromwich Albion win, but the 47% probability points to a measured preference rather than a decisive one. The draw is rated at 27%, with a Watford win at 25%. West Brom ended last season with three clean sheets across their final six Championship matches, including a 3-0 home victory over Watford on 21 April. Watford, meanwhile, lost their final five matches of the campaign and conceded 16 goals during that sequence. Recent meetings have produced three home wins in the last four encounters. For total goals, the model leans under 2.5 at 58%, compared with 42% for over 2.5.",
+   "preview_generated_at": "2026-08-31T02:00:40Z",
+   "preview_zh": "Oracle90較看好West Bromwich Albion獲勝，但47%的機率顯示這只是審慎傾向，而非明確判斷。和局機率為27%，Watford獲勝機率則為25%。West Brom在上賽季英冠最後六場比賽中有三場零封對手，包括4月21日主場以3：0擊敗Watford。Watford則在該賽季最後五場比賽全數落敗，期間共失16球。雙方近四次交手有三次由主場球隊獲勝。總進球數方面，模型認為少於2.5球的機率為58%，高於2.5球的機率則為42%。",
+   "preview_zh_generated_at": "2026-08-31T02:10:11Z"
   },
   {
    "kickoff": "2026-09-05T19:00:00Z",
    "home": "Swansea City",
    "away": "Wrexham AFC",
    "probs": {
-    "home": 0.3836,
-    "draw": 0.2715,
-    "away": 0.3448
+    "home": 0.3837,
+    "draw": 0.2716,
+    "away": 0.3447
    },
    "market_anchored": false,
    "model_backed": true,
    "ou25": {
-    "over": 0.5243,
-    "under": 0.4757
+    "over": 0.5241,
+    "under": 0.4759
    },
-   "preview": "Oracle90 sees this as a finely balanced match, with Swansea City narrowly favoured at 38%, compared with 34% for a Wrexham AFC win and 27% for the draw. Swansea ended last season unbeaten in three matches, winning twice, and scored in all six listed fixtures. Wrexham’s closing sequence was less consistent, with two wins and three defeats across their final six games. The recent meetings were split, Wrexham winning 2-0 in March after Swansea had won 2-1 in December. The total-goals forecast also remains close, with over 2.5 goals holding a slight 52% lean against 48% for under 2.5.",
-   "preview_generated_at": "2026-08-30T02:00:40Z",
-   "preview_zh": "Oracle90認為這場比賽勢均力敵，Swansea City以38%略占優勢，Wrexham AFC獲勝的機率為34%，平局則為27%。Swansea在上季最後三場保持不敗，其中贏得兩場，並在列出的六場比賽中皆有進球。Wrexham季末的表現較不穩定，最後六場取得兩勝三敗。雙方近期交手各有勝負，Wrexham在三月以2比0獲勝，此前Swansea則在十二月以2比1取勝。總進球數預測同樣接近，超過2.5球的機率為52%，略高於低於2.5球的48%。",
-   "preview_zh_generated_at": "2026-08-30T02:07:30Z"
+   "preview": "The model makes this a finely balanced contest, with Swansea City narrowly favoured at 38%, compared with 34% for Wrexham AFC and 27% for the draw. Swansea ended last season with three wins in their final six Championship matches, including a 3-1 home victory over Charlton, while Wrexham took two wins from their closing six but also suffered three defeats. The recent meetings were split: Wrexham won 2-0 at home in March after Swansea had won 2-1 at home in December. On total goals, the lean is only slight, with over 2.5 goals at 52% and under 2.5 at 48%.",
+   "preview_generated_at": "2026-08-31T02:00:40Z",
+   "preview_zh": "模型認為這場比賽實力相當接近，Swansea City以38%略占優勢，Wrexham AFC為34%，平局則為27%。Swansea City上季最後六場英格蘭冠軍聯賽取得三勝，包括主場以3比1擊敗Charlton；Wrexham AFC在最後六場比賽取得兩勝，但也吞下三敗。近期兩次交手各有勝負，Wrexham AFC於三月主場以2比0獲勝，而Swansea City則於十二月主場以2比1取勝。總進球數方面，兩種結果的差距很小，超過2．5球為52%，少於2．5球為48%。",
+   "preview_zh_generated_at": "2026-08-31T02:10:11Z"
   },
   {
    "kickoff": "2026-09-06T11:00:00Z",
@@ -438,13 +438,73 @@
    "market_anchored": false,
    "model_backed": true,
    "ou25": {
-    "over": 0.4365,
-    "under": 0.5635
+    "over": 0.4367,
+    "under": 0.5633
    },
-   "preview": "Oracle90 sees this as finely balanced, with Wolverhampton Wanderers only marginally favoured at 37%. Birmingham City have a 35% chance of winning, while the draw is rated at 28%. Birmingham ended last season unbeaten in five matches, including three home wins, while Wolves finished their campaign without a victory in six and recorded three 1-1 draws during that run. The head-to-head history offers Wolves some encouragement, with three wins across the five listed meetings, although the most recent was in 2018. The total-goals forecast leans towards under 2.5 goals at 56%, compared with 44% for over 2.5.",
-   "preview_generated_at": "2026-08-30T02:00:40Z",
-   "preview_zh": "Oracle90 認為這場比賽勢均力敵，Wolverhampton Wanderers 的勝率僅略高，為37%。Birmingham City 的勝率為35%，平手機率則為28%。Birmingham 上季最後五場保持不敗，其中包括三場主場勝利，而 Wolves 在賽季最後六場未嘗勝績，期間有三場以1比1收場。雙方過往交手紀錄為 Wolves 帶來一些正面因素，在列出的五次對決中取得三勝，不過最近一次交手已是2018年。總進球數預測略偏向低於2.5球，機率為56%，高於2.5球的機率則為44%。",
-   "preview_zh_generated_at": "2026-08-30T02:07:30Z"
+   "preview": "The match is finely balanced, with Wolverhampton Wanderers given only a narrow model edge at 37%. Birmingham City are close behind on 35%, while the draw stands at 28%. Birmingham ended last season unbeaten in five matches, winning each of their final three home fixtures. Wolves, meanwhile, closed their top-flight campaign without a win in six, drawing three and losing three. The listed meeting history is dated, but Wolves won three of the five encounters. On total goals, the model leans under 2.5 at 56%, compared with 44% for over.",
+   "preview_generated_at": "2026-08-31T02:00:40Z",
+   "preview_zh": "這場比賽勢均力敵，模型僅以37%的機率略微看好 Wolverhampton Wanderers。Birmingham City 以35%緊追在後，平局機率則為28%。Birmingham 上季最後五場保持不敗，並贏下最後三場主場賽事。另一方面，Wolves 在頂級聯賽賽季最後六場未嘗勝績，取得三場平局並吞下三場敗仗。列出的交手紀錄距今已有一段時間，但 Wolves 在五次交鋒中贏得三場。總進球方面，模型認為少於2.5球的機率為56%，高於多於2.5球的44%。",
+   "preview_zh_generated_at": "2026-08-31T02:10:11Z"
+  },
+  {
+   "kickoff": "2026-09-09T18:45:00Z",
+   "home": "Norwich City",
+   "away": "Birmingham City",
+   "probs": {
+    "home": 0.4258,
+    "draw": 0.2724,
+    "away": 0.3018
+   },
+   "market_anchored": false,
+   "model_backed": true,
+   "ou25": {
+    "over": 0.4894,
+    "under": 0.5106
+   },
+   "preview": "Norwich City are the model’s measured favourite, with a 43% probability of a home win, compared with 27% for the draw and 30% for Birmingham City. Both sides won three of their final six Championship matches last season, although Norwich finished with a defeat at Hull while Birmingham drew at Portsmouth. The recent head-to-head record favours the visitors: Birmingham have won the past three meetings, including both encounters last season. That history keeps the contest competitive despite Norwich’s model advantage. On total goals, the lean is narrowly towards under 2.5 goals at 51%.",
+   "preview_generated_at": "2026-08-31T02:00:40Z",
+   "preview_zh": "模型審慎看好 Norwich City，其主場獲勝機率為 43%，和局機率為 27%，Birmingham City 獲勝機率則為 30%。兩隊上季在英格蘭冠軍聯賽最後六場比賽均取得三勝，不過 Norwich City 最後一場敗給 Hull，Birmingham City 則與 Portsmouth 戰平。近期交手紀錄對客隊較為有利，Birmingham City 已連續贏得近三次交鋒，包括上季的兩場對決。儘管模型認為 Norwich City 較具優勢，這段交手歷史仍使本場比賽維持競爭性。總進球數方面，低於 2.5 球的機率以 51% 略微領先。",
+   "preview_zh_generated_at": "2026-08-31T02:10:11Z"
+  },
+  {
+   "kickoff": "2026-09-09T18:45:00Z",
+   "home": "Derby County",
+   "away": "West Bromwich Albion",
+   "probs": {
+    "home": 0.3946,
+    "draw": 0.2885,
+    "away": 0.3169
+   },
+   "market_anchored": false,
+   "model_backed": true,
+   "ou25": {
+    "over": 0.3803,
+    "under": 0.6197
+   },
+   "preview": "Oracle90 makes this a finely balanced contest, with Derby County given a narrow edge at 39%. West Bromwich Albion have a 32% chance of winning, while the draw stands at 29%. The most recent meeting finished 1-1, although Derby won the previous four encounters, including two at home. West Brom ended last season with five clean sheets in their final six matches, while Derby’s final six produced three wins and three defeats. That defensive pattern supports the model’s total-goals view, which leans towards under 2.5 goals at 62%.",
+   "preview_generated_at": "2026-08-31T02:00:40Z",
+   "preview_zh": "Oracle90認為這是一場勢均力敵的比賽，Derby County以39%的勝率略占優勢。West Bromwich Albion的勝率為32%，平局機率則為29%。雙方最近一次交手以1比1收場，不過Derby在此前四次對決中全數獲勝，其中包括兩場主場賽事。West Brom上季最後六場比賽有五場未失球，Derby最後六場則取得三勝三敗。這種防守表現也呼應模型對總進球數的判斷，預測全場少於2.5球的機率為62%。",
+   "preview_zh_generated_at": "2026-08-31T02:10:11Z"
+  },
+  {
+   "kickoff": "2026-09-09T19:00:00Z",
+   "home": "Charlton Athletic",
+   "away": "Queens Park Rangers",
+   "probs": {
+    "home": 0.3828,
+    "draw": 0.2833,
+    "away": 0.3339
+   },
+   "market_anchored": false,
+   "model_backed": true,
+   "ou25": {
+    "over": 0.4283,
+    "under": 0.5717
+   },
+   "preview": "Oracle90 sees this as finely balanced, with Charlton Athletic given a narrow edge at 38%, compared with 33% for Queens Park Rangers and 28% for the draw. Charlton ended last season with one win in six matches, while QPR were winless across their final six and lost the last four. The two Championship meetings last season produced different outcomes: a 0-0 draw at Charlton followed QPR’s 3-1 home victory earlier in the campaign. The total-goals forecast leans towards a lower-scoring contest, with under 2.5 goals at 57% and over 2.5 goals at 43%.",
+   "preview_generated_at": "2026-08-31T02:00:40Z",
+   "preview_zh": "Oracle90認為本場比賽勝負相當接近，Charlton Athletic以38%的勝率略占優勢，Queens Park Rangers為33%，平局則為28%。Charlton上季最後六場比賽僅獲一勝，QPR在最後六場一勝難求，並吞下四連敗。雙方上季在Championship的兩次交手結果不同，QPR先在主場以3比1獲勝，之後Charlton主場則以0比0戰平。總進球數預測偏向進球較少的比賽，全場總進球少於2.5球的機率為57%，多於2.5球則為43%。",
+   "preview_zh_generated_at": "2026-08-31T02:10:11Z"
   }
  ]
 }
