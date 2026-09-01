@@ -156,40 +156,56 @@
    "home": "Birmingham City",
    "away": "Southampton",
    "probs": {
-    "home": 0.3382,
-    "draw": 0.2723,
-    "away": 0.3895
+    "home": 0.3572,
+    "draw": 0.2702,
+    "away": 0.3726
    },
-   "market_anchored": false,
+   "market_anchored": true,
    "model_backed": true,
    "ou25": {
-    "over": 0.5244,
-    "under": 0.4756
+    "over": 0.5367,
+    "under": 0.4633
    },
-   "preview": "The model makes this a finely balanced contest, with Southampton narrowly favoured at 39%, compared with a 34% Birmingham City win and a 27% draw. Both sides bring encouraging history from the closing weeks of last season: Birmingham were unbeaten in their final five matches, while Southampton went through their listed six without defeat and scored at least twice in each. The recent meetings also favour the visitors, who won three of the four listed encounters, with the other ending 1-1. There is only a slight total-goals lean, with over 2.5 at 52% and under 2.5 at 48%.",
-   "preview_generated_at": "2026-09-01T02:00:41Z",
-   "preview_zh": "模型顯示這是一場實力非常接近的比賽，Southampton的勝率以39%略微領先，Birmingham City的勝率為34%，平手機率則為27%。雙方在上季收官階段都有令人鼓舞的表現：Birmingham在最後五場比賽保持不敗，Southampton則在所列的六場比賽中未嘗敗績，且每場至少攻進兩球。近期交手紀錄同樣對客隊有利，他們在所列的四次對決中贏下三場，另一場則以1比1收場。總進球數的機率差距不大，達到三球以上的機率為52%，兩球以下則為48%。",
-   "preview_zh_generated_at": "2026-09-01T02:14:07Z"
+   "market_probs": {
+    "home": 0.3619,
+    "draw": 0.2697,
+    "away": 0.3684
+   },
+   "books": 22,
+   "overround": 6.36,
+   "final": true,
+   "finalised_at": "2026-09-01T17:00:00Z",
+   "preview": "Southampton holds a marginal edge with 37% to Birmingham's 36%, suggesting a tightly contested match with a 27% probability of a draw. Last season Southampton showed the stronger form, winning their final fixture while Birmingham drew theirs. The recent head-to-head record is decidedly mixed: Southampton claimed a decisive 3-1 victory in an earlier meeting, but the sides also drew 1-1 more recently. On total goals, the model sets a modest lean towards an open game, marking over 2.5 at 54%.",
+   "preview_generated_at": "2026-09-01T17:00:29Z",
+   "preview_zh": "Southampton 以37%對36% 略佔上風，表明這是場勢均力敵的比賽，平手機率為27%。上賽季 Southampton 展現更強的狀態，最後一場比賽獲勝，而 Birmingham 則以平手收場。最近的交戰紀錄明顯混雜，Southampton 在早前的對戰中取得決定性的3:1勝利，但雙方最近也有1:1平手。在總進球數上，模型對開放式比賽有所傾向，2.5球以上的機率為54%。",
+   "preview_zh_generated_at": "2026-09-01T17:03:06Z"
   },
   {
    "kickoff": "2026-09-01T19:00:00Z",
    "home": "Stoke City",
    "away": "Norwich City",
    "probs": {
-    "home": 0.3266,
-    "draw": 0.2792,
-    "away": 0.3942
+    "home": 0.2857,
+    "draw": 0.2725,
+    "away": 0.4418
    },
-   "market_anchored": false,
+   "market_anchored": true,
    "model_backed": true,
    "ou25": {
-    "over": 0.4649,
-    "under": 0.5351
+    "over": 0.4987,
+    "under": 0.5013
    },
-   "preview": "Oracle90 makes this a finely balanced contest, with Norwich City narrowly favoured at 39%, compared with 33% for a Stoke City win and 28% for the draw. Stoke ended last season with 2-0 defeats at Bristol City and Derby, while their final two home losses were both 3-1. Norwich's closing run was more mixed, including 2-1 wins over Derby and Millwall alongside a 2-1 defeat at Hull. Recent meetings offer no simple pattern: Stoke won 2-0 at Norwich in January, after the sides drew 1-1 at Stoke in September. On total goals, the model leans under 2.5 at 54%, with over 2.5 at 46%.",
-   "preview_generated_at": "2026-09-01T02:00:41Z",
-   "preview_zh": "Oracle90認為這是一場實力相當接近的比賽，Norwich City以39%略占優勢，Stoke City獲勝的機率為33%，平手則為28%。Stoke上賽季最後兩場比賽分別在客場以0比2不敵Bristol City與Derby，而他們最後兩場主場敗仗的比分都是1比3。Norwich季末的表現較為不一，包括以2比1擊敗Derby與Millwall，以及以1比2不敵Hull。近期交手結果並無明顯規律，Stoke在一月作客Norwich時以2比0獲勝，此前雙方在九月於Stoke以1比1戰平。總進球數方面，模型認為少於2.5球的機率為54%，多於2.5球的機率為46%。",
-   "preview_zh_generated_at": "2026-09-01T02:14:07Z"
+   "market_probs": {
+    "home": 0.2758,
+    "draw": 0.2704,
+    "away": 0.4537
+   },
+   "books": 22,
+   "overround": 6.38,
+   "final": true,
+   "finalised_at": "2026-09-01T17:00:00Z",
+   "preview": "Norwich leads the model's probability at 44 per cent, against Stoke's 29 per cent, with the draw holding a 27 per cent chance. Stoke finished last season in difficult form, while Norwich demonstrated more balance across the same period. Their head-to-head meetings tell a volatile story: Norwich won 4-2 in February 2025, yet Stoke claimed a 2-0 victory in January 2026. The total-goals forecast remains perfectly balanced at 50 per cent both ways, offering no clear directional lean.",
+   "preview_generated_at": "2026-09-01T17:00:29Z"
   },
   {
    "kickoff": "2026-09-02T18:45:00Z",
