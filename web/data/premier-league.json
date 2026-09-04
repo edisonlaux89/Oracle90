@@ -11,27 +11,29 @@
    "home": "Ipswich Town",
    "away": "Liverpool",
    "probs": {
-    "home": 0.178,
-    "draw": 0.2076,
-    "away": 0.6144
+    "home": 0.1731,
+    "draw": 0.2042,
+    "away": 0.6227
    },
    "market_anchored": true,
    "model_backed": true,
    "market_probs": {
-    "home": 0.1744,
-    "draw": 0.2017,
-    "away": 0.624
+    "home": 0.1683,
+    "draw": 0.1975,
+    "away": 0.6342
    },
    "books": 25,
-   "overround": 4.97,
+   "overround": 4.59,
    "ou25": {
-    "over": 0.647,
-    "under": 0.353
+    "over": 0.67,
+    "under": 0.33
    },
-   "preview": "Liverpool are the model’s clear favourite, with a 61% chance of an away win, compared with 18% for Ipswich Town and 21% for the draw. Ipswich return to this level after ending last season with one defeat in six Championship matches, including a 3-0 home win over QPR. Liverpool’s final six Premier League matches of last season were less consistent, producing two wins, two draws and two defeats. The recent meetings also favour Liverpool, who won 2-0 away in August 2024 and 4-1 at home in January 2025. The total-goals forecast leans towards over 2.5 goals at 65%, with under 2.5 at 35%.",
-   "preview_generated_at": "2026-09-04T02:00:40Z",
-   "preview_zh": "Liverpool 是模型明確看好的一方，客場獲勝機率為61%，Ipswich Town 獲勝機率為18%，平手機率則為21%。Ipswich Town 上季在 Championship 最後六場比賽僅吞下一敗，其中包括主場以3比0擊敗 QPR，如今重返此級別賽事。Liverpool 上季最後六場 Premier League 比賽的表現較不穩定，取得兩勝、兩和、兩敗。近期交手紀錄也對 Liverpool 有利，他們於2024年8月客場以2比0獲勝，並於2025年1月主場以4比1取勝。總進球數預測較傾向超過2．5球，機率為65%，少於2．5球的機率則為35%。",
-   "preview_zh_generated_at": "2026-09-04T02:10:53Z"
+   "final": true,
+   "finalised_at": "2026-09-04T17:00:01Z",
+   "preview": "Liverpool is the clear favourite at 62%, with Ipswich at 17% and the draw at 20%. The model's assessment reflects the visitors' pattern in the fixture: they have won both previous meetings decisively. Last season's form shows both sides with mixed records: Ipswich took two wins from six matches, whilst Liverpool also won just two of six. The model expects a higher-scoring encounter, rating over 2.5 goals at 67%, consistent with the pattern evident in both previous meetings between these sides.",
+   "preview_generated_at": "2026-09-04T17:00:32Z",
+   "preview_zh": "Liverpool 是明確的領先者，為 62%，Ipswich 為 17%，平局為 20%。模型評估反映了客隊在該賽事中的表現模式：他們在之前的兩次對陣中都明確獲勝。上賽季的戰績顯示兩支球隊戰績都不穩定：Ipswich 在六場比賽中贏了兩場，Liverpool 也僅贏了兩場。模型預期這將是一場進球較多的比賽，超過 2.5 球的概率為 67%，與之前兩次對陣中明顯的模式相符。",
+   "preview_zh_generated_at": "2026-09-04T17:02:06Z"
   },
   {
    "kickoff": "2026-09-05T11:30:00Z",
@@ -164,7 +166,9 @@
     "under": 0.5023
    },
    "preview": "The model gives Fulham a narrow edge at home, with a 42% win probability, but the match is finely balanced given the draw at 28% and Crystal Palace at 31%. Fulham ended last season with a 2-0 home win over Newcastle, while their six listed league matches contained three clean sheets. Palace did not win any of their final six listed fixtures and conceded three goals in each of three away defeats. Recent meetings are mixed, though Palace won both visits to Fulham in 2025. The total-goals view is completely level, with over 2.5 at 50% and under 2.5 also at 50%.",
-   "preview_generated_at": "2026-09-04T02:00:40Z"
+   "preview_generated_at": "2026-09-04T02:00:40Z",
+   "preview_zh": "模型認為 Fulham 在主場略占優勢，勝率為 42%；但考慮到平手概率為 28%、Crystal Palace 為 31%，該場比賽勢均力敵。Fulham 上賽季以 2-0 的主場勝績對陣 Newcastle 結束，他們統計的六場聯賽中有三場零封。Palace 在統計的最後六場比賽中未取得勝績，並在三場客場敗仗中各失三球。近期交手戰績不一，儘管 Palace 在 2025 年兩度作客 Fulham 時都取得勝利。進球總數預測完全均衡，超過 2.5 球為 50%、少於 2.5 球亦為 50%。",
+   "preview_zh_generated_at": "2026-09-04T17:02:06Z"
   },
   {
    "kickoff": "2026-09-05T14:00:00Z",
