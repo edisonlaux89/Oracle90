@@ -277,27 +277,29 @@
    "home": "Swansea City",
    "away": "Wrexham AFC",
    "probs": {
-    "home": 0.4253,
-    "draw": 0.2769,
-    "away": 0.2979
+    "home": 0.4049,
+    "draw": 0.2801,
+    "away": 0.315
    },
    "market_anchored": true,
    "model_backed": true,
    "market_probs": {
-    "home": 0.4356,
-    "draw": 0.2777,
-    "away": 0.2867
+    "home": 0.4101,
+    "draw": 0.2821,
+    "away": 0.3078
    },
    "books": 22,
-   "overround": 6.96,
+   "overround": 6.68,
    "ou25": {
-    "over": 0.4917,
-    "under": 0.5083
+    "over": 0.4868,
+    "under": 0.5132
    },
-   "preview": "Swansea City are the model’s slight favourite at 43%, with the draw at 28% and a Wrexham AFC win at 30%, so the match remains finely balanced. Swansea ended last season with three wins and two draws from their final six Championship matches, scoring in all six. Wrexham won twice over the same closing sequence but also suffered three defeats, including two away from home. The recent meetings were split, with Wrexham winning 2-0 in March after Swansea’s 2-1 victory in December. The total-goals forecast is similarly close, leaning narrowly towards under 2.5 goals at 51%, compared with 49% for over 2.5.",
-   "preview_generated_at": "2026-09-05T02:00:42Z",
-   "preview_zh": "模型略為看好 Swansea City，勝率為 43%，和局為 28%，Wrexham AFC 勝率為 30%，因此本場比賽仍相當勢均力敵。Swansea 在上賽季最後六場英冠賽事中取得三勝兩和，且六場皆有進球。Wrexham 在同期最後六場賽事中贏得兩場，但也吞下三場敗仗，其中兩場發生在客場。近期兩次交手各勝一場，Wrexham 在三月以 2 比 0 獲勝，此前 Swansea 曾在十二月以 2 比 1 取勝。總進球數預測同樣十分接近，2.5 球以下的機率以 51% 略高於 2.5 球以上的 49%。",
-   "preview_zh_generated_at": "2026-09-05T02:08:00Z"
+   "final": true,
+   "finalised_at": "2026-09-05T17:00:00Z",
+   "preview": "The model rates Swansea City slight favourites at 40%, though a draw at 28% and Wrexham's 32% indicate a competitive encounter. Swansea hold a clear edge in form returning to this level, having won three of their last six matches to Wrexham's two, though both teams showed inconsistency. Wrexham suffered a particularly heavy 1-5 defeat to Southampton last season, whilst Swansea's only loss came by a single goal to the same opposition. Recent head-to-head meetings offer no decisive pattern. The total-goals market leans marginally to under 2.5.",
+   "preview_generated_at": "2026-09-05T17:00:31Z",
+   "preview_zh": "預測Swansea City略占優勢，勝率為40%，平局28%、Wrexham勝率32%，顯示這將是場勢均力敵的比賽。Swansea在重返此級別時展現明顯的狀態優勢，最近六場贏三場，而Wrexham贏兩場，雖然兩隊都表現不穩定。Wrexham上賽季以1：5敗給Southampton，而Swansea對該隊的唯一敗績只輸一球。近期對戰記錄未呈現明確的模式。進球總數略傾向於2.5以下。",
+   "preview_zh_generated_at": "2026-09-05T17:01:38Z"
   },
   {
    "kickoff": "2026-09-06T11:00:00Z",
