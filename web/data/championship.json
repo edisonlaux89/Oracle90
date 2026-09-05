@@ -11,81 +11,87 @@
    "home": "Preston North End",
    "away": "Blackburn Rovers",
    "probs": {
-    "home": 0.3888,
-    "draw": 0.287,
-    "away": 0.3242
+    "home": 0.3859,
+    "draw": 0.2887,
+    "away": 0.3254
    },
    "market_anchored": true,
    "model_backed": true,
    "market_probs": {
-    "home": 0.3908,
-    "draw": 0.2863,
-    "away": 0.3229
+    "home": 0.3872,
+    "draw": 0.2884,
+    "away": 0.3243
    },
    "books": 22,
-   "overround": 6.85,
+   "overround": 6.63,
    "ou25": {
-    "over": 0.4567,
-    "under": 0.5433
+    "over": 0.4593,
+    "under": 0.5407
    },
-   "preview": "The model sees a finely balanced contest, with Preston North End narrowly favoured at 39%, ahead of Blackburn Rovers at 32% and the draw at 29%. Preston ended last season with four defeats and two wins across their final six matches, while Blackburn recorded three draws, two defeats and one win over the same closing sequence. Recent meetings favour the visitors: Blackburn won each of the last three, including a 1-0 home victory in February 2026. The total-goals forecast leans slightly towards under 2.5 goals at 54%, compared with 46% for over 2.5.",
-   "preview_generated_at": "2026-09-05T02:00:42Z",
-   "preview_zh": "模型認為這場比賽勢均力敵，Preston North End以39%的預測勝率略占優勢，Blackburn Rovers為32%，平局則為29%。Preston上賽季最後六場比賽取得兩勝四敗，Blackburn在同期最後六場比賽則取得一勝三和兩敗。近期交手紀錄對客隊較為有利，Blackburn最近三次交手皆獲勝，其中包括2026年2月在主場以一比零取勝。總進球數預測略微傾向低於2.5球，機率為54%，高於2.5球則為46%。",
-   "preview_zh_generated_at": "2026-09-05T02:08:00Z"
+   "final": true,
+   "finalised_at": "2026-09-05T09:30:00Z",
+   "preview": "The model favours Preston at 39%, though this remains a close match with Blackburn at 33% and a draw at 29%. Last season's final games show both clubs returning to this level after mixed campaigns: Preston took two wins from six, Blackburn drew three times in their closing fixtures. In recent head-to-head meetings, Blackburn have held the upper hand, winning three of the last five encounters including a 1-0 victory in February. The expected outcome leans toward a low-scoring affair, with under 2.5 goals at 54% the favoured outcome.",
+   "preview_generated_at": "2026-09-05T09:30:31Z",
+   "preview_zh": "模型看好Preston的概率為39%，但這仍然是一場競爭激烈的比賽，Blackburn的概率為33%，平局的概率為29%。上賽季末期的戰績顯示兩支球隊在經歷成績波動的賽季後回到了這一水平：Preston在最後六場比賽中贏了兩場，Blackburn在最後的幾場比賽中平了三次。在最近的對陣記錄中，Blackburn占據上風，在最近五次交手中贏了三次，其中包括2月的一場1-0勝利。比賽的預期結果傾向於低進球數，進球數少於2.5個的概率為54%，這是更有可能的結果。",
+   "preview_zh_generated_at": "2026-09-05T09:32:57Z"
   },
   {
    "kickoff": "2026-09-05T11:30:00Z",
    "home": "Stoke City",
    "away": "Charlton Athletic",
    "probs": {
-    "home": 0.4472,
-    "draw": 0.288,
-    "away": 0.2648
+    "home": 0.4478,
+    "draw": 0.2894,
+    "away": 0.2628
    },
    "market_anchored": true,
    "model_backed": true,
    "market_probs": {
-    "home": 0.4461,
-    "draw": 0.2891,
-    "away": 0.2647
+    "home": 0.4469,
+    "draw": 0.2909,
+    "away": 0.2622
    },
    "books": 22,
-   "overround": 6.9,
+   "overround": 6.69,
    "ou25": {
-    "over": 0.4346,
-    "under": 0.5654
+    "over": 0.4241,
+    "under": 0.5759
    },
-   "preview": "Oracle90 gives Stoke City the edge at home, with a 45% win probability, while the draw is 29% and a Charlton Athletic win 26%. That advantage is measured rather than decisive. Stoke ended last season with five defeats and one draw across their final six Championship matches, failing to score in three of them. Charlton’s closing six league games brought one win, two draws and three defeats, with both teams scoring in every match. The recent meetings are split, with each side winning two of the last four, although Stoke won both home fixtures. On total goals, the model leans under 2.5 at 57%, compared with 43% for over 2.5.",
-   "preview_generated_at": "2026-09-05T02:00:42Z",
-   "preview_zh": "Oracle90認為Stoke City在主場占優，獲勝機率為45%，平局機率為29%，Charlton Athletic獲勝機率則為26%。不過，這項優勢相對有限，並非十分明顯。Stoke在上賽季最後六場英格蘭冠軍足球聯賽中吞下五敗並有一場平局，其中三場未能進球。Charlton在最後六場聯賽中取得一勝、二和、三敗，而且每場比賽雙方都有進球。近期交手戰績平分秋色，雙方在最近四次交鋒中各勝兩場，但Stoke贏得了其中兩場主場賽事。在總進球數方面，模型認為低於2.5球的機率為57%，高於2.5球的機率則為43%。",
-   "preview_zh_generated_at": "2026-09-05T02:08:00Z"
+   "final": true,
+   "finalised_at": "2026-09-05T09:30:00Z",
+   "preview": "The model favours a Stoke City win at 45%, though this is a modest margin with draws at 29% and Charlton Athletic at 26%. Both clubs finished last season in difficult form: Stoke taking just one point from their final six matches, whilst Charlton struggled similarly despite a single victory. In their recent encounters, the pattern has swung both ways, with Stoke's emphatic 3-0 win last November followed by Charlton's 1-0 victory in February. The data leans towards a low-scoring contest, with goals under 2.5 at 58%.",
+   "preview_generated_at": "2026-09-05T09:30:31Z",
+   "preview_zh": "模型看好Stoke City勝利，概率為45%，但這只是小幅領先，平手為29%，Charlton Athletic為26%。兩支球隊上賽季都以困難狀態收場：Stoke在最後六場比賽中僅獲一分，而Charlton儘管有一場勝利卻同樣掙扎。在最近的交手中，局勢搖擺不定，Stoke去年11月以3：0大勝，隨後Charlton在2月以1：0逆轉。數據傾向於低進球的比賽，進球數少於2.5的概率為58%。",
+   "preview_zh_generated_at": "2026-09-05T09:32:57Z"
   },
   {
    "kickoff": "2026-09-05T11:30:00Z",
    "home": "Lincoln City",
    "away": "Southampton",
    "probs": {
-    "home": 0.2321,
-    "draw": 0.2459,
-    "away": 0.5221
+    "home": 0.2319,
+    "draw": 0.2444,
+    "away": 0.5237
    },
    "market_anchored": true,
    "model_backed": false,
    "market_probs": {
-    "home": 0.2321,
-    "draw": 0.2459,
-    "away": 0.5221
+    "home": 0.2319,
+    "draw": 0.2444,
+    "away": 0.5237
    },
    "books": 22,
-   "overround": 6.9,
+   "overround": 6.66,
    "ou25": {
-    "over": 0.5536,
-    "under": 0.4464
+    "over": 0.5618,
+    "under": 0.4382
    },
-   "preview": "Southampton are the model’s clear favourite, with a 52% chance of an away win, compared with 23% for Lincoln City and 25% for the draw. Their recorded run ended with a 3-1 victory at Preston, while their other listed away match brought a 2-1 win at Swansea. They also scored at least twice in every match shown, although consecutive 2-2 home draws indicate that opponents found openings. Lincoln City have no recent matches on record, and there are no previous meetings available to provide further comparison. The total-goals forecast leans towards over 2.5 at 55%, with under 2.5 at 45%.",
-   "preview_generated_at": "2026-09-05T02:00:42Z",
-   "preview_zh": "Southampton 明顯受到模型看好，客場獲勝機率為52%，Lincoln City 獲勝機率為23%，平局機率則為25%。Southampton 在紀錄中的近期賽程以客場3比1擊敗 Preston 作結，另一場列出的客場比賽則以2比1戰勝 Swansea。他們在所列的每場比賽中也都至少攻進兩球，不過連續兩場主場以2比2戰平，顯示對手仍能找到進攻空間。Lincoln City 沒有近期比賽紀錄，也沒有過往交手資料可供進一步比較。總進球數預測略為傾向超過2.5球，機率為55%，低於2.5球的機率則為45%。",
-   "preview_zh_generated_at": "2026-09-05T02:08:00Z"
+   "final": true,
+   "finalised_at": "2026-09-05T09:30:00Z",
+   "preview": "Southampton arrive as clear favourites at 52%, though Lincoln are not without hope at 23%. The draw at 24% suggests this is a competitive contest. Last season, Southampton finished strongly with four wins from their final six matches, establishing the level they are now returning to. Lincoln have no recent match record available, which adds some uncertainty to the encounter. The model favours a higher-scoring game, with over 2.5 goals at 56%, indicating the teams will likely combine for three or more.",
+   "preview_generated_at": "2026-09-05T09:30:31Z",
+   "preview_zh": "Southampton 是明顯的熱門球隊（52%），Lincoln 為 23%，也並非毫無希望。平局為 24%，表示這是一場競爭激烈的比賽。上賽季 Southampton 強勢收尾，最後六場比賽中獲得四勝，確立了他們目前回歸的競技水準。Lincoln 缺少近期比賽紀錄，這增加了比賽的不確定性。根據模型預測，這場比賽傾向於高比分，超過 2.5 球的機率為 56%，表示兩隊合計很可能打入三球或以上。",
+   "preview_zh_generated_at": "2026-09-05T09:32:57Z"
   },
   {
    "kickoff": "2026-09-05T14:00:00Z",
@@ -353,7 +359,9 @@
     "under": 0.4951
    },
    "preview": "The model narrowly favours Sheffield United at 38%, but with Blackburn Rovers on 35% and the draw at 28%, this is a finely balanced contest. Last season’s closing results show Sheffield United winning three of their final six Championship matches, although they lost 3-1 at home to Blackburn in April. The recent head-to-head record is mixed: each side won one of the two meetings last season, both by a 3-1 scoreline, while the previous three meetings produced one win apiece and a draw. The total-goals forecast offers no clear lean, with over 2.5 at 50% and under 2.5 also at 50%.",
-   "preview_generated_at": "2026-09-05T02:00:42Z"
+   "preview_generated_at": "2026-09-05T02:00:42Z",
+   "preview_zh": "該模型略微看好Sheffield United，獲得38%的支持，但Blackburn Rovers獲得35%，平局則為28%，這是一場勢均力敵的對陣。上賽季末段成績顯示Sheffield United在英甲最後六場比賽中贏得三場，但他們在4月主場以1:3不敵Blackburn。近期交手紀錄參差不齊：上賽季兩隊對陣兩次，各獲一勝，兩場都是以3:1的比分贏得，而再往前三次交手則是各勝一場，另有一場平局。總進球預測沒有明顯傾向，超過2.5球的概率為50%，少於2.5球的概率也為50%。",
+   "preview_zh_generated_at": "2026-09-05T09:32:57Z"
   },
   {
    "kickoff": "2026-09-08T18:45:00Z",

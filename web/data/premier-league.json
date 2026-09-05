@@ -11,27 +11,29 @@
    "home": "Newcastle United",
    "away": "Bournemouth",
    "probs": {
-    "home": 0.4433,
-    "draw": 0.2602,
-    "away": 0.2965
+    "home": 0.4527,
+    "draw": 0.2591,
+    "away": 0.2883
    },
    "market_anchored": true,
    "model_backed": true,
    "market_probs": {
-    "home": 0.447,
-    "draw": 0.26,
-    "away": 0.2929
+    "home": 0.4588,
+    "draw": 0.2585,
+    "away": 0.2827
    },
    "books": 25,
-   "overround": 4.92,
+   "overround": 4.61,
    "ou25": {
-    "over": 0.5914,
-    "under": 0.4086
+    "over": 0.5968,
+    "under": 0.4032
    },
-   "preview": "The model gives Newcastle United a narrow advantage, with a home win at 44%, compared with 30% for Bournemouth and 26% for the draw. Those figures still point to a finely balanced contest rather than a strong favourite. Looking back to last season, Newcastle won two of their final six league matches, while Bournemouth went unbeaten across their final six, with three wins and three draws. The recent head-to-head history also favours the visitors: Bournemouth won 2-1 at Newcastle in April and avoided defeat in all five listed meetings. On total goals, the model leans towards over 2.5 at 59%, against 41% for under 2.5.",
-   "preview_generated_at": "2026-09-05T02:00:42Z",
-   "preview_zh": "模型認為 Newcastle United 略占優勢，主場獲勝機率為44%，Bournemouth 獲勝機率為30%，平局機率為26%。不過，這些數據仍顯示比賽勢均力敵，並沒有明顯占優勢的一方。回顧上賽季，Newcastle 在最後六場聯賽中贏得兩場，Bournemouth 則在最後六場保持不敗，取得三勝三和。近期交手紀錄也對客隊較為有利，Bournemouth 在四月作客 Newcastle 時以2比1獲勝，並在所列的五次交手中皆未落敗。總進球數方面，模型預測達到3球以上的機率為59%，不超過2球的機率則為41%。",
-   "preview_zh_generated_at": "2026-09-05T02:08:00Z"
+   "final": true,
+   "finalised_at": "2026-09-05T09:30:00Z",
+   "preview": "Newcastle are slight favourites at home with a 45% win probability, though the margin is modest given Bournemouth's 29% chances. Last season's form shows Newcastle returning to this level after mixed results, while Bournemouth proved competitive throughout with draws and victories. In recent head-to-head meetings Bournemouth have had the upper hand, winning twice in their last five encounters against Newcastle. The model expects a relatively open contest with 60% probability of over 2.5 goals, suggesting attacking intent from both sides may shape the outcome.",
+   "preview_generated_at": "2026-09-05T09:30:31Z",
+   "preview_zh": "Newcastle在主場略佔優勢，勝率為45%，但考慮到Bournemouth的勝率為29%，差距並不特別懸殊。上賽季的戰績顯示Newcastle在經歷了起伏後回到了這一水準，而Bournemouth整季保持了競爭力，有勝有平。在近期交手紀錄中，Bournemouth佔據上風，過去五場對Newcastle的比賽中贏了兩場。分析模型預期這將是一場相對開放的對陣，有60%的機率出現超過2.5球的情況，這表明雙方的進攻意圖可能會影響比賽結果。",
+   "preview_zh_generated_at": "2026-09-05T09:32:57Z"
   },
   {
    "kickoff": "2026-09-05T14:00:00Z",
@@ -137,7 +139,9 @@
     "under": 0.5029
    },
    "preview": "The model narrowly favours Fulham at 42%, but with Crystal Palace at 30% and the draw at 28%, the match is finely balanced. Fulham ended last season with two wins, two draws and two defeats across their final six league matches, conceding only five goals in that sequence. Palace, by contrast, went without a win in their final six, drawing twice and losing four times. Recent meetings have been mixed: Palace won both encounters at Fulham last season, while Fulham won 2-0 away in November 2024. The total-goals outlook has no clear lean, with over 2.5 at 50% and under 2.5 at 50%.",
-   "preview_generated_at": "2026-09-05T02:00:42Z"
+   "preview_generated_at": "2026-09-05T02:00:42Z",
+   "preview_zh": "模型微幅傾向Fulham達42%，但Crystal Palace為30%，平手為28%，賽事勢均力敵。Fulham上季最後6場聯賽取得2勝2平2負，該期間僅失5球。相比之下，Palace最後6場未嘗勝績，2平4負。近期交手成績不一：Palace在Fulham主場2場全勝，而Fulham在2024年11月客場以2-0勝出。進球數展望無明顯傾向，2.5球以上為50%，2.5球以下為50%。",
+   "preview_zh_generated_at": "2026-09-05T09:32:57Z"
   },
   {
    "kickoff": "2026-09-05T14:00:00Z",
@@ -351,7 +355,9 @@
     "under": 0.4961
    },
    "preview": "Oracle90 favours a Crystal Palace win at 50%, ahead of the draw at 26% and an Ipswich Town win at 24%. The home side ended last season without a victory across the six listed Premier League matches, drawing twice and losing four. Ipswich are returning to this level after a Championship campaign in which their final six listed results brought two wins, three draws and one defeat. Crystal Palace also won the two most recent meetings, both by 1-0 scorelines in the 2024-25 season. The total-goals forecast is completely balanced, with over 2.5 goals at 50% and under 2.5 goals also at 50%.",
-   "preview_generated_at": "2026-09-05T02:00:42Z"
+   "preview_generated_at": "2026-09-05T02:00:42Z",
+   "preview_zh": "Oracle90 預測 Crystal Palace 獲勝的概率為 50%，高於平局的 26% 及 Ipswich Town 獲勝的 24%。主隊上賽季在所列的六場英超比賽中未嘗勝績，其中平兩場、負四場。Ipswich 經歷英甲賽季後重返此級別，其最後列出的六場戰績為勝兩場、平三場、負一場。Crystal Palace 亦贏得了最近兩次交手，均以 1-0 比分在 2024-25 賽季取勝。進球數預測保持完全平衡，超過 2.5 球的概率為 50%，低於 2.5 球的概率亦為 50%。",
+   "preview_zh_generated_at": "2026-09-05T09:32:57Z"
   },
   {
    "kickoff": "2026-09-12T14:00:00Z",
@@ -403,7 +409,9 @@
     "under": 0.5007
    },
    "preview": "Oracle90 makes Tottenham Hotspur the likelier winner at 48%, ahead of the draw at 27% and an Everton win at 26%. That is a clear advantage, though not a dominant one. The latest evidence supplied comes from the end of last season: Tottenham beat Everton 1-0 at home on 24 May, having also won 3-0 away in the previous meeting. Tottenham closed that league campaign with three wins, two draws and one defeat across the six listed matches, while Everton recorded two draws and four defeats. The total-goals view offers no separation, with over 2.5 goals at 50% and under 2.5 goals also at 50%.",
-   "preview_generated_at": "2026-09-05T02:00:42Z"
+   "preview_generated_at": "2026-09-05T02:00:42Z",
+   "preview_zh": "Oracle90 認為 Tottenham Hotspur 更有可能獲勝，機率為 48%，領先平手的 27% 以及 Everton 勝的 26%。這是明確的優勢，但並非絕對優勢。最新的證據來自上賽季末期：Tottenham 在 5 月 24 日主場以 1-0 擊敗 Everton，在前一場比賽也曾在客場以 3-0 獲勝。Tottenham 在該聯賽賽季末的六場比賽中戰績為三勝二平一負，而 Everton 則為二平四負。在總進球數的角度來看並無分別，多於 2.5 球的機率為 50%，少於 2.5 球的機率也為 50%。",
+   "preview_zh_generated_at": "2026-09-05T09:32:57Z"
   },
   {
    "kickoff": "2026-09-12T19:00:00Z",
