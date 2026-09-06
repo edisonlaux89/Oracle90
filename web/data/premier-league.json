@@ -11,27 +11,25 @@
    "home": "Everton",
    "away": "Manchester United",
    "probs": {
-    "home": 0.2947,
-    "draw": 0.268,
-    "away": 0.4373
+    "home": 0.2834,
+    "draw": 0.2666,
+    "away": 0.45
    },
    "market_anchored": true,
    "model_backed": true,
    "market_probs": {
-    "home": 0.2858,
-    "draw": 0.2659,
-    "away": 0.4483
+    "home": 0.2719,
+    "draw": 0.264,
+    "away": 0.4641
    },
    "books": 25,
-   "overround": 4.7,
+   "overround": 4.66,
    "ou25": {
-    "over": 0.5528,
-    "under": 0.4472
+    "over": 0.5673,
+    "under": 0.4327
    },
-   "preview": "Manchester United are the model’s favoured outcome at 44%, with an Everton win at 29% and the draw at 27%. The visitors closed last season strongly, winning five of their final six league matches and conceding only once across their two away wins. Everton ended that campaign without a win in six, although high-scoring draws against Crystal Palace and Manchester City showed they could remain competitive in open games. Recent meetings have been mixed, including one win apiece in 2025-26. The goals forecast leans slightly towards over 2.5, at 55%.",
-   "preview_generated_at": "2026-09-06T02:00:39Z",
-   "preview_zh": "模型認為 Manchester United 獲勝的可能性最高，為 44%，Everton 獲勝為 29%，平局為 27%。客隊在上賽季末段表現強勁，最後六場聯賽贏下五場，並在兩場客場勝利中合計僅失一球。Everton 則以連續六場未勝結束該賽季，不過對陣 Crystal Palace 與 Manchester City 的高比分平局顯示，他們在開放式比賽中仍具競爭力。近期交手結果不一，雙方在 2025至26 賽季各取得一勝。進球數預測略微傾向超過 2.5 球，機率為 55%。",
-   "preview_zh_generated_at": "2026-09-06T02:07:04Z"
+   "final": true,
+   "finalised_at": "2026-09-06T11:00:00Z"
   },
   {
    "kickoff": "2026-09-06T15:30:00Z",
