@@ -36,27 +36,25 @@
    "home": "Arsenal",
    "away": "Chelsea",
    "probs": {
-    "home": 0.5617,
-    "draw": 0.2444,
-    "away": 0.1939
+    "home": 0.56,
+    "draw": 0.2483,
+    "away": 0.1917
    },
    "market_anchored": true,
    "model_backed": true,
    "market_probs": {
-    "home": 0.5582,
-    "draw": 0.2448,
-    "away": 0.1971
+    "home": 0.5561,
+    "draw": 0.2497,
+    "away": 0.1942
    },
    "books": 25,
-   "overround": 4.72,
+   "overround": 4.61,
    "ou25": {
-    "over": 0.5463,
-    "under": 0.4537
+    "over": 0.5284,
+    "under": 0.4716
    },
-   "preview": "Arsenal are the model’s clear favourite, with a 56% chance of winning, while the draw is rated at 24% and a Chelsea win at 19%. Arsenal ended last season with five wins from six league matches, keeping four clean sheets in that sequence. Chelsea’s final six league games produced one win, one draw and four defeats, including losses in each of their last three away matches. Arsenal are also unbeaten across the five listed recent meetings, winning three and drawing two. For total goals, the model leans towards over 2.5 at 55%, against 45% for under 2.5.",
-   "preview_generated_at": "2026-09-06T02:00:39Z",
-   "preview_zh": "模型明顯看好 Arsenal，勝率為56%，平局機率為24%，Chelsea 勝率則為19%。Arsenal 上季最後六場聯賽贏下五場，期間有四場零封對手。Chelsea 最後六場聯賽取得一勝、一和、四敗，包括最近三場客場賽事全部落敗。Arsenal 在列出的近五次交手中也保持不敗，取得三勝、兩和。總進球數方面，模型認為超過2.5球的機率為55%，少於2.5球則為45%。",
-   "preview_zh_generated_at": "2026-09-06T02:07:04Z"
+   "final": true,
+   "finalised_at": "2026-09-06T13:30:00Z"
   },
   {
    "kickoff": "2026-09-12T14:00:00Z",
