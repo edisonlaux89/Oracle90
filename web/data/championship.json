@@ -28,10 +28,8 @@
     "over": 0.4567,
     "under": 0.5433
    },
-   "preview": "The model sees this as finely balanced, with Wolverhampton Wanderers narrowly favoured at 38%. Birmingham City have a 33% win probability, while the draw is rated at 29%. Birmingham ended last season strongly at home, winning three successive listed matches there, including two 2-1 victories and a 2-0 success. Wolves finished their top-flight campaign without a win in the six results supplied, although three of those matches ended 1-1. The historical meetings also favour Wolves, who won three of the five listed encounters. The total-goals forecast leans under 2.5 goals at 54%.",
-   "preview_generated_at": "2026-09-06T02:00:39Z",
-   "preview_zh": "模型認為本場比賽雙方勢均力敵，Wolverhampton Wanderers以38%的勝率略占優勢。Birmingham City的勝率為33%，平局機率則為29%。Birmingham上賽季末段在主場表現強勢，於列出的比賽中取得三連勝，包括兩場以2：1獲勝，以及一場以2：0取勝。Wolves在頂級聯賽賽季的最後六場列出賽果中未嘗勝績，不過其中三場以1：1結束。歷史交手紀錄同樣較有利於Wolves，他們在列出的五次對決中贏得三場。總進球數預測顯示，少於2．5球的機率為54%。",
-   "preview_zh_generated_at": "2026-09-06T02:07:04Z"
+   "final": true,
+   "finalised_at": "2026-09-06T09:00:01Z"
   },
   {
    "kickoff": "2026-09-08T18:45:00Z",
