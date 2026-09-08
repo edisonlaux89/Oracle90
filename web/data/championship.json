@@ -36,135 +36,125 @@
    "home": "Blackburn Rovers",
    "away": "Sheffield United",
    "probs": {
-    "home": 0.3103,
-    "draw": 0.2814,
-    "away": 0.4082
+    "home": 0.321,
+    "draw": 0.2786,
+    "away": 0.4004
    },
    "market_anchored": true,
    "model_backed": true,
    "market_probs": {
-    "home": 0.3012,
-    "draw": 0.2804,
-    "away": 0.4184
+    "home": 0.3144,
+    "draw": 0.277,
+    "away": 0.4086
    },
-   "books": 15,
-   "overround": 10.8,
+   "books": 22,
+   "overround": 6.68,
    "ou25": {
-    "over": 0.4954,
-    "under": 0.5046
+    "over": 0.4935,
+    "under": 0.5065
    },
-   "preview": "Sheffield United are the model’s measured favourites, with a 41% chance of an away win, compared with 31% for Blackburn Rovers and 28% for the draw. Blackburn won 3-1 at Sheffield United in April, although the five recent meetings have produced two victories for each side and one draw. At the end of last season, Blackburn took six points from their final six matches, while Sheffield United collected nine and won two of their last three away games. The total-goals assessment offers no clear direction: over 2.5 and under 2.5 are both rated at exactly 50%.",
-   "preview_generated_at": "2026-09-06T02:00:39Z",
-   "preview_zh": "模型評估認為 Sheffield United 略占優勢，客場獲勝機率為41%，Blackburn Rovers 獲勝機率為31%，平手機率則為28%。Blackburn 在今年4月客場以3：1擊敗 Sheffield United，不過雙方近五次交手各贏兩場，另有一場平手。上賽季末，Blackburn 在最後六場比賽拿下六分，Sheffield United 則取得九分，並在最後三場客場比賽中贏得兩場。總進球數評估沒有明確傾向，超過2.5球與低於2.5球的機率均恰好為50%。",
-   "preview_zh_generated_at": "2026-09-06T02:07:04Z"
+   "final": true,
+   "finalised_at": "2026-09-08T16:45:00Z"
   },
   {
    "kickoff": "2026-09-08T18:45:00Z",
    "home": "Wrexham AFC",
    "away": "Burnley",
    "probs": {
-    "home": 0.4064,
-    "draw": 0.2654,
-    "away": 0.3283
+    "home": 0.4453,
+    "draw": 0.2685,
+    "away": 0.2862
    },
    "market_anchored": true,
    "model_backed": true,
    "market_probs": {
-    "home": 0.4179,
-    "draw": 0.2628,
-    "away": 0.3193
+    "home": 0.4667,
+    "draw": 0.2655,
+    "away": 0.2678
    },
-   "books": 10,
-   "overround": 9.56,
+   "books": 22,
+   "overround": 6.61,
    "ou25": {
-    "over": 0.562,
-    "under": 0.438
+    "over": 0.5136,
+    "under": 0.4864
    },
-   "preview": "Oracle90 sees this as finely balanced, with Wrexham AFC given a slight edge at 41%, ahead of Burnley at 33%, while the draw stands at 27%. Wrexham’s closing Championship run last season was mixed. They beat Oxford and Stoke without conceding, but also suffered heavy defeats against Coventry and Southampton before drawing 2-2 with Middlesbrough. Burnley’s final six Premier League matches brought draws with Wolves and Aston Villa alongside four defeats. With no previous meetings on record, there is no head-to-head pattern to add. The total-goals lean is over 2.5 at 56%, compared with under 2.5 at 44%.",
-   "preview_generated_at": "2026-09-06T02:00:39Z",
-   "preview_zh": "Oracle90認為本場勝負相當接近，Wrexham AFC以41%略占優勢，Burnley為33%，和局則為27%。Wrexham上季在英格蘭冠軍足球聯賽收官階段的表現有好有壞。他們擊敗Oxford與Stoke，且均未失球，但也曾大比分敗給Coventry與Southampton，之後以2比2與Middlesbrough握手言和。Burnley在英格蘭超級足球聯賽最後六場比賽中，分別與Wolves及Aston Villa踢成平手，另外四場則吞下敗仗。雙方過去沒有交手紀錄，因此沒有對戰趨勢可供參考。總進球數方面，達到3球以上的可能性為56%，2球以下則為44%。",
-   "preview_zh_generated_at": "2026-09-06T02:07:04Z"
+   "final": true,
+   "finalised_at": "2026-09-08T16:45:00Z"
   },
   {
    "kickoff": "2026-09-08T18:45:00Z",
    "home": "Cardiff City",
    "away": "Stoke City",
    "probs": {
-    "home": 0.4323,
-    "draw": 0.2655,
-    "away": 0.3023
+    "home": 0.4566,
+    "draw": 0.2604,
+    "away": 0.283
    },
    "market_anchored": true,
    "model_backed": true,
    "market_probs": {
-    "home": 0.4326,
-    "draw": 0.2622,
-    "away": 0.3052
+    "home": 0.4631,
+    "draw": 0.2559,
+    "away": 0.281
    },
-   "books": 10,
-   "overround": 9.6,
+   "books": 22,
+   "overround": 6.58,
    "ou25": {
-    "over": 0.5359,
-    "under": 0.4641
+    "over": 0.5567,
+    "under": 0.4433
    },
-   "preview": "Oracle90 makes Cardiff City the narrow favourite at 43%, with Stoke City at 30% and the draw at 27%. Cardiff’s listed Championship results date from 2025, so they are history as the club returns to this level. That sequence contained three draws and three defeats. Stoke’s six listed 2026 matches brought one draw and five defeats, with three games in which they failed to score. The latest meeting ended in a 1-0 Stoke win, while three of the previous four meetings were drawn. The total-goals forecast leans slightly towards over 2.5 at 54%, compared with 46% for under 2.5.",
-   "preview_generated_at": "2026-09-06T02:00:39Z",
-   "preview_zh": "Oracle90稍微看好 Cardiff City，預測其獲勝機率為43%，Stoke City 為30%，平手為27%。Cardiff City 列出的英格蘭冠軍足球聯賽賽果均來自2025年，因此隨著球隊重返此級別，這些紀錄已成過往。該段賽程包含三場平手及三場敗仗。Stoke City 列出的六場2026年比賽則取得一場平手及五場敗仗，其中三場未能進球。兩隊最近一次交手由 Stoke City 以1比0獲勝，而此前四次交手中有三場戰成平手。總進球數預測略微傾向三球以上，機率為54%，兩球以下則為46%。",
-   "preview_zh_generated_at": "2026-09-06T02:07:04Z"
+   "final": true,
+   "finalised_at": "2026-09-08T16:45:00Z"
   },
   {
    "kickoff": "2026-09-08T18:45:00Z",
    "home": "Watford",
    "away": "Preston North End",
    "probs": {
-    "home": 0.4508,
-    "draw": 0.2745,
-    "away": 0.2748
+    "home": 0.4608,
+    "draw": 0.2734,
+    "away": 0.2659
    },
    "market_anchored": true,
    "model_backed": true,
    "market_probs": {
-    "home": 0.4453,
-    "draw": 0.2752,
-    "away": 0.2794
+    "home": 0.4578,
+    "draw": 0.2739,
+    "away": 0.2682
    },
-   "books": 15,
-   "overround": 7.72,
+   "books": 21,
+   "overround": 6.55,
    "ou25": {
-    "over": 0.4862,
-    "under": 0.5138
+    "over": 0.4899,
+    "under": 0.5101
    },
-   "preview": "The model favours a Watford win at 45%, with both the draw and a Preston North End win at 27%. Watford ended last season with five consecutive defeats, failing to score in four of them, while Preston recorded two away wins across their final three trips. Recent meetings offer Preston some encouragement: Watford have not won any of the last five encounters, although the two most recent finished level, 2-2 and 1-1. Overall, the home side has a measured advantage in what remains a competitive forecast. The total-goals assessment is almost even, with under 2.5 goals narrowly preferred at 51% to over 2.5 at 49%.",
-   "preview_generated_at": "2026-09-06T02:00:39Z",
-   "preview_zh": "模型預測 Watford 獲勝的機率為45%，平局與 Preston North End 獲勝的機率均為27%。Watford 上賽季以五連敗收尾，其中四場未能進球；Preston 則在最後三場客場賽事中贏得兩場。近期交手紀錄為 Preston 帶來一些信心：Watford 在最近五次交鋒中皆未獲勝，不過最近兩場分別以2比2及1比1戰平。整體而言，這場實力接近的比賽中，主隊略占優勢。總進球數的預測幾乎持平，少於2.5球的機率為51%，略高於多於2.5球的49%。",
-   "preview_zh_generated_at": "2026-09-06T02:07:04Z"
+   "final": true,
+   "finalised_at": "2026-09-08T16:45:00Z"
   },
   {
    "kickoff": "2026-09-08T18:45:00Z",
    "home": "Southampton",
    "away": "Swansea City",
    "probs": {
-    "home": 0.5162,
-    "draw": 0.2576,
-    "away": 0.2262
+    "home": 0.5277,
+    "draw": 0.2511,
+    "away": 0.2212
    },
    "market_anchored": true,
    "model_backed": true,
    "market_probs": {
-    "home": 0.4974,
-    "draw": 0.2632,
-    "away": 0.2394
+    "home": 0.5119,
+    "draw": 0.2551,
+    "away": 0.233
    },
-   "books": 10,
-   "overround": 9.5,
+   "books": 22,
+   "overround": 6.52,
    "ou25": {
-    "over": 0.5067,
-    "under": 0.4933
+    "over": 0.5446,
+    "under": 0.4554
    },
-   "preview": "The model favours Southampton, but only moderately, with a 52% home-win probability. The draw is rated at 26% and a Swansea City win at 23%, so the visitors retain a meaningful chance. Southampton ended last season with four wins and two draws from their final six listed matches, scoring at least twice in each. Swansea also finished steadily, with three wins and two draws across their last six. Southampton won 2-1 at Swansea in April and are unbeaten in the five recent meetings supplied. The total-goals forecast is nearly even, with a slight lean towards over 2.5 goals at 51%, compared with 49% for under 2.5.",
-   "preview_generated_at": "2026-09-06T02:00:39Z",
-   "preview_zh": "模型較看好 Southampton，但優勢僅屬中等，主場獲勝機率為52%。平局機率為26%，Swansea City 獲勝機率為23%，因此客隊仍有相當的取勝機會。Southampton 上賽季最後列出的六場比賽取得四勝兩和，每場至少攻進兩球。Swansea 同樣以穩定表現結束賽季，最近六場取得三勝兩和。Southampton 四月作客 Swansea 時以2比1獲勝，並且在所提供的近五次交手中保持不敗。全場總進球數預測相當接近，至少三球的機率略高，為51%，不超過兩球的機率則為49%。",
-   "preview_zh_generated_at": "2026-09-06T02:07:04Z"
+   "final": true,
+   "finalised_at": "2026-09-08T16:45:00Z"
   },
   {
    "kickoff": "2026-09-08T19:00:00Z",
